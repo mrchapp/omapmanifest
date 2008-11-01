@@ -3,6 +3,8 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
+  <remote  name="omap"
+           fetch="git://git.omapzoom.org/" />
   <default revision="master"
            remote="korg" />
 
@@ -10,9 +12,19 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+  <project path="vendor/ti/ldp1"
+           name="repo/android/vendor/ti/ldp1" remote="omap" />
+  <project path="vendor/ti/support-tools" name="repo/support-tools"
+           remote="omap" />
+  <project path="hardware/ti/omap3"
+           name="repo/android/hardware/ti/omap3" remote="omap" />
+  <project path="bootloader/u-boot" name="repo/u-boot" remote="omap" />
+  <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
+
   <project path="kernel"
-           name="kernel/common"
-           revision="refs/heads/android-2.6.25" />
+           name="repo/omapkernel"
+           revision="refs/heads/android-2.6.26"
+           remote="omap" />
 
   <project path="bionic" name="platform/bionic" />
   <project path="bootloader/legacy" name="platform/bootloader/legacy" />
