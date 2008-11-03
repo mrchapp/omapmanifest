@@ -26,6 +26,8 @@
            name="repo/android/hardware/ti/omap3" remote="omap" />
   <project path="bootloader/u-boot" name="repo/u-boot" remote="omap" />
   <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
+  <project path="hardware/enfora/edg308-ril"
+           name="repo/android/hardware/enfora/edg308-ril" remote="omap" />
 
   <project path="kernel"
            name="repo/omapkernel"
