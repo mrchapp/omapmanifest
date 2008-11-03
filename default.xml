@@ -12,6 +12,12 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+  <project path=".welcome"
+    name="repo/android/platform/omapmanifest"
+    remote="omap">
+    <copyfile src="OMAPAndroid.txt" dest="OMAPAndroid.txt" />
+  </project>
+
   <project path="vendor/ti/ldp1"
            name="repo/android/vendor/ti/ldp1" remote="omap" />
   <project path="vendor/ti/support-tools" name="repo/support-tools"
