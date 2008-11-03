@@ -1,0 +1,6 @@
+Welcome to Android on OMAP
+
+You can find an OMAP specific kernel under kernel.
+The first and second stage bootloaders (x-loader and u-boot) can be
+found in the bootloader directory
+
