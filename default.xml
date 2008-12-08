@@ -89,7 +89,9 @@
 
   <project path="external/aes" name="platform/external/aes" />
   <project path="external/apache-http" name="platform/external/apache-http" />
-  <project path="external/bluez" name="platform/external/bluez" />
+  <project path="external/bluez" name="repo/android/platform/external/bluez"
+           revision="refs/heads/pending"
+           remote="omap" />
   <project path="external/clearsilver" name="platform/external/clearsilver" />
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
