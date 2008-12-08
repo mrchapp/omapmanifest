@@ -20,6 +20,8 @@
 
   <project path="vendor/ti/ldp1"
            name="repo/android/vendor/ti/ldp1" remote="omap" />
+  <project path="vendor/ti/zoom2"
+           name="repo/android/vendor/ti/zoom2" remote="omap" />
   <project path="vendor/ti/support-tools" name="repo/support-tools"
            remote="omap" />
   <project path="hardware/ti/omap3"
@@ -33,7 +35,7 @@
 
   <project path="kernel"
            name="repo/omapkernel"
-           revision="refs/heads/android-2.6.26"
+           revision="refs/heads/android-2.6.27"
            remote="omap" />
 
   <project path="bionic" name="platform/bionic" />
