@@ -1,4 +1,4 @@
-Welcome to Android on OMAP
+Welcome to Android on OMAP (cupcake release)
 
 You can find an OMAP specific kernel under kernel.
 The first and second stage bootloaders (x-loader and u-boot) can be
