@@ -3,16 +3,42 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
+  <remote  name="omap"
+           fetch="git://git.omapzoom.org/" />
   <default revision="release-1.0"
            remote="korg" />
+  <default revision="release-1.0"
+           remote="omap" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+  <project path=".welcome"
+    name="repo/android/platform/omapmanifest"
+    remote="omap">
+    <copyfile src="OMAPAndroid.txt" dest="OMAPAndroid.txt" />
+  </project>
+
+  <project path="vendor/ti/ldp1"
+           name="repo/android/vendor/ti/ldp1" remote="omap" />
+  <project path="vendor/ti/zoom2"
+           name="repo/android/vendor/ti/zoom2" remote="omap" />
+  <project path="vendor/ti/support-tools" name="repo/support-tools"
+           remote="omap" />
+  <project path="hardware/ti/omap3"
+           name="repo/android/hardware/ti/omap3" remote="omap" />
+  <project path="hardware/ti/omx"
+           name="repo/android/hardware/ti/omx" remote="omap" />
+  <project path="bootloader/u-boot" name="repo/u-boot" remote="omap" />
+  <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
+  <project path="hardware/enfora/edg308-ril"
+           name="repo/android/hardware/enfora/edg308-ril" remote="omap" />
+
   <project path="kernel"
-           name="kernel/common"
-           revision="refs/heads/android-2.6.25" />
+           name="repo/omapkernel"
+           revision="refs/heads/android-2.6.27"
+           remote="omap" />
 
   <project path="bionic" name="platform/bionic" />
   <project path="bootloader/legacy" name="platform/bootloader/legacy" />
@@ -65,7 +91,9 @@
 
   <project path="external/aes" name="platform/external/aes" />
   <project path="external/apache-http" name="platform/external/apache-http" />
-  <project path="external/bluez" name="platform/external/bluez" />
+  <project path="external/bluez" name="repo/android/platform/external/bluez"
+           revision="refs/heads/pending"
+           remote="omap" />
   <project path="external/clearsilver" name="platform/external/clearsilver" />
   <project path="external/dbus" name="platform/external/dbus" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
@@ -92,7 +120,10 @@
   <project path="external/netcat" name="platform/external/netcat" />
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
-  <project path="external/opencore" name="platform/external/opencore" />
+  <project path="external/opencore"
+           name="repo/android/platform/external/opencore"
+           revision="refs/heads/pending"
+           remote="omap" />
   <project path="external/openssl" name="platform/external/openssl" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
@@ -100,7 +131,10 @@
   <project path="external/protobuf" name="platform/external/protobuf" />
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
-  <project path="external/skia" name="platform/external/skia" />
+  <project path="external/skia"
+           name="repo/android/platform/external/skia"
+           revision="refs/heads/pending"
+           remote="omap" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
