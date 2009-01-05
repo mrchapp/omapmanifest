@@ -50,7 +50,10 @@
   <project path="frameworks/opt/com.google.android" name="platform/frameworks/opt/com.google.android" />
   <project path="frameworks/opt/com.google.android.googlelogin" name="platform/frameworks/opt/com.google.android.googlelogin" />
   <project path="frameworks/policies/base" name="platform/frameworks/policies/base" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" />
+  <project path="hardware/libhardware"
+           name="repo/android/platform/hardware/libhardware"
+           revision="refs/heads/pending"
+           remote="omap"/>
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="prebuilt" name="platform/prebuilt" />
 
@@ -156,7 +159,10 @@
   <project path="external/tinyxml" name="platform/external/tinyxml" />
   <project path="external/tremor" name="platform/external/tremor" />
   <project path="external/webkit" name="platform/external/webkit" />
-  <project path="external/wpa_supplicant" name="platform/external/wpa_supplicant" />
+  <project path="external/wpa_supplicant"
+           name="repo/android/platform/external/wpa_supplicant"
+           revision="refs/heads/pending"
+           remote="omap" />
   <project path="external/xdelta3" name="platform/external/xdelta3" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
