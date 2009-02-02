@@ -4,7 +4,8 @@
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
   <remote  name="omap"
-           fetch="git://git.omapzoom.org/" />
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
   <default revision="master"
            remote="korg" />
 
