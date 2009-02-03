@@ -20,19 +20,19 @@
   </project>
 
   <project path="vendor/ti/ldp1"
-           name="repo/android/vendor/ti/ldp1" remote="omap" />
+           name="platform/vendor/ti/ldp1" remote="omap" />
   <project path="vendor/ti/zoom2"
-           name="repo/android/vendor/ti/zoom2" remote="omap" />
+           name="platform/vendor/ti/zoom2" remote="omap" />
   <project path="vendor/ti/support-tools" name="repo/support-tools"
            remote="omap" />
   <project path="hardware/ti/omap3"
-           name="repo/android/hardware/ti/omap3" remote="omap" />
+           name="platform/hardware/ti/omap3" remote="omap" />
   <project path="hardware/ti/omx"
-           name="repo/android/hardware/ti/omx" remote="omap" />
+           name="platform/hardware/ti/omx" remote="omap" />
   <project path="bootloader/u-boot" name="repo/u-boot" remote="omap" />
   <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
   <project path="hardware/enfora/edg308-ril"
-           name="repo/android/hardware/enfora/edg308-ril" remote="omap" />
+           name="platform/hardware/enfora/edg308-ril" remote="omap" />
 
   <project path="kernel"
            name="repo/omapkernel"
