@@ -11,8 +11,8 @@
           <copyfile dest="OMAPAndroid.txt" src="OMAPAndroid.txt"/>      
       </project>    
 
-      <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="8ec0897b8ad499d464c49cf0ce82d449e7e985db"/>    
-      <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="b04eedcaaf17ef918191905bd0ee7bce62f069da"/>    
+      <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="5d8e4b15d28add6ab6c36861ec5b0edc898bd48f"/>    
+      <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="97c559c901871bea478daaa7431027f31e060fdc"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
       <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="5ed071cb68e23e5eee1582a75674fb095b5a94b4"/>    
       <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="2ed3a112a5c5d93c8431565ef52abe97af29ef44"/>    
