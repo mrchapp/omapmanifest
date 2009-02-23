@@ -7,20 +7,21 @@
           <copyfile dest="Makefile" src="core/root.mk"/>      
       </project>    
 
-      <project name="repo/android/platform/omapmanifest" path=".welcome" remote="omap" revision="cb62097af2bcc1c734bbf3aa4e182c451aaf4f6e">      
+      <project name="repo/android/platform/omapmanifest" path=".welcome" remote="omap" revision="5cf8c13267d8213fcf350ec5df148d45314a2daf">      
           <copyfile dest="OMAPAndroid.txt" src="OMAPAndroid.txt"/>      
+          <copyfile dest=".repo/repo/make_baseline.py" src="make_baseline.py"/>      
       </project>    
 
       <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="5d8e4b15d28add6ab6c36861ec5b0edc898bd48f"/>    
       <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="97c559c901871bea478daaa7431027f31e060fdc"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
-      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="5ed071cb68e23e5eee1582a75674fb095b5a94b4"/>    
-      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="2ed3a112a5c5d93c8431565ef52abe97af29ef44"/>    
-      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="3ab356b980ffc97562499b1d73a98bf6e562664a"/>    
+      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="d12aa8143efac49fef51210e9ab3f8ae6699b8f4"/>    
+      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="156b9daa366b9eb802effa4c9e37f77312e13ac4"/>    
+      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="a58d28f28de66ea47ed550a566d26bba126c438f"/>    
       <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="874ed13c03e33c3cc38cbc50f1acc295a52dcdb1"/>    
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
 
-      <project name="repo/omapkernel" path="kernel" remote="omap" revision="4a14e0a196e590d576450e365570388fe6f17c44"/>    
+      <project name="repo/omapkernel" path="kernel" remote="omap" revision="aa5afcdbddd3b6d6ef713e67f48fb39a7bef6cd9"/>    
 
       <project name="platform/bionic" path="bionic" revision="c2f23bb1cdea20fc5e8e5b8101d9d0bd6d14b74b"/>    
 
@@ -113,7 +114,7 @@
       <project name="platform/external/netcat" path="external/netcat" revision="6fc2e7182a81d3665e5233a6555fc6c1960b6b8a"/>    
       <project name="platform/external/netperf" path="external/netperf" revision="acbeb739a2260972afbd58233fc8939fe5014e3c"/>    
       <project name="platform/external/neven" path="external/neven" revision="dfddd36f99a6e11ca3b0107b49f35c623203c8f2"/>    
-      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="957e7a2072adc727372365fd1c2bbc36c9cc35c7"/>    
+      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="03432ad452ffd3b1b3a9d57bbd9737313b71f84b"/>    
       <project name="platform/external/openssl" path="external/openssl" revision="499ee9f31d10290f510c2f3785b6abe1314993ec"/>    
       <project name="platform/external/oprofile" path="external/oprofile" revision="b0a81c270584f10323634816b6e5e19711690233"/>    
       <project name="platform/external/ping" path="external/ping" revision="8a5b42ad26815061053bc553b2d04fcbbce5f9d0"/>    
