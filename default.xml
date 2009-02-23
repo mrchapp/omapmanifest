@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="korg"
-           fetch="git://android.git.kernel.org/"
+  <remote  name="omap-mirror"
+           fetch="git://git.omapzoom.org/"
            review="review.source.android.com" />
   <remote  name="omap"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
   <default revision="master"
-           remote="korg" />
+           remote="omap-mirror" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -17,6 +17,8 @@
     name="repo/android/platform/omapmanifest"
     remote="omap">
     <copyfile src="OMAPAndroid.txt" dest="OMAPAndroid.txt" />
+    <copyfile src="make_baseline.py"
+       dest=".repo/repo/make_baseline.py" />
   </project>
 
   <project path="vendor/ti/ldp1"
