@@ -35,6 +35,8 @@
   <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
   <project path="hardware/enfora/edg308-ril"
            name="platform/hardware/enfora/edg308-ril" remote="omap" />
+  <project path="hardware/idcc/6071-ril"
+           name="platform/hardware/idcc/6071-ril" remote="omap" />
 
   <project path="kernel"
            name="repo/omapkernel"
