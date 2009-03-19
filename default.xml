@@ -13,10 +13,10 @@
       </project>    
 
       <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="dc5d40c5f074bf15f0012747df1dea98d2ac3b2c"/>    
-      <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="b0c271b0e7bd8bd226cc3394bca4fa04a4da9f5f"/>    
+      <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="bd912e2a2fdef3c96c187b46341c9c97461749f1"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
-      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="c5dda6ddc93c7b24bbad43d78671c18beff11724"/>    
-      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="6788857ea9024dc9970688cd071c056f3a042f70"/>    
+      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="ced28473229db17ce8017473f833e2dac16fec8b"/>    
+      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="7b7eb8e5399a372b793bf1b3b71ae0b7c130a824"/>    
       <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="37dc1c55a8c41f67f590d02bd5a24b3e529fedda"/>    
       <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>    
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
