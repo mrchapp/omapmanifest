@@ -15,14 +15,14 @@
       <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="dc5d40c5f074bf15f0012747df1dea98d2ac3b2c"/>    
       <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="bd912e2a2fdef3c96c187b46341c9c97461749f1"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
-      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="ced28473229db17ce8017473f833e2dac16fec8b"/>    
-      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="7b7eb8e5399a372b793bf1b3b71ae0b7c130a824"/>    
-      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="37dc1c55a8c41f67f590d02bd5a24b3e529fedda"/>    
+      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="e3a9a701e27596af8fe2791d93ff7558ec2d0b59"/>    
+      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="3b4feee1e3903dcc4f74099c69ff44db16e5d39d"/>    
+      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="17cbb6e755d6979502d74d5180074ce6420671d6"/>    
       <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>    
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
       <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="45775afc3f74cf55f39abde484a3b9ddd431b17d"/>    
 
-      <project name="repo/omapkernel" path="kernel" remote="omap" revision="640093104e6de760fb99c8b1b88bfeecf6c30d81"/>    
+      <project name="repo/omapkernel" path="kernel" remote="omap" revision="ed039b969ac7c0f8fecbf1c1d72aab32e3b07d2a"/>    
 
       <project name="platform/bionic" path="bionic" revision="c2f23bb1cdea20fc5e8e5b8101d9d0bd6d14b74b"/>    
 
@@ -115,7 +115,7 @@
       <project name="platform/external/netcat" path="external/netcat" revision="6fc2e7182a81d3665e5233a6555fc6c1960b6b8a"/>    
       <project name="platform/external/netperf" path="external/netperf" revision="acbeb739a2260972afbd58233fc8939fe5014e3c"/>    
       <project name="platform/external/neven" path="external/neven" revision="dfddd36f99a6e11ca3b0107b49f35c623203c8f2"/>    
-      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="adc4eed97d2ede7617313e4dae020598b2e8a719"/>    
+      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="416ead1d886273c74ecc2c0377c6588cf078671b"/>    
       <project name="platform/external/openssl" path="external/openssl" revision="499ee9f31d10290f510c2f3785b6abe1314993ec"/>    
       <project name="platform/external/oprofile" path="external/oprofile" revision="b0a81c270584f10323634816b6e5e19711690233"/>    
       <project name="platform/external/ping" path="external/ping" revision="8a5b42ad26815061053bc553b2d04fcbbce5f9d0"/>    
