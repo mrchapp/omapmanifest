@@ -13,16 +13,16 @@
       </project>    
 
       <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="dc5d40c5f074bf15f0012747df1dea98d2ac3b2c"/>    
-      <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="bd912e2a2fdef3c96c187b46341c9c97461749f1"/>    
+      <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="35d2f49884642196288cbddc746f4a7cd6b26094"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
-      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="e3a9a701e27596af8fe2791d93ff7558ec2d0b59"/>    
-      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="3b4feee1e3903dcc4f74099c69ff44db16e5d39d"/>    
-      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="17cbb6e755d6979502d74d5180074ce6420671d6"/>    
+      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="b276a97f1190b0e7107779ebdf4f4ef621d42e51"/>    
+      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="423b72424beecf1d4c225edaf9806a523f9a57d9"/>    
+      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="2909a636a82bde2374f62154ad44be93c48104e5"/>    
       <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>    
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
       <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="45775afc3f74cf55f39abde484a3b9ddd431b17d"/>    
 
-      <project name="repo/omapkernel" path="kernel" remote="omap" revision="ed039b969ac7c0f8fecbf1c1d72aab32e3b07d2a"/>    
+      <project name="repo/omapkernel" path="kernel" remote="omap" revision="09672a7c9376d1344896288a0e04ead3e14e83ef"/>    
 
       <project name="platform/bionic" path="bionic" revision="c2f23bb1cdea20fc5e8e5b8101d9d0bd6d14b74b"/>    
 
@@ -44,7 +44,7 @@
       <project name="platform/system/bluetooth" path="system/bluetooth" revision="36658369459e22152cce54bd1c0660d71a270947"/>    
       <project name="platform/system/core" path="system/core" revision="4a4c9f6f98055918f1ebff06b3cc1ed622c058fe"/>    
       <project name="platform/system/extras" path="system/extras" revision="519be3a52434fbd94c8f395eb651faa22db3eeed"/>    
-      <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap" revision="07a880962a37795334576fe4b587fbce78386292"/>    
+      <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap" revision="d5213d5b0302e97a99499e7226c842f2a30223ed"/>    
 
       <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="3690a0259f2c62501a47c9a4ecd007f1c1cc599a"/>    
       <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="ef7f8057050027ce57424b69dc697d4127ffc37d"/>    
@@ -123,7 +123,7 @@
       <project name="platform/external/protobuf" path="external/protobuf" revision="2f1917b2d9754d6288e8de2739469bf719438388"/>    
       <project name="platform/external/qemu" path="external/qemu" revision="7a5cb2bf2725afddd4ff9ede151063d23b849d94"/>    
       <project name="platform/external/safe-iop" path="external/safe-iop" revision="a625f2f303bd1e1eb8287d82075fa9a240296167"/>    
-      <project name="repo/android/platform/external/skia" path="external/skia" remote="omap" revision="022c6a0151231b53c2d506c0ae6d715d8b5561da"/>    
+      <project name="repo/android/platform/external/skia" path="external/skia" remote="omap" revision="cb706a59b5605a55a2b5ef3fb54d3b6e01573038"/>    
       <project name="platform/external/sonivox" path="external/sonivox" revision="372b906dec9f897dc04ba3bbd00c908bb2304e95"/>    
       <project name="platform/external/sqlite" path="external/sqlite" revision="60a965a2f8a63d7704130d867458495a324801e1"/>    
       <project name="platform/external/srec" path="external/srec" revision="00743dcf9e86961f3867b81ef81022040c821f18"/>    
