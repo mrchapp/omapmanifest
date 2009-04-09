@@ -7,7 +7,7 @@
           <copyfile dest="Makefile" src="core/root.mk"/>      
       </project>    
 
-      <project name="repo/android/platform/omapmanifest" path=".welcome" remote="omap" revision="fc807cb69ddb56ed3ec1addebc43f45cadfe25b0">      
+      <project name="repo/android/platform/omapmanifest" path=".welcome" remote="omap" revision="ffc799b3cdbbba0c5ea8ee5a24012658bf2e06a2">      
           <copyfile dest="OMAPAndroid.txt" src="OMAPAndroid.txt"/>      
           <copyfile dest=".repo/repo/make_baseline.py" src="make_baseline.py"/>      
       </project>    
@@ -15,14 +15,14 @@
       <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="dc5d40c5f074bf15f0012747df1dea98d2ac3b2c"/>    
       <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="35d2f49884642196288cbddc746f4a7cd6b26094"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
-      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="b276a97f1190b0e7107779ebdf4f4ef621d42e51"/>    
-      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="423b72424beecf1d4c225edaf9806a523f9a57d9"/>    
-      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="2909a636a82bde2374f62154ad44be93c48104e5"/>    
+      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="fbec8f8ba952f9e605290d0c627f65e0bfe3d50b"/>    
+      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="1c3130bf945181765e63dec71dd2dacd6cccb353"/>    
+      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="219665f5ae050dbd62d686472a49a29add0023ab"/>    
       <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>    
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
       <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="45775afc3f74cf55f39abde484a3b9ddd431b17d"/>    
 
-      <project name="repo/omapkernel" path="kernel" remote="omap" revision="09672a7c9376d1344896288a0e04ead3e14e83ef"/>    
+      <project name="repo/omapkernel" path="kernel" remote="omap" revision="009307339c23b9d3825cb93f78375fbaa0c67967"/>    
 
       <project name="platform/bionic" path="bionic" revision="c2f23bb1cdea20fc5e8e5b8101d9d0bd6d14b74b"/>    
 
