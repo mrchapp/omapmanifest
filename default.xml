@@ -15,14 +15,14 @@
       <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="dc5d40c5f074bf15f0012747df1dea98d2ac3b2c"/>    
       <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="35d2f49884642196288cbddc746f4a7cd6b26094"/>    
       <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>    
-      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="fbec8f8ba952f9e605290d0c627f65e0bfe3d50b"/>    
-      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="1c3130bf945181765e63dec71dd2dacd6cccb353"/>    
-      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="219665f5ae050dbd62d686472a49a29add0023ab"/>    
+      <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="209f3da893799400f9de96da582c2d1d96fe9b65"/>    
+      <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="9d8640ef162ac719ea876c3e67f666f51f3203c5"/>    
+      <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="219665f5ae050dbd62d686472a49a29add0023ab"/>
       <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>    
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
       <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="45775afc3f74cf55f39abde484a3b9ddd431b17d"/>    
 
-      <project name="repo/omapkernel" path="kernel" remote="omap" revision="009307339c23b9d3825cb93f78375fbaa0c67967"/>    
+      <project name="repo/omapkernel" path="kernel" remote="omap" revision="5a13d4fef197425ff88f54baf8f424237eb2ccf0"/>    
 
       <project name="platform/bionic" path="bionic" revision="c2f23bb1cdea20fc5e8e5b8101d9d0bd6d14b74b"/>    
 
@@ -44,7 +44,7 @@
       <project name="platform/system/bluetooth" path="system/bluetooth" revision="36658369459e22152cce54bd1c0660d71a270947"/>    
       <project name="platform/system/core" path="system/core" revision="4a4c9f6f98055918f1ebff06b3cc1ed622c058fe"/>    
       <project name="platform/system/extras" path="system/extras" revision="519be3a52434fbd94c8f395eb651faa22db3eeed"/>    
-      <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap" revision="d5213d5b0302e97a99499e7226c842f2a30223ed"/>    
+      <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap" revision="9f80ddc7788fa4ffcebbb9dca7cb420311fc9edd"/>    
 
       <project name="platform/packages/providers/CalendarProvider" path="packages/providers/CalendarProvider" revision="3690a0259f2c62501a47c9a4ecd007f1c1cc599a"/>    
       <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="ef7f8057050027ce57424b69dc697d4127ffc37d"/>    
@@ -115,7 +115,7 @@
       <project name="platform/external/netcat" path="external/netcat" revision="6fc2e7182a81d3665e5233a6555fc6c1960b6b8a"/>    
       <project name="platform/external/netperf" path="external/netperf" revision="acbeb739a2260972afbd58233fc8939fe5014e3c"/>    
       <project name="platform/external/neven" path="external/neven" revision="dfddd36f99a6e11ca3b0107b49f35c623203c8f2"/>    
-      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="416ead1d886273c74ecc2c0377c6588cf078671b"/>    
+      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="0832a57ba8a3c2e48a5cd3995dbe83e0744ededc"/>    
       <project name="platform/external/openssl" path="external/openssl" revision="499ee9f31d10290f510c2f3785b6abe1314993ec"/>    
       <project name="platform/external/oprofile" path="external/oprofile" revision="b0a81c270584f10323634816b6e5e19711690233"/>    
       <project name="platform/external/ping" path="external/ping" revision="8a5b42ad26815061053bc553b2d04fcbbce5f9d0"/>    
