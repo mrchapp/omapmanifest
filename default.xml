@@ -22,7 +22,7 @@
       <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>    
       <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="45775afc3f74cf55f39abde484a3b9ddd431b17d"/>    
 
-      <project name="repo/omapkernel" path="kernel" remote="omap" revision="b27684bd17cf66c21d1b6dea760fc4818365ef11"/>    
+      <project name="repo/omapkernel" path="kernel" remote="omap" revision="9883ae5cc1d013641f315056c7a664236e90f20f"/>    
 
       <project name="platform/bionic" path="bionic" revision="c2f23bb1cdea20fc5e8e5b8101d9d0bd6d14b74b"/>    
 
@@ -115,7 +115,7 @@
       <project name="platform/external/netcat" path="external/netcat" revision="6fc2e7182a81d3665e5233a6555fc6c1960b6b8a"/>    
       <project name="platform/external/netperf" path="external/netperf" revision="acbeb739a2260972afbd58233fc8939fe5014e3c"/>    
       <project name="platform/external/neven" path="external/neven" revision="dfddd36f99a6e11ca3b0107b49f35c623203c8f2"/>    
-      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="76cd3edb3ac8e7e2761de2c38c73c3ca62a84584"/>    
+      <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap" revision="0832a57ba8a3c2e48a5cd3995dbe83e0744ededc"/>    
       <project name="platform/external/openssl" path="external/openssl" revision="499ee9f31d10290f510c2f3785b6abe1314993ec"/>    
       <project name="platform/external/oprofile" path="external/oprofile" revision="b0a81c270584f10323634816b6e5e19711690233"/>    
       <project name="platform/external/ping" path="external/ping" revision="8a5b42ad26815061053bc553b2d04fcbbce5f9d0"/>    
