@@ -6,6 +6,9 @@
   <remote  name="omap"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
+  <remote  name="omap-patch"
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
   <default revision="master"
            remote="omap-mirror" />
 
@@ -38,7 +41,7 @@
   <project path="hardware/idcc/6071-ril"
            name="platform/hardware/idcc/6071-ril" remote="omap" />
 
-  <project path="kernel"
+  <project path="kernel/android-2.6.27"
            name="repo/omapkernel"
            revision="refs/heads/android-2.6.27"
            remote="omap" />
@@ -60,7 +63,7 @@
   <project path="hardware/libhardware_legacy"
            name="repo/android/platform/hardware/libhardware_legacy"
            revision="refs/heads/pending"
-           remote="omap"/>
+           remote="omap-patch"/>
   <project path="hardware/ril" name="platform/hardware/ril" />
   <project path="prebuilt" name="platform/prebuilt" />
 
@@ -69,7 +72,7 @@
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/wlan/ti" name="repo/android/system/wlan/ti" 
            revision="refs/heads/pending"
-           remote="omap"/>
+           remote="omap-patch"/>
 
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" />
@@ -110,7 +113,7 @@
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/bluez" name="repo/android/platform/external/bluez"
            revision="refs/heads/pending"
-           remote="omap" />
+           remote="omap-patch" />
   <project path="external/bison" name="platform/external/bison" />
   <project path="external/bsdiff" name="platform/external/bsdiff" />
   <project path="external/bzip2" name="platform/external/bzip2" />
@@ -148,7 +151,7 @@
   <project path="external/opencore"
            name="repo/android/platform/external/opencore"
            revision="refs/heads/opencore-2x"
-           remote="omap" />
+           remote="omap-patch" />
   <project path="external/openssl" name="platform/external/openssl" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
@@ -159,7 +162,7 @@
   <project path="external/skia"
            name="repo/android/platform/external/skia"
            revision="refs/heads/pending"
-           remote="omap" />
+           remote="omap-patch" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
@@ -172,7 +175,7 @@
   <project path="external/wpa_supplicant"
            name="repo/android/platform/external/wpa_supplicant"
            revision="refs/heads/pending"
-           remote="omap" />
+           remote="omap-patch" />
   <project path="external/xdelta3" name="platform/external/xdelta3" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
