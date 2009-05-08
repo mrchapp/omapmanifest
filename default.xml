@@ -17,7 +17,7 @@
   </project>
 
   <project path=".welcome"
-    name="repo/android/platform/omapmanifest"
+    name="platform/omapmanifest"
     remote="omap">
     <copyfile src="OMAPAndroid.txt" dest="OMAPAndroid.txt" />
     <copyfile src="make_baseline.py"
