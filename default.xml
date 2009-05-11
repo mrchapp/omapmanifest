@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <remote  name="korg"
+           fetch="git://android.git.kernel.org/"
+           review="review.source.android.com" />
   <remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
            review="review.source.android.com" />
@@ -45,6 +48,10 @@
            name="repo/omapkernel"
            revision="refs/heads/android-2.6.27"
            remote="omap" />
+  <project path="kernel/android-2.6.29"
+           name="kernel/omap"
+           revision="refs/heads/android-omap-2.6.29"
+           remote="korg" />
 
   <project path="bionic" name="platform/bionic" />
 
