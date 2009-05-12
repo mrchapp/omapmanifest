@@ -156,7 +156,9 @@
   <project path="external/netperf" name="platform/external/netperf" />
   <project path="external/neven" name="platform/external/neven" />
   <project path="external/opencore"
-           name="platform/external/opencore" />
+           name="repo/android/platform/external/opencore" 
+           revision="refs/heads/opencore-2x"
+           remote="omap-patch" />
   <project path="external/openssl" name="platform/external/openssl" />
   <project path="external/oprofile" name="platform/external/oprofile" />
   <project path="external/ping" name="platform/external/ping" />
@@ -165,7 +167,9 @@
   <project path="external/qemu" name="platform/external/qemu" />
   <project path="external/safe-iop" name="platform/external/safe-iop" />
   <project path="external/skia"
-           name="platform/external/skia" />
+           name="repo/android/platform/external/skia" 
+           revision="refs/heads/pending"
+           remote="omap-patch" />
   <project path="external/sonivox" name="platform/external/sonivox" />
   <project path="external/sqlite" name="platform/external/sqlite" />
   <project path="external/srec" name="platform/external/srec" />
