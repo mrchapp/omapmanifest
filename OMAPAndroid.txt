@@ -4,3 +4,10 @@ You can find an OMAP specific kernel under kernel.
 The first and second stage bootloaders (x-loader and u-boot) can be
 found in the bootloader directory
 
+Support, guides, and additional info can be found at
+http://android.omapzoom.org
+
+You can snapshot any current build with the following command
+repo manifest -o output_file.xml -r
+
+
