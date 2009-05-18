@@ -81,7 +81,7 @@
   <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="ed457caab199f387369c3a67f541c04c2894c795"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a1f161f4103b68862956c75764c09ab0855488ff"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="0891de9450bd1f49c7c60e311f38f0d0f9547e72"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="710c73f76bb822ca794b811dad8ea7aa4629fa67"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="08bc2bb5a957ae3c89af8875588d19ccea28b967"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="05b396b9ac06964a55ead00e1510f0f901bf49df"/>
   <project name="platform/omapmanifest" path=".welcome" remote="omap" revision="ed32da912423496fedfd7927ac38049fe25f446d">
     <copyfile dest="OMAPAndroid.txt" src="OMAPAndroid.txt"/>
