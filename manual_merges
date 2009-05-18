@@ -1,0 +1,37 @@
+# commands to run manually
+
+cd $MYDROID/bionic
+git pull git://android.git.kernel.org/platform/bionic refs/changes/71/9671/1
+
+cd $MYDROID/hardware/libhardware
+git pull git://android.git.kernel.org/platform/hardware/libhardware refs/changes/88/9888/1
+
+cd $MYDROID/frameworks/base
+git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/89/9889/1
+git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/90/9890/1
+git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/95/9895/1
+
+cd $MYDROID/hardware/libhardware
+git pull git://android.git.kernel.org/platform/hardware/libhardware refs/changes/99/9899/1
+
+cd $MYDROID/frameworks/base
+git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/00/9900/1
+git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/03/9903/1
+
+cd $MYDROID/frameworks/base
+git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/87/9887/1
+
+cd $MYDROID/frameworks/base
+t pull git://android.git.kernel.org/platform/frameworks/base refs/changes/58/9958/1
+
+#cd $MYDROID/build
+#git pull git://android.git.kernel.org/platform/build refs/changes/01/9901/1
+
+cd $MYDROID/hardware/ti/omap3
+git pull git://git.omapzoom.org/platform/hardware/ti/omap3 refs/changes/42/342/1
+git pull git://git.omapzoom.org/platform/hardware/ti/omap3 refs/changes/43/343/1
+git pull git://git.omapzoom.org/platform/hardware/ti/omap3 refs/changes/49/349/1
+
+#cd $MYDROID/hardware/ti/omx
+#git pull git://git.omapzoom.org/platform/hardware/ti/omap3 refs/changes/51/351/1
+#git pull git://git.omapzoom.org/platform/hardware/ti/omx refs/changes/52/352/1
