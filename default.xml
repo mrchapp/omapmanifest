@@ -8,7 +8,7 @@
   <default remote="omap-mirror" revision="master"/>
   
   <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="da7953c5aee349996eafb4c0daa68054cb9b992d"/>
-  <project name="platform/bionic" path="bionic" revision="e5f6005548afeec416623349df8eae469c70dfd7"/>
+  <project name="platform/bionic" path="bionic" revision="90ec5f2a3f581927ffef55733e8d531890fdc90e"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="86dcb678f30c588a31321f27af873d7ba2dacfb9"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8a5bf5700b673c70c1075621ca54c7fddbe9197f"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="b2b467c757ed5db6b91c6f5b53a3476fb9c92782"/>
@@ -72,14 +72,14 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="65fb2b2df617551c42d9bdf7b5bc88168ce6f1ff"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="d24d8b6057a4f363dad147447910e03a0270b183"/>
   <project name="platform/external/zlib" path="external/zlib" revision="82ffbd8087f586bfa2196914287245a4cdc9f810"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="dda49b9e9533cb696a0d294e6871c1890e04adb7"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="b80676747d553cacc802e41bc812c8756fb4e588"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="7e12826d58454d3bade238e3b2c43fe402278f19"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="5399f6f081fb49ca8ca0de590e1bdb8be4fd9720"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="68109164d1c62c31c36207137b1cfd86052ce51a"/>
   <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" remote="omap" revision="5bce28bd0e025ed2d2592bb07f7a0a8f66c43cda"/>
   <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="ed457caab199f387369c3a67f541c04c2894c795"/>
-  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a1f161f4103b68862956c75764c09ab0855488ff"/>
+  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a60b1dd605f10335588926164d72ba021be651d5"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="0891de9450bd1f49c7c60e311f38f0d0f9547e72"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="08bc2bb5a957ae3c89af8875588d19ccea28b967"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="05b396b9ac06964a55ead00e1510f0f901bf49df"/>
