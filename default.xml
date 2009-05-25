@@ -2,10 +2,10 @@
 <manifest>
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
-           review="review.source.android.com" />
+           review="review.omapzoom.org" />
   <remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
-           review="review.source.android.com" />
+           review="review.omapzoom.org" />
   <remote  name="omap"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
