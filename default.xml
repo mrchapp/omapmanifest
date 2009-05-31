@@ -155,7 +155,7 @@
   <project path="external/neven" name="platform/external/neven" />
   <project path="external/opencore"
            name="repo/android/platform/external/opencore" 
-           revision="refs/heads/opencore-2x"
+           revision="refs/heads/opencore-204"
            remote="omap-patch" />
   <project path="external/openssl" name="platform/external/openssl" />
   <project path="external/oprofile" name="platform/external/oprofile" />
