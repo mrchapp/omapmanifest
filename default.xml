@@ -19,36 +19,9 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path=".welcome"
-    name="platform/omapmanifest"
-    remote="omap">
-    <copyfile src="OMAPAndroid.txt" dest="OMAPAndroid.txt" />
-  </project>
-
-  <project path="vendor/ti/ldp1"
-           name="platform/vendor/ti/ldp1" remote="omap" />
-  <project path="vendor/ti/zoom2"
-           name="platform/vendor/ti/zoom2" remote="omap" />
-  <project path="vendor/ti/support-tools" name="repo/support-tools"
-           remote="omap" />
-  <project path="hardware/ti/omap3"
-           name="platform/hardware/ti/omap3" remote="omap" />
-  <project path="hardware/ti/omx"
-           name="platform/hardware/ti/omx" remote="omap" />
-  <project path="bootloader/u-boot" name="repo/u-boot" remote="omap" />
-  <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
-  <project path="hardware/enfora/edg308-ril"
-           name="platform/hardware/enfora/edg308-ril" remote="omap" />
-  <project path="hardware/idcc/6071-ril"
-           name="platform/hardware/idcc/6071-ril" remote="omap" />
-
-  <project path="kernel/android-2.6.27"
-           name="repo/omapkernel"
+  <project path="kernel"
+           name="kernel/common"
            revision="refs/heads/android-2.6.27"
-           remote="omap" />
-  <project path="kernel/android-2.6.29"
-           name="kernel/omap"
-           revision="refs/heads/android-omap-2.6.29"
            remote="korg" />
 
   <project path="bionic" name="platform/bionic" />
@@ -184,4 +157,31 @@
   <project path="external/xdelta3" name="platform/external/xdelta3" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
+
+  <project path="kernel/android-2.6.27"
+           name="repo/omapkernel"
+           revision="refs/heads/android-2.6.27"
+           remote="omap" />
+  <project path="kernel/android-2.6.29"
+           name="kernel/omap"
+           revision="refs/heads/android-omap-2.6.29"
+           remote="korg" />
+
+  <project path="vendor/ti/ldp1"
+           name="platform/vendor/ti/ldp1" remote="omap" />
+  <project path="vendor/ti/zoom2"
+           name="platform/vendor/ti/zoom2" remote="omap" />
+  <project path="vendor/ti/support-tools" name="repo/support-tools"
+           remote="omap" />
+  <project path="hardware/ti/omap3"
+           name="platform/hardware/ti/omap3" remote="omap" />
+  <project path="hardware/ti/omx"
+           name="platform/hardware/ti/omx" remote="omap" />
+  <project path="bootloader/u-boot" name="repo/u-boot" remote="omap" />
+  <project path="bootloader/x-loader" name="repo/x-loader" remote="omap" />
+  <project path="hardware/enfora/edg308-ril"
+           name="platform/hardware/enfora/edg308-ril" remote="omap" />
+  <project path="hardware/idcc/6071-ril"
+           name="platform/hardware/idcc/6071-ril" remote="omap" />
+
 </manifest>
