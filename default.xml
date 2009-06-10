@@ -19,10 +19,12 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+<!--
   <project path="kernel"
            name="kernel/common"
            revision="refs/heads/android-2.6.27"
            remote="korg" />
+-->
 
   <project path="bionic" name="platform/bionic" />
 
@@ -184,4 +186,12 @@
   <project path="hardware/idcc/6071-ril"
            name="platform/hardware/idcc/6071-ril" remote="omap" />
 
+  <project path="external/alsa-lib" name="platform/external/alsa-lib" 
+           revision="refs/heads/master" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils"
+           revision="refs/heads/master" />
+<!--
+  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound"
+           revision="refs/heads/master" />
+-->
 </manifest>
