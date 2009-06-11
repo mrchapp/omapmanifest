@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="git://android.git.kernel.org/" name="korg" review="review.source.android.com"/>
+  <remote fetch="git://android.git.kernel.org/" name="korg" review="review.omapzoom.org"/>
   <remote fetch="git://git.omapzoom.org/" name="omap" review="review.omapzoom.org"/>
-  <remote fetch="git://git.omapzoom.org/" name="omap-mirror" review="review.source.android.com"/>
+  <remote fetch="git://git.omapzoom.org/" name="omap-mirror" review="review.omapzoom.org"/>
   <remote fetch="git://git.omapzoom.org/" name="omap-patch" review="review.omapzoom.org"/>
   
   <default remote="omap-mirror" revision="master"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="da7953c5aee349996eafb4c0daa68054cb9b992d"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="5f7a3b4e55d0bc893a186863248bd6f21ecb17f8"/>
   <project name="platform/bionic" path="bionic" revision="90ec5f2a3f581927ffef55733e8d531890fdc90e"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="86dcb678f30c588a31321f27af873d7ba2dacfb9"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8a5bf5700b673c70c1075621ca54c7fddbe9197f"/>
@@ -15,9 +15,11 @@
   <project name="platform/build" path="build" revision="98dce16df0356a5d43b1c6e201bceba0ce453202">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
-  <project name="platform/dalvik" path="dalvik" revision="eab2645a76fa91a73d77dc25c3df2be4108ca843"/>
-  <project name="platform/development" path="development" revision="6b65033cf55d2bcf6f8181789f1abe67863872b3"/>
+  <project name="platform/dalvik" path="dalvik" revision="ca807d6e5d828787e06588af109941cfbbbffef7"/>
+  <project name="platform/development" path="development" revision="a42091afb7b122c753f9050ff5dbcb792eb36a78"/>
   <project name="platform/external/aes" path="external/aes" revision="dc0fc1d14d04882c14377adc7bf352ada3170dae"/>
+  <project name="platform/external/alsa-lib" path="external/alsa-lib" revision="8cc17854263f1cd30e4ef852ae13a010ab170a2f"/>
+  <project name="platform/external/alsa-utils" path="external/alsa-utils" revision="bad07a4fb2d4b29be07b59c77f74b8af0dce3437"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="b7fe0a72d7d3fed87adf872883d4d6d95b17069f"/>
   <project name="platform/external/bison" path="external/bison" revision="f869c0faa0472b7529a8cf3a649d2c3e24875102"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="782d3581cb6057d55030f30a0e3ee35d19e95737"/>
@@ -72,7 +74,7 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="65fb2b2df617551c42d9bdf7b5bc88168ce6f1ff"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="d24d8b6057a4f363dad147447910e03a0270b183"/>
   <project name="platform/external/zlib" path="external/zlib" revision="82ffbd8087f586bfa2196914287245a4cdc9f810"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="b80676747d553cacc802e41bc812c8756fb4e588"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="9b90fd4fa11eb32403f99c60d23abe4d9c5bf8d5"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="7e12826d58454d3bade238e3b2c43fe402278f19"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="5399f6f081fb49ca8ca0de590e1bdb8be4fd9720"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
@@ -81,11 +83,8 @@
   <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="ed457caab199f387369c3a67f541c04c2894c795"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a60b1dd605f10335588926164d72ba021be651d5"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="0891de9450bd1f49c7c60e311f38f0d0f9547e72"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="a9596759c3f655b0d1a5d86d4c04fb85400a1d78"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="3a0a304f90b0a94a7455bbaf26184c25f59c9d0e"/>
-  <project name="platform/omapmanifest" path=".welcome" remote="omap" revision="ed32da912423496fedfd7927ac38049fe25f446d">
-    <copyfile dest="OMAPAndroid.txt" src="OMAPAndroid.txt"/>
-  </project>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="e55780a48277c1dc987dd9a19ba3d74b6229b9b1"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="f978f24c29d8d96cf406d9f2321f0acbaa8d69b3"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="2cc72473acf790863657070c7661d096bd74f80d"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="0cb2af7646d0a41c0543a086021df3042bfc814a"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="db5ed56b4c0956409fb2d6f039ca4fe80e2e8805"/>
@@ -120,18 +119,18 @@
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="865b14b5faf8df8c090efa181ee5c5641f362fc9"/>
   <project name="platform/prebuilt" path="prebuilt" revision="123827316b0aae59f001188bc9503a42ec3dc72c"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="36af3080c1d3d61969a461bb95c56b0f347bf554"/>
-  <project name="platform/system/core" path="system/core" revision="7be77b5ba8ae21dad91019a02bc2c5d38dba081f"/>
+  <project name="platform/system/core" path="system/core" revision="fa5bf90831dbf7a650eb318e2171a25731743104"/>
   <project name="platform/system/extras" path="system/extras" revision="1f6b24cf6ead1186657d5fe93e88eb868f8a7bcc"/>
-  <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="34f4fd8e307dcf47b4748646965ada1885368a6f"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="a9130b8621dc482c8c0a241145eab164d735bc21"/>
-  <project name="repo/android/platform/external/bluez" path="external/bluez" remote="omap-patch" revision="82e3c978a7bb81ca313cf02129712af96e18d753"/>
-  <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap-patch" revision="1cedc49bc21fa5be62d0c1e2c6643c5204fa770c"/>
+  <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="944fca0926e044a251271a42f97aa795ba8848eb"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="4eb6a46f7de57201df8201d6b997abd51c1dd090"/>
+  <project name="repo/android/platform/external/bluez" path="external/bluez" remote="omap-patch" revision="8842d714640cc8cd8cdd2e514b2d2ef2ddb9e9b8"/>
+  <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap-patch" revision="2b3b06046418a95398629d3854e7737325713889"/>
   <project name="repo/android/platform/external/skia" path="external/skia" remote="omap-patch" revision="c7b24173e69caae8dddc899bad00a3ecfdee373d"/>
-  <project name="repo/android/platform/external/wpa_supplicant" path="external/wpa_supplicant" remote="omap-patch" revision="d13dd7581c4ab3e370cba0693e62af5859132c94"/>
+  <project name="repo/android/platform/external/wpa_supplicant" path="external/wpa_supplicant" remote="omap-patch" revision="a6350739f9cf8eb17c133d907b2bd50cb8e49cc9"/>
   <project name="repo/android/platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" remote="omap-patch" revision="b0c30a53a58307f37faeec7ea9abaa83384473fd"/>
-  <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap-patch" revision="fdca664141dbaf2858fa084e0cdd3eb97d16481c"/>
-  <project name="repo/omapkernel" path="kernel/android-2.6.27" remote="omap" revision="c1a8e61bc48fbf895caa0be8a58bd1443e4dd0c0"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="bc792eb7daa29fe73b76da515ada4a680522e6fc"/>
+  <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap-patch" revision="f176bed6af56e8773a897f169d007a3292482b11"/>
+  <project name="repo/omapkernel" path="kernel/android-2.6.27" remote="omap" revision="4cdf36f4b620b0fa55a8745048040476ef68c620"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="030e97135e76ad1a5c3c408a3f6611212ac117c1"/>
   <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="80441279e3aecd8b8ca020faf65990d52978843b"/>
   <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>
 </manifest>
