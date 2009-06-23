@@ -7,7 +7,7 @@
   
   <default remote="omap-mirror" revision="master"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="8775549a748746f31b2d6a58aa86e47dd10799f9"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="c13c4569d40abc9881564de5e8b19d2a98cbea20"/>
   <project name="platform/bionic" path="bionic" revision="90ec5f2a3f581927ffef55733e8d531890fdc90e"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="86dcb678f30c588a31321f27af873d7ba2dacfb9"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8a5bf5700b673c70c1075621ca54c7fddbe9197f"/>
@@ -83,7 +83,7 @@
   <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="ed457caab199f387369c3a67f541c04c2894c795"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a60b1dd605f10335588926164d72ba021be651d5"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="0891de9450bd1f49c7c60e311f38f0d0f9547e72"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="5badc61ec026aec894e711ef682821a659f60802"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="9dadfb93d28e0672d19473172814b7824316d9f3"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="06bd1e44058c87fda54d526c319915059dd2a3c8"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="2cc72473acf790863657070c7661d096bd74f80d"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="0cb2af7646d0a41c0543a086021df3042bfc814a"/>
@@ -129,8 +129,8 @@
   <project name="repo/android/platform/external/wpa_supplicant" path="external/wpa_supplicant" remote="omap-patch" revision="a6350739f9cf8eb17c133d907b2bd50cb8e49cc9"/>
   <project name="repo/android/platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" remote="omap-patch" revision="b0c30a53a58307f37faeec7ea9abaa83384473fd"/>
   <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap-patch" revision="f176bed6af56e8773a897f169d007a3292482b11"/>
-  <project name="repo/omapkernel" path="kernel/android-2.6.27" remote="omap" revision="7fe6ba0528e650419172d9138df080cb76540104"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="499def7062686c5214805a986dcb31ac2388954f"/>
+  <project name="repo/omapkernel" path="kernel/android-2.6.27" remote="omap" revision="21b5d962377d2dd9e77d808856cd250174c16082"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="52e6ecc23d0646de08ea0c035dab422e35e24e39"/>
   <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="80441279e3aecd8b8ca020faf65990d52978843b"/>
   <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>
 </manifest>
