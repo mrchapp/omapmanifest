@@ -3,16 +3,22 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
+  <remote  name="omap-mirror"
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
+
   <default revision="donut"
-           remote="korg" />
+           remote="omap-mirror" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
+<!-- Removed the common kernel since we don't use it
   <project path="kernel"
            name="kernel/common"
            revision="refs/heads/android-2.6.27" />
+-->
 
   <project path="bionic" name="platform/bionic" />
 
@@ -139,4 +145,40 @@
   <project path="external/xdelta3" name="platform/external/xdelta3" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
+
+  <project path="kernel/android-2.6.27"
+           name="repo/omapkernel"
+           revision="refs/heads/android-2.6.27"
+           remote="omap-mirror" />
+  <project path="kernel/android-2.6.29"
+           name="kernel/omap"
+           revision="refs/heads/android-omap-2.6.29"
+           remote="korg" />
+  <project path="bootable/bootloader/u-boot" name="repo/u-boot" 
+           revision="refs/heads/master" />
+  <project path="bootable/bootloader/x-loader" name="repo/x-loader" 
+           revision="refs/heads/master" />
+
+  <project path="vendor/ti/ldp1" name="platform/vendor/ti/ldp1" />
+  <project path="vendor/ti/zoom2" name="platform/vendor/ti/zoom2" />
+  <project path="vendor/ti/support-tools" name="repo/support-tools" 
+           revision="refs/heads/master" />
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
+  <project path="hardware/ti/omx" name="platform/hardware/ti/omx" />
+  <project path="hardware/enfora/edg308-ril"
+           name="platform/hardware/enfora/edg308-ril" />
+<!--
+  <project path="hardware/idcc/6071-ril"
+           name="platform/hardware/idcc/6071-ril" />
+-->
+
+<!-- Bring in the alsa support -->
+  <project path="external/alsa-lib" name="platform/external/alsa-lib"
+           revision="refs/heads/master" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils"
+           revision="refs/heads/master" />
+<!--
+  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound"
+           revision="refs/heads/master" />
+-->
 </manifest>
