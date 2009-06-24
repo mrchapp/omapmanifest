@@ -124,13 +124,13 @@
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" remote="omap" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" remote="omap" revision="cfea046c649836825eb64da978ea524dcf4a833f"/>
   <project name="repo/android/platform/external/bluez" path="external/bluez" remote="omap-patch" revision="8842d714640cc8cd8cdd2e514b2d2ef2ddb9e9b8"/>
-  <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap-patch" revision="b56728c3e34f5e360547d71da0b62b465c7744da"/>
+  <project name="repo/android/platform/external/opencore" path="external/opencore" remote="omap-patch" revision="663415aec3303dabea6d61a4a0a2107ff3c111bf"/>
   <project name="repo/android/platform/external/skia" path="external/skia" remote="omap-patch" revision="c7b24173e69caae8dddc899bad00a3ecfdee373d"/>
   <project name="repo/android/platform/external/wpa_supplicant" path="external/wpa_supplicant" remote="omap-patch" revision="a6350739f9cf8eb17c133d907b2bd50cb8e49cc9"/>
   <project name="repo/android/platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" remote="omap-patch" revision="b0c30a53a58307f37faeec7ea9abaa83384473fd"/>
   <project name="repo/android/system/wlan/ti" path="system/wlan/ti" remote="omap-patch" revision="f176bed6af56e8773a897f169d007a3292482b11"/>
-  <project name="repo/omapkernel" path="kernel/android-2.6.27" remote="omap" revision="21b5d962377d2dd9e77d808856cd250174c16082"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="52e6ecc23d0646de08ea0c035dab422e35e24e39"/>
-  <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="80441279e3aecd8b8ca020faf65990d52978843b"/>
+  <project name="repo/omapkernel" path="kernel/android-2.6.27" remote="omap" revision="7120d6c4cfdb69b3ec7b3ad73ee7ac0494d42417"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" remote="omap" revision="47667203b296529865a5fe3efed8d8ca9fb32e00"/>
+  <project name="repo/u-boot" path="bootloader/u-boot" remote="omap" revision="4edcb22171155ccf615d4b9ee4800606651dc623"/>
   <project name="repo/x-loader" path="bootloader/x-loader" remote="omap" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>
 </manifest>
