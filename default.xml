@@ -7,7 +7,7 @@
   
   <default remote="omap-mirror" revision="master"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="c13c4569d40abc9881564de5e8b19d2a98cbea20"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" remote="korg" revision="1c38a3d351c92a1a44bc42472418f7da2451d447"/>
   <project name="platform/bionic" path="bionic" revision="90ec5f2a3f581927ffef55733e8d531890fdc90e"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="86dcb678f30c588a31321f27af873d7ba2dacfb9"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8a5bf5700b673c70c1075621ca54c7fddbe9197f"/>
@@ -83,8 +83,8 @@
   <project name="platform/hardware/idcc/6071-ril" path="hardware/idcc/6071-ril" remote="omap" revision="ed457caab199f387369c3a67f541c04c2894c795"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a60b1dd605f10335588926164d72ba021be651d5"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="0891de9450bd1f49c7c60e311f38f0d0f9547e72"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="9dadfb93d28e0672d19473172814b7824316d9f3"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="06bd1e44058c87fda54d526c319915059dd2a3c8"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" remote="omap" revision="326fdbbfa40455d6b4128867658e08ada264661b"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" remote="omap" revision="93dd40d5e9af75b95ca60f1bc5369504e2bc9c59"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="2cc72473acf790863657070c7661d096bd74f80d"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="0cb2af7646d0a41c0543a086021df3042bfc814a"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="db5ed56b4c0956409fb2d6f039ca4fe80e2e8805"/>
