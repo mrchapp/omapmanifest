@@ -7,7 +7,7 @@
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
 
-  <default revision="donut"
+  <default revision="p-donut"
            remote="omap-mirror" />
 
   <project path="build" name="platform/build">
@@ -159,14 +159,19 @@
   <project path="bootable/bootloader/x-loader" name="repo/x-loader" 
            revision="refs/heads/master" />
 
-  <project path="vendor/ti/ldp1" name="platform/vendor/ti/ldp1" />
-  <project path="vendor/ti/zoom2" name="platform/vendor/ti/zoom2" />
+  <project path="vendor/ti/ldp1" name="platform/vendor/ti/ldp1" 
+           revision="donut" />
+  <project path="vendor/ti/zoom2" name="platform/vendor/ti/zoom2" 
+           revision="donut" />
   <project path="vendor/ti/support-tools" name="repo/support-tools" 
            revision="refs/heads/master" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
-  <project path="hardware/ti/omx" name="platform/hardware/ti/omx" />
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" 
+           revision="donut" />
+  <project path="hardware/ti/omx" name="platform/hardware/ti/omx" 
+           revision="donut" />
   <project path="hardware/enfora/edg308-ril"
-           name="platform/hardware/enfora/edg308-ril" />
+           name="platform/hardware/enfora/edg308-ril" 
+           revision="donut" />
 <!--
   <project path="hardware/idcc/6071-ril"
            name="platform/hardware/idcc/6071-ril" />
