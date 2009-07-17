@@ -135,7 +135,7 @@
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="1d20f2be342f77ef66fc2f5c160f9f569324a79a"/>
   <project name="repo/omapkernel" path="kernel/android-2.6.27" revision="e1e57138817fa39e096619ca7065540fb0b53ee9"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="9e3e3d43e859ef262458c50c884c7579aa2e08fc"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="dbde28f0e1493745635d2c0a738101af243ee533"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="4edcb22171155ccf615d4b9ee4800606651dc623"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>
 </manifest>
