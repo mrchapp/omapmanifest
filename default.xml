@@ -134,7 +134,7 @@
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="0b9f4a65cb9af63f2d30466168995e33f4162db5"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="cbe5ca7a0b3079f9de4eb65fa930e57b4cba1005"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="8dac70ff4a2ab54080a850d1cdc98794a40fe9ad"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="cda80d8352ec6272d8e4a231e52b94d702098ec0"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="4edcb22171155ccf615d4b9ee4800606651dc623"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>
 </manifest>
