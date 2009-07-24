@@ -21,7 +21,7 @@
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
   <project name="platform/external/astl" path="external/astl" revision="d738d268c8f915bde451bba52e0c3996113ba9f0"/>
   <project name="platform/external/bison" path="external/bison" revision="cea198a11f15a2eb071d98491ca9a8bc8cebfbc4"/>
-  <project name="platform/external/bluez" path="external/bluez" revision="d3353bafb80773fa9e7e069cca71e8339b81d483"/>
+  <project name="platform/external/bluez" path="external/bluez" revision="25ea2417d4ed38c4d664f1f3317412683ccf0b25"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="c285feace7a051368d4c5069cc6e0f30cd769f0d"/>
   <project name="platform/external/bzip2" path="external/bzip2" revision="bd8bc6011ac10774f98d61c0f539f0f4e6f14c99"/>
   <project name="platform/external/clearsilver" path="external/clearsilver" revision="1bfc7cdbff6058952c56277e1b457e4134451159"/>
@@ -86,13 +86,13 @@
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="66667e4b38ed7706faebfbcfa5a4c15b677d6c74"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="fa5f65b43467226982b1f3208b437454a60a5565"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a1d448270a202fbb19131bf50d2f5a3896faef60"/>
-  <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="099941d5519b48b5d2a394304cbca042788732bf"/>
+  <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="e4c165e9dc2490941127f68bf2734f9e050fbb7b"/>
   <project name="platform/hardware/enfora/edg308-ril" path="hardware/enfora/edg308-ril" revision="1fd507360aad2e48b3e4441cfd9e3ebbe7eb7932"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="64bcbb74ca1eaa5f684ff7ec33e2e40bc5b6e64d"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="6044b071dbbbacf6d11a3f3ceec5dbedfa934d1a"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="000a9fe96fdf9111387d2bc389d2f6bb3e627d0f"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="9ef0af5047ec57e00d777daf001656e1cc6da97c"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="f7117ebb23668ac0fbf8f9ca966019bfc86dbcfe"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="7c0d8bbf65774de1f8e396be68751776e32fb892"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="6fb5f4d54752530d3f07a848792f9de3b2ab03b6"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="5a8fa64b0901a2a6961251c16f21d55c2f579c71"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="1ef26a30d0372d9fe55e8cb877b1b94bc93c2829"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="b0697270fae6435f1459bc6f6a5a627aab65647e"/>
@@ -133,8 +133,8 @@
   <project name="platform/system/extras" path="system/extras" revision="fb96abdcfc53dc0c4ff0450c0afd192d6ba570c1"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="0b9f4a65cb9af63f2d30466168995e33f4162db5"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="a2e1381de9518f1f2249b5c960c5f29df916cd74"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="dbde28f0e1493745635d2c0a738101af243ee533"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="cbe5ca7a0b3079f9de4eb65fa930e57b4cba1005"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="8dac70ff4a2ab54080a850d1cdc98794a40fe9ad"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="4edcb22171155ccf615d4b9ee4800606651dc623"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="8422b561fbd750ccb852f89904bbb9c39e2fac7a"/>
 </manifest>
