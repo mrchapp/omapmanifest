@@ -165,8 +165,8 @@
 -->
   <project path="kernel/android-2.6.29"
            name="kernel/omap"
-           revision="refs/heads/android-omap-2.6.29"
-           remote="korg" />
+           revision="refs/heads/p-android-omap-2.6.29"
+           remote="omap-mirror" />
   <project path="bootable/bootloader/u-boot" name="repo/u-boot" 
            revision="refs/heads/master" />
   <project path="bootable/bootloader/x-loader" name="repo/x-loader" 
