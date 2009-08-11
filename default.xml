@@ -196,6 +196,6 @@
   <project path="external/alsa-utils" name="platform/external/alsa-utils"
            revision="refs/heads/master" />
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound"
-           revision="refs/heads/master" />
+           revision="refs/heads/p-master" />
 
 </manifest>
