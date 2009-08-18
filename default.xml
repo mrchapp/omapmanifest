@@ -63,7 +63,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="d0234d4c8622d3b029292454ed9fedb6bea62e02"/>
   <project name="platform/external/netperf" path="external/netperf" revision="c033eba1934af9c7c2c0a6beed94e5cd2f807321"/>
   <project name="platform/external/neven" path="external/neven" revision="7f81d9b6fa7f2ec161b682622db577a28c90b49f"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="c33310eeaa0107a41ffab10ea137c114d771514c"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="77373d99d8a50679b9d1653bf5ef2fcd1a520cc4"/>
   <project name="platform/external/openssl" path="external/openssl" revision="6220364bd536ac36c8424efbf62854795e97158b"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="10e23eebca4175a8dfe3a788b2bebacb1fcfce54"/>
   <project name="platform/external/ping" path="external/ping" revision="1b675a661f18ceb7ab9f73d24f27331ff1363d00"/>
@@ -99,12 +99,12 @@
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="8d4e54bcf9c5ec671d03e4cf9386565acedf1d05"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="54fe511e5bdfebb7bfbbfd08779520ab4d9fde43"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="d76b4290c1b772637193830279d87c3c506ab27d"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="615c3c1991883eab8550d50805031e58d70f20cd"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1bc128fd4266656ebc7e8abc6bf22652f6a6134a"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="cc63403643786905262f505ab5266d8e80b9924c"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="2f0d358620cc52a80885fa812205b153f5600df7"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="d8e2033d3f44e708f4fb5cfa4fc4f57485860191"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="05e98c81b0545bb6ff313e9406a753ba02ac13a8"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="5de4e421e17f1c2ed35fa1ccf8777838e884f66b"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="2dfe98abcf9810e6d140e1e699fabc3b6e42a88a"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="8a3b8992f9b0e6f3d4e20aece74ec72523fa5da4"/>
   <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="637bc283b70e32f58a114f6232744ee5ae036c03"/>
@@ -146,7 +146,7 @@
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="c97953c5c81e7d4517443c5ae269155e92fe372c"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="268df8571046b236197eaa3c20295b675f6779de"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="65061705f93cce2932d0da8f96418b22e17a948d"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="6521050f559cf45d47b9cd338896be0c9f10991f"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="ff6f1dfbf079110d1413688f89b1ea73a303a2f1"/>
 </manifest>
