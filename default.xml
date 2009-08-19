@@ -99,7 +99,7 @@
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="8d4e54bcf9c5ec671d03e4cf9386565acedf1d05"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="00e82345f0db97960a06c4ed385d83cd3c6efa5b"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="387abeeeeb84eb050cf25fae455fe15b45cb2875"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="0b5ea325edf874c889a662143bd522ceda6c84dd"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1bc128fd4266656ebc7e8abc6bf22652f6a6134a"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="cc63403643786905262f505ab5266d8e80b9924c"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="2f0d358620cc52a80885fa812205b153f5600df7"/>
