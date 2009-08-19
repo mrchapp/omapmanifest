@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="p-donut"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="3dbe11b6dffe636fbdacd3b80c54957635797559"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="82d7c40b681b0100179db33462433661bef101d7"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
@@ -98,8 +98,8 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="dfc9bc87e88f33f6f4215322f5681ef26b8ba3da"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="8d4e54bcf9c5ec671d03e4cf9386565acedf1d05"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="54fe511e5bdfebb7bfbbfd08779520ab4d9fde43"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="615c3c1991883eab8550d50805031e58d70f20cd"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="00e82345f0db97960a06c4ed385d83cd3c6efa5b"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="2145be651db5151046ad66cc64ba9b3ff9b8b27d"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1bc128fd4266656ebc7e8abc6bf22652f6a6134a"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="cc63403643786905262f505ab5266d8e80b9924c"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="2f0d358620cc52a80885fa812205b153f5600df7"/>
