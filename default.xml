@@ -145,7 +145,7 @@
   <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="c53b8092a7c2aa933ed08eeccda6fb736efbedd5"/>
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="9877914e6022a0893d02d1dfbbce68de3202cce7"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="42bed6abcabdcff55cedb3970193a12c90c1234e"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="65061705f93cce2932d0da8f96418b22e17a948d"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="99b06a3ee0b32a4f1054d63a2412813b8449ccfe"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="ff6f1dfbf079110d1413688f89b1ea73a303a2f1"/>
