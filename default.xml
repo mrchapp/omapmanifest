@@ -63,7 +63,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="d0234d4c8622d3b029292454ed9fedb6bea62e02"/>
   <project name="platform/external/netperf" path="external/netperf" revision="c033eba1934af9c7c2c0a6beed94e5cd2f807321"/>
   <project name="platform/external/neven" path="external/neven" revision="7f81d9b6fa7f2ec161b682622db577a28c90b49f"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="40c2abadabb2f671c630a53a6576fee43aff5ab6"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="7900b4a7d739c3cb968c4da55fe884c658ff3c87"/>
   <project name="platform/external/openssl" path="external/openssl" revision="6220364bd536ac36c8424efbf62854795e97158b"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="10e23eebca4175a8dfe3a788b2bebacb1fcfce54"/>
   <project name="platform/external/ping" path="external/ping" revision="1b675a661f18ceb7ab9f73d24f27331ff1363d00"/>
@@ -146,7 +146,7 @@
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="b7abb3956812279cf1b4a9ebc10a0ff544e0da43"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="fcb4a3bf5d2ebcbca5c9ffc7efd77e2f12a2dba7"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="65061705f93cce2932d0da8f96418b22e17a948d"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="663ed081f84fcc71005797b1e0819a26d7254bff"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="99b06a3ee0b32a4f1054d63a2412813b8449ccfe"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="ff6f1dfbf079110d1413688f89b1ea73a303a2f1"/>
 </manifest>
