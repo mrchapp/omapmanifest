@@ -6,9 +6,6 @@
   <remote  name="omap-mirror"
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
-  <remote  name="omap-patch"
-           fetch="git://git.omapzoom.org/"
-           review="review.omapzoom.org" />
   <default revision="p-master"
            remote="omap-mirror" />
 
@@ -38,7 +35,7 @@
   <project path="system/bluetooth" name="platform/system/bluetooth" />
   <project path="system/core" name="platform/system/core" />
   <project path="system/extras" name="platform/system/extras" />
-  <project path="system/wlan/ti" name="system/wlan/ti" />
+  <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
