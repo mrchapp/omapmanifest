@@ -193,10 +193,10 @@
 
 <!-- Bring in the alsa support -->
   <project path="external/alsa-lib" name="platform/external/alsa-lib"
-           revision="donut" />
+           revision="master" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils"
-           revision="donut" />
+           revision="master" />
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound"
-           revision="donut" />
+           revision="p-master" />
 
 </manifest>
