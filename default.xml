@@ -192,11 +192,8 @@
 -->
 
 <!-- Bring in the alsa support -->
-  <project path="external/alsa-lib" name="platform/external/alsa-lib"
-           revision="master" />
-  <project path="external/alsa-utils" name="platform/external/alsa-utils"
-           revision="master" />
-  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound"
-           revision="p-master" />
+  <project path="external/alsa-lib" name="platform/external/alsa-lib" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils" />
+  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
 
 </manifest>
