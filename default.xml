@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="refs/tags/android-1.6_r1.4"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="b9acd51093d70e30fee512c2de8509500c98db70"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="5c7b53d6aac9e5a9a8f2171a2d516a2065babf74"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
@@ -63,7 +63,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="d0234d4c8622d3b029292454ed9fedb6bea62e02"/>
   <project name="platform/external/netperf" path="external/netperf" revision="c033eba1934af9c7c2c0a6beed94e5cd2f807321"/>
   <project name="platform/external/neven" path="external/neven" revision="7f81d9b6fa7f2ec161b682622db577a28c90b49f"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="ba8d88eee9ecc760d4a5ba656add52696035b0e0"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="c61b5e87296f62c843b5cf11cc44a719f2fc1f65"/>
   <project name="platform/external/openssl" path="external/openssl" revision="6220364bd536ac36c8424efbf62854795e97158b"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="10e23eebca4175a8dfe3a788b2bebacb1fcfce54"/>
   <project name="platform/external/ping" path="external/ping" revision="1b675a661f18ceb7ab9f73d24f27331ff1363d00"/>
@@ -87,7 +87,7 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="280cf4827c37fe3dd0f038536d28833154517e92"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="40c4004d07a37a9b140067f893930ce4436b9346"/>
   <project name="platform/external/zlib" path="external/zlib" revision="a64e4eaf41f9520f60051b758fb27f98e72d85ea"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="a1481153b8907ab74409230561ca467202cdcb1a"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="2b7838261c3c6dd74f9c53bd7d47d1f2d27acf98"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="286fc5e7ffea934adaca845f0b46949ea405deac"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="29be86e08b206c1cbae5259d7ad0559573366241"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="628231a4b4de5ab8866faa912309017759efde0a"/>
@@ -98,13 +98,13 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8fe90e8aebcf0f74782f19987ffc88bcfea56e96"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="6df9ffc1e0ca91191798352135b636b5e08f915d"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="8235f9db86626a6f9d03c983b9596fd3cfbd2047"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="5f6324f4c4609c9bcf62075519ea2669e8ffe654"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="b0b746aba08eb87a1d572f5ec1dcd7a0da63ca4a"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="1983f3aa396fc9852748e636add6708f68f00143"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1ecee6c11e40de8c9b8644a868f88bbc4ac69aec"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="95aecbc5737ce74af3f61767a7c2f6bf8a061065"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="c8c1fc5c8dea938c44518deeeb2e5c38968d19e1"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="5df1334a023c6844f91a8393a24c3c94c81cb44c"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="a6300fee9f7e0c81701e893203a62144ae4083e0"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="d93e35c2bdf5d20ee6f7126d57554f123a36b21c"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="fe5ed7b4b5a8398a3b826481275f4f478f43a506"/>
   <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="182e26f43637b8e8582d5608df7ea05632bf53ec"/>
@@ -141,7 +141,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
   <project name="platform/system/core" path="system/core" revision="d3c5fc11c2d9ec975072908d8c5792cdfead6d57"/>
   <project name="platform/system/extras" path="system/extras" revision="43896f610e6634cf06726aefa1043ea5dbb51cea"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="b5faf084996ba0a78d13f4d9531dec571574e873"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="779c3b5c9036584f97dcf69fb48b5ee8c990d947"/>
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="ab91b295cddbad9450d96009f388457741dbf5a4"/>
