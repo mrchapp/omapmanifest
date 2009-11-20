@@ -7,7 +7,7 @@
            fetch="git://git.omapzoom.org/"
            review="review.omapzoom.org" />
 
-  <default revision="eclair"
+  <default revision="p-eclair"
            remote="omap-mirror" />
 
 
