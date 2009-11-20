@@ -98,8 +98,8 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8fe90e8aebcf0f74782f19987ffc88bcfea56e96"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="6df9ffc1e0ca91191798352135b636b5e08f915d"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="3cf5a1abe5495974bcd6390759041de97479122d"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="06088ec97f7a9738d46e8771a5ef3779ed1c26c6"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="99c2c89006c1fbef23187912149e98181adb6064"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="dd1afd1dc3ffb60b3eb3e83c296d618fa9254851"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1ecee6c11e40de8c9b8644a868f88bbc4ac69aec"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="95aecbc5737ce74af3f61767a7c2f6bf8a061065"/>
