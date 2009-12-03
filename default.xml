@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="refs/tags/android-1.6_r1.4"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="973f3e52a95caa33bcb5c52975e6bf7bcdc119b6"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="27eb49f441739ad2291bdc7a670067a47450447f"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
@@ -98,8 +98,8 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8fe90e8aebcf0f74782f19987ffc88bcfea56e96"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="6df9ffc1e0ca91191798352135b636b5e08f915d"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="959ff7fdcbc93d722940f521d0fa2952d9b14e3c"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="e7bff48b3a8be6600f66c325c7a4902ba39e12a4"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="dbe6b4d06cc47d67c343d74263767ee9406fa479"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="7c4b7a1cb805fdff27cae7372a4ccbc870ef4e24"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1ecee6c11e40de8c9b8644a868f88bbc4ac69aec"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="95aecbc5737ce74af3f61767a7c2f6bf8a061065"/>
@@ -141,11 +141,11 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
   <project name="platform/system/core" path="system/core" revision="d3c5fc11c2d9ec975072908d8c5792cdfead6d57"/>
   <project name="platform/system/extras" path="system/extras" revision="43896f610e6634cf06726aefa1043ea5dbb51cea"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="779c3b5c9036584f97dcf69fb48b5ee8c990d947"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="1ea056b8c73e9eae6c0682c11795621485ebe87a"/>
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="4f237acf2643efa3124d2ae6a9fe732d96100eca"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="663ed081f84fcc71005797b1e0819a26d7254bff"/>
-  <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="5589e8145624d6ad06414b5704ea1e0354b063b8"/>
+  <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="a40558d0e6208d33ee668eb8e518903c324e3e83"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="cfb391293e15cf4685ef9029933a4ea1ea621be0"/>
 </manifest>
