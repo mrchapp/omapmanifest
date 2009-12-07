@@ -98,13 +98,13 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8fe90e8aebcf0f74782f19987ffc88bcfea56e96"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="6df9ffc1e0ca91191798352135b636b5e08f915d"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="dbe6b4d06cc47d67c343d74263767ee9406fa479"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="7c4b7a1cb805fdff27cae7372a4ccbc870ef4e24"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="c799194525a0ce38200ba3edd51bfbb6a11de0e4"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="11733261ec979ca4e5b472239fc2d261a8f7b4a2"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1ecee6c11e40de8c9b8644a868f88bbc4ac69aec"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="95aecbc5737ce74af3f61767a7c2f6bf8a061065"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="c8c1fc5c8dea938c44518deeeb2e5c38968d19e1"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="c5c8b52bdec85390673bf473e0abd6419a7f25fd"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="4752be3536c49f273432dc33d66c605db2ee4278"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="d93e35c2bdf5d20ee6f7126d57554f123a36b21c"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="fe5ed7b4b5a8398a3b826481275f4f478f43a506"/>
   <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="182e26f43637b8e8582d5608df7ea05632bf53ec"/>
@@ -141,7 +141,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
   <project name="platform/system/core" path="system/core" revision="d3c5fc11c2d9ec975072908d8c5792cdfead6d57"/>
   <project name="platform/system/extras" path="system/extras" revision="43896f610e6634cf06726aefa1043ea5dbb51cea"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="1ea056b8c73e9eae6c0682c11795621485ebe87a"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="0eb3c954a1963fedde7937e5264f97b5205e9eb3"/>
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="4f237acf2643efa3124d2ae6a9fe732d96100eca"/>
