@@ -185,7 +185,7 @@
            revision="master" />
   <project path="vendor/ti/zoom2" name="platform/vendor/ti/zoom2"
            revision="master" />
-  <project path="vendor/ti/zoom3" name="platform/vendor/ti/zoom3" 
+  <project path="vendor/ti/omap4dev" name="platform/vendor/ti/nextgen" 
            revision="master" />
   <project path="vendor/ti/support-tools" name="repo/support-tools"
            revision="refs/heads/master" />
