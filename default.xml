@@ -180,7 +180,7 @@
            revision="eclair" />
   <project path="vendor/ti/zoom2" name="platform/vendor/ti/zoom2" 
            revision="eclair" />
-  <project path="vendor/ti/omap4dev" name="platform/vendor/ti/nextgen" 
+  <project path="vendor/ti/nextgen" name="platform/vendor/ti/nextgen" 
            revision="eclair" />
   <project path="vendor/ti/support-tools" name="repo/support-tools" 
            revision="refs/heads/master" />
