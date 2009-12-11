@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="refs/tags/android-1.6_r1.4"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="bfcd953a2e8d24112858b1c0899f7254e1083a96"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="8b1c19757b3e2f2ec0b30a0deab0822163c75ad0"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
