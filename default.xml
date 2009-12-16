@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="p-eclair"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="025449fa17f3a7a549a76d501331867ae52c36fc"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="dc669b40b308d18ae2903b0788ab21fda38df64c"/>
   <project name="platform/bionic" path="bionic" revision="194d3fa048cf909ca592dd56fa538dc9cd3f5ddb"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
@@ -154,7 +154,7 @@
   <project name="platform/vendor/sample" path="vendor/sample" revision="1c48b700d36c13be2ad79152f2ef2c7da39bb4ba"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
   <project name="platform/vendor/ti/nextgen" path="vendor/ti/nextgen" revision="03d0f5c86ce6583a89b527ecb3240960c7ff8cd7"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="8486c7f84ac43ea71e2744c14f782c848795a979"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="88a934eef944f9959d9ed9160db55f5d609ca683"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="663ed081f84fcc71005797b1e0819a26d7254bff"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="2c5c4b4c5b44e697147be0d54fe49a12d5680dc1"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="cac29bbbaa2b57b4062e7e0bde711d993ea8eac0"/>
