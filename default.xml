@@ -154,7 +154,7 @@
   <project name="platform/vendor/sample" path="vendor/sample" revision="1c48b700d36c13be2ad79152f2ef2c7da39bb4ba"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
   <project name="platform/vendor/ti/nextgen" path="vendor/ti/nextgen" revision="34b18313110e3223cab18ffcd608b7200ee8dd87"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="8486c7f84ac43ea71e2744c14f782c848795a979"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="88a934eef944f9959d9ed9160db55f5d609ca683"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="663ed081f84fcc71005797b1e0819a26d7254bff"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="2c5c4b4c5b44e697147be0d54fe49a12d5680dc1"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="cac29bbbaa2b57b4062e7e0bde711d993ea8eac0"/>
