@@ -216,7 +216,8 @@
            revision="eclair" />
   <project path="hardware/ti/omx" name="platform/hardware/ti/omx" 
            revision="eclair" />
-
+  <project path="external/libexif" name="platform/external/libexif" 
+           revision="eclair" />
 
 <!-- No modem support
   <project path="hardware/enfora/edg308-ril"
