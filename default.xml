@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="p-donut"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="f15a42ab7b433e05c871d25590ac2075047f168e"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="ea804d8ee3f0efdb963d4703f77fc879723d4895"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
@@ -101,13 +101,13 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8fe90e8aebcf0f74782f19987ffc88bcfea56e96"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="1b9bdcb9b78d5638eb5a745647cefe89d24d9cf7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="ba6b9e31d89d7cbb2c62604f52b833ef9f0ea2ab"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="b24cd17cf8e071be01ce451c5c1b112b7aeba8b9"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="70ce96c5c0c6c15f8e611343d409732afd48fc12"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="0282ee3cbc78d5aa63f6e5655f6e3377548d1695"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1ecee6c11e40de8c9b8644a868f88bbc4ac69aec"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="95aecbc5737ce74af3f61767a7c2f6bf8a061065"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="c8c1fc5c8dea938c44518deeeb2e5c38968d19e1"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="95d450a22d992370acdf45c7cf1b811e5686476e"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="d20b6b8ed3a7901e7ded4297846df93c928e02a3"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="d93e35c2bdf5d20ee6f7126d57554f123a36b21c"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="fe5ed7b4b5a8398a3b826481275f4f478f43a506"/>
   <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="182e26f43637b8e8582d5608df7ea05632bf53ec"/>
