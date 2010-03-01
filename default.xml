@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="p-donut"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="ea804d8ee3f0efdb963d4703f77fc879723d4895"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="fa8432ce7f6c2cbdcd01fc065573367fcaf00bda"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="8fd8fc6c4d23e1a287fc64f817de23cabcf55b78"/>
@@ -65,7 +65,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="d0234d4c8622d3b029292454ed9fedb6bea62e02"/>
   <project name="platform/external/netperf" path="external/netperf" revision="c033eba1934af9c7c2c0a6beed94e5cd2f807321"/>
   <project name="platform/external/neven" path="external/neven" revision="7f81d9b6fa7f2ec161b682622db577a28c90b49f"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="dfdd22d07646b297ababd80321e3261919d61aad"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="96149a4fe599d639fdf9040b7d47a11f62e3ee5d"/>
   <project name="platform/external/openssl" path="external/openssl" revision="6220364bd536ac36c8424efbf62854795e97158b"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="10e23eebca4175a8dfe3a788b2bebacb1fcfce54"/>
   <project name="platform/external/ping" path="external/ping" revision="1b675a661f18ceb7ab9f73d24f27331ff1363d00"/>
@@ -85,7 +85,7 @@
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="562be06492c3ac43adf153f550abaede6bc18a44"/>
   <project name="platform/external/tremor" path="external/tremor" revision="43db9a8267823d7a8c46d7b8aafb43c0ad41173c"/>
   <project name="platform/external/webkit" path="external/webkit" revision="173247db5500c88f7a7229fd20fb49ebd2d49296"/>
-  <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="f0dac7a20437dab8227069d6997056c127fb80eb"/>
+  <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="13a43337d4ccc8b930db004ace2c0eb03553edf7"/>
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="280cf4827c37fe3dd0f038536d28833154517e92"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="6934ac109bf80019d70ea684c203f12ca58c365e"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="40c4004d07a37a9b140067f893930ce4436b9346"/>
@@ -101,8 +101,8 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8fe90e8aebcf0f74782f19987ffc88bcfea56e96"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="1b9bdcb9b78d5638eb5a745647cefe89d24d9cf7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="309ac294bd529ff5a71f1c1e62cd493df1010271"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="70ce96c5c0c6c15f8e611343d409732afd48fc12"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="0282ee3cbc78d5aa63f6e5655f6e3377548d1695"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="ec50997cdda44650d9f621a2ac690b2d801c0889"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="a2b9ed562b52bebfd85bcf38c69ff721c7f1337a"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="1ecee6c11e40de8c9b8644a868f88bbc4ac69aec"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="b8a9cb0e2b3b2a1bb250853a79b8ea2046ff3d6e"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="95aecbc5737ce74af3f61767a7c2f6bf8a061065"/>
@@ -145,7 +145,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="df782f29a530d805c13f32bb43883306c05a4504"/>
   <project name="platform/system/core" path="system/core" revision="d3c5fc11c2d9ec975072908d8c5792cdfead6d57"/>
   <project name="platform/system/extras" path="system/extras" revision="43896f610e6634cf06726aefa1043ea5dbb51cea"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="c63df29d32a2c535bedbedff7db052dcb424b8af"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="ea923c27bbe0f82a7eb0a9cc1cddc1f9263b1ed6"/>
   <project name="platform/vendor/aosp" path="vendor/aosp" revision="e4f90161b39419363b561b0ae15b8f5c262b25e5"/>
   <project name="platform/vendor/htc/common-open" path="vendor/htc/common-open" revision="8dbe304b5d7770d542b7a2e0b6358105a26af6a0"/>
   <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="692e2ef3403d3ec72fa930f6d5bacaff52383708"/>
@@ -156,8 +156,8 @@
   <project name="platform/vendor/qcom/proprietary-open" path="vendor/qcom/proprietary-open" revision="8f277fb68e951ade8f7717ab0f63b414d5d197c9"/>
   <project name="platform/vendor/sample" path="vendor/sample" revision="5e020c61eb37fe6e84e77e58281a247ac4f7aa65"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="3df81ce2771cab5911fc26576c72c9b2a4c78647"/>
-  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="663ed081f84fcc71005797b1e0819a26d7254bff"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="4ab009e3790922961d4bf3f8b4fd90f0e3ad8a64"/>
+  <project name="repo/support-tools" path="vendor/ti/support-tools" revision="a24307d80ec2e323c1e5afc723ee8755ce20726c"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="a40558d0e6208d33ee668eb8e518903c324e3e83"/>
   <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="cfb391293e15cf4685ef9029933a4ea1ea621be0"/>
 </manifest>
