@@ -4,7 +4,8 @@
   <remote fetch="git://git.omapzoom.org/" name="omap-mirror" review="review.omapzoom.org"/>
   
   <default remote="omap-mirror" revision="p-donut"/>
-  
+
+
   <project name="kernel/omap" path="kernel/android-2.6.29" revision="fa8432ce7f6c2cbdcd01fc065573367fcaf00bda"/>
   <project name="platform/bionic" path="bionic" revision="7c32a6d37ca7704d3722cdf22dbf42a2ede57129"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="076ef94d61f349f7cf0fe776e60456d8f232cca5"/>
