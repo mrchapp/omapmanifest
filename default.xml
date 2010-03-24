@@ -106,7 +106,7 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="845d0372266fdd72953dd171648543228afb655b"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="9e0489f1371401197d5a59c4bbbd803a64aff9e8"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="2c21e09266e5fa26061879918c877cb107ab9701"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="873a7a060cceabbffe0c2c976924bbf1e021eda8"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="522b4d70b9bfd18a69135b222be25a5711629dcf"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="78b56137df08d48dd04d620ea23de7af1ecc1b06"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="a54ea56cd8f16c7f5e994522e4f1ad748fed6a59"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="8e4a80a1d620364e7bf4ca734ded82dd2c4e0645"/>
