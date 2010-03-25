@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="p-eclair"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="461661eac3e64444d644ce17d04b8e4ed45dadcb"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="39a798a0881cc57e949c816a2f9af03f90cf0b33"/>
   <project name="platform/bionic" path="bionic" revision="c1079aaf913133f4a4fd9598006823e52fca4247"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="334049b68e0257ff5f3122963ae8ae6d4ccc9fad"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="de715178f2c6dbd7009cef01ba7fef9c4cb2fdcc"/>
@@ -67,7 +67,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="f5aa11fb0b7728e9c16b67d6b51307ef71bc7fa0"/>
   <project name="platform/external/netperf" path="external/netperf" revision="60f020ce23833617a3fd5156ae0e477bed8b0a2e"/>
   <project name="platform/external/neven" path="external/neven" revision="2da0ad6da32a4506138a7c0b8be71603e40d8db6"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="1b1894cf45d51734e9ec6be4510d01d25bca13c8"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="3ac4fa5437f7a5ba2e34d6e37972e8f0229bb63c"/>
   <project name="platform/external/openssl" path="external/openssl" revision="165468dd21b7878f2b62264fb567d8bd95109e28"/>
   <project name="platform/external/openvpn" path="external/openvpn" revision="832797bfe0c8971b31e48f230edb739726b6cfbf"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="868bad75cb10f4ce656b2a84861a52fbf08b2c69"/>
@@ -95,26 +95,26 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="a81cef2c38d3a2ee610ff7fff2e775c243ec8543"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="75a0f6d0123c2ee125596575476c4e84d674fa80"/>
   <project name="platform/external/zlib" path="external/zlib" revision="25d84c5c494ec5bc6ba5730baeb21d5592f81765"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="139426e32376e6e72fc08dcf7544b51562ddd6c2"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="116fdd25393586597aa7c545b00a7c9d2639258c"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="b9cc8698cd9e07b81ac5b98312935058a7286653"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="f9ae3643c5199548b320b33bf5579c289a765c6a"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="e959e67336c2f9c490bcf053f13dbd613da95221"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="dda74d1148d5c653dd44f17d5e676b0cdfb87d8d"/>
-  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="ca3da51b13b8084c9770c160cb4686cbb611f9ac"/>
+  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="b2b466dfccde9529d30e5b033b41a3f80d6061a0"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="8c91f07a68d3a89bcaf62af44534a0fcc38887f3"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="d910467a28f4ab3b5f20136fe261edd0464a2d0c"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="845d0372266fdd72953dd171648543228afb655b"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="9e0489f1371401197d5a59c4bbbd803a64aff9e8"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="2c21e09266e5fa26061879918c877cb107ab9701"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="80c9c374fd01ac1d453993f8c3c718ec9a11641d"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="2f96521effe6c54b225ae441a46a51d9f1fc6b0f"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="d5ca3918346d3a6a1795f8cc1af6e8dd7071c1a2"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="51c43407a9f5255e3547929d45b807778f7fe2f9"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="a54ea56cd8f16c7f5e994522e4f1ad748fed6a59"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="8e4a80a1d620364e7bf4ca734ded82dd2c4e0645"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="7e78db1249c74cc1b130c83f4d8f026f3753491a"/>
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="acb27e48217497f5aa33e9df06670c38fe4399e7"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="1fb23b54c1b9ff3b13866f5c1bc7277b81cca9a5"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="18cb504e8f273911906805edae071b59e315d294"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="d9a423ac7ab86ed1ab1e79312b21e5215b13e7a0"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="c9f367d00ea4eae5e6923057ed0908d957cba6bf"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="c993eafbeee0d61e0a11a12742276bbdf454a68c"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="4165cbce28bec317be03d61df59408ddc99a1e4e"/>
   <project name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="a0ec6a082330c0a65d6e972c7bfcbbb1bd7cc7af"/>
@@ -128,7 +128,7 @@
   <project name="platform/packages/apps/Launcher" path="packages/apps/Launcher" revision="8661f6870025562e28a5d1093804a50eb18dafc6"/>
   <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="9b08ed00ca47dc63c25086ef971754127ed22ca2"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="83babf40a7ef5834f6d92ea7c6ec234ab058be66"/>
-  <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5b159422524865636e6a2fed13af5b418f0df0e4"/>
+  <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="1219bd95a75d31a2bd8b7b0f1a8c25931008f2ca"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="97b99cdc7d64a975185615e7f6df9b7ac1d85155"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="406b9ad26e9e95b87f040a2fb3a694f99edd0609"/>
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="c4a805bf940c808a822c2de244f8becf43089c87"/>
@@ -165,7 +165,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="8af4432c512d262c07776fb5e112bfcf9c4cceec"/>
   <project name="platform/system/core" path="system/core" revision="4c5e7ffd806cdfe345fe589f2b60f02d00daba13"/>
   <project name="platform/system/extras" path="system/extras" revision="de7d1f410edc6ec57d8b7c205e1028f54c6391ff"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="bbc0d2a0c4bc50f0855a29e626cd12566fce49c1"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="6d579fb0b5006b66cfadb2ab6d4f4cd28d06f697"/>
   <project name="platform/vendor/aosp" path="vendor/aosp" revision="e0a2b8bbf9c016a8958f879456d72733717fd3ab"/>
   <project name="platform/vendor/htc/common-open" path="vendor/htc/common-open" revision="17957318da129215e265f7ff4ad2965730b1ea77"/>
   <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="f8fbbc60139895dffe9326e7e60b1e9756588673"/>
@@ -176,9 +176,9 @@
   <project name="platform/vendor/qcom/proprietary-open" path="vendor/qcom/proprietary-open" revision="142cc51d6b00845b9f9cdb07182cec95984e23b5"/>
   <project name="platform/vendor/sample" path="vendor/sample" revision="5c94e0d59a655785f6da68cc8de3236c604c32dc"/>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
-  <project name="platform/vendor/ti/nextgen" path="vendor/ti/nextgen" revision="34b18313110e3223cab18ffcd608b7200ee8dd87"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="85473f77c0a6ca99d77e5ad27ac9a08e3b4d0e83"/>
+  <project name="platform/vendor/ti/nextgen" path="vendor/ti/nextgen" revision="b9ef9bc1706963215e16e546225f867fced01a4b"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="9dd1019181c375c80c725a846c32b527375db3e4"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="a24307d80ec2e323c1e5afc723ee8755ce20726c"/>
-  <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="78e778e0ea884306841c6499851a1e35177d81d0"/>
-  <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="599c6cb87ee0c01fd6632b24f6d7e0a2b3ea5d0a"/>
+  <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="248783f15092779da506801e97936aa2b7ed3783"/>
+  <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="49f261c4e0bbc5d50e164f5fc58442dec68654b6"/>
 </manifest>
