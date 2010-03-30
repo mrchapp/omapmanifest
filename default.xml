@@ -5,7 +5,7 @@
   
   <default remote="omap-mirror" revision="p-eclair"/>
   
-  <project name="kernel/omap" path="kernel/android-2.6.29" revision="39a798a0881cc57e949c816a2f9af03f90cf0b33"/>
+  <project name="kernel/omap" path="kernel/android-2.6.29" revision="6bec52ae43198677467744befd6598ab19f5c041"/>
   <project name="platform/bionic" path="bionic" revision="c1079aaf913133f4a4fd9598006823e52fca4247"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="334049b68e0257ff5f3122963ae8ae6d4ccc9fad"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="de715178f2c6dbd7009cef01ba7fef9c4cb2fdcc"/>
@@ -95,19 +95,19 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="a81cef2c38d3a2ee610ff7fff2e775c243ec8543"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="75a0f6d0123c2ee125596575476c4e84d674fa80"/>
   <project name="platform/external/zlib" path="external/zlib" revision="25d84c5c494ec5bc6ba5730baeb21d5592f81765"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="116fdd25393586597aa7c545b00a7c9d2639258c"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="60456347e31d265a3996766630b7a5eb8dd45e9a"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="b9cc8698cd9e07b81ac5b98312935058a7286653"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="f9ae3643c5199548b320b33bf5579c289a765c6a"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="e959e67336c2f9c490bcf053f13dbd613da95221"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="dda74d1148d5c653dd44f17d5e676b0cdfb87d8d"/>
-  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="b2b466dfccde9529d30e5b033b41a3f80d6061a0"/>
+  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="f93853401e0e2912e94639b0af4277e129a87d35"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="8c91f07a68d3a89bcaf62af44534a0fcc38887f3"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="d910467a28f4ab3b5f20136fe261edd0464a2d0c"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="845d0372266fdd72953dd171648543228afb655b"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="9e0489f1371401197d5a59c4bbbd803a64aff9e8"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="2c21e09266e5fa26061879918c877cb107ab9701"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="d5ca3918346d3a6a1795f8cc1af6e8dd7071c1a2"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="51c43407a9f5255e3547929d45b807778f7fe2f9"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="98db3126b7375a9278d9f0f3a4d21ef2daf1c04e"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="0f01cf3c872ae8d8abd9ee66b8c4fcd5526282fc"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="a54ea56cd8f16c7f5e994522e4f1ad748fed6a59"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="8e4a80a1d620364e7bf4ca734ded82dd2c4e0645"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="7e78db1249c74cc1b130c83f4d8f026f3753491a"/>
