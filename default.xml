@@ -181,17 +181,16 @@
   <project path="vendor/qcom/proprietary-open" name="platform/vendor/qcom/proprietary-open" />
   <project path="vendor/sample" name="platform/vendor/sample" />
 
-<!-- No longer bring in the kernel
-  <project path="kernel/android-2.6.27"
-           name="repo/omapkernel"
-           revision="refs/heads/android-2.6.27"
-           remote="omap-mirror" />
+
+<!-- TI specific addons -->
+<!-- drop the kernel and encourage the user to clone it manually
   <project path="kernel/android-2.6.29"
            name="kernel/omap"
            revision="refs/heads/p-android-omap-2.6.29"
            remote="omap-mirror" />
 -->
-  <project path="bootable/bootloader/u-boot" name="repo/u-boot"
+
+  <project path="bootable/bootloader/u-boot" name="repo/u-boot" 
            revision="refs/heads/master" />
   <project path="bootable/bootloader/x-loader" name="repo/x-loader"
            revision="refs/heads/master" />
@@ -208,6 +207,21 @@
            revision="master" />
   <project path="hardware/ti/omx" name="platform/hardware/ti/omx"
            revision="master" />
+  <project path="external/libexif" name="platform/external/libexif" />
+
+<!-- syslink stuff -->
+  <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" 
+           revision="memmgr_1.0" />
+  <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink" 
+           revision="syslink-1.0" />
+
+<!-- No modem support
+  <project path="hardware/enfora/edg308-ril"
+           name="platform/hardware/enfora/edg308-ril" 
+           revision="donut" />
+  <project path="hardware/idcc/6071-ril"
+           name="platform/hardware/idcc/6071-ril" />
+-->
 
   <project path="external/alsa-lib" name="platform/external/alsa-lib" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" />
