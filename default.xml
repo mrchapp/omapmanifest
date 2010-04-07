@@ -206,6 +206,11 @@
   <project path="bootable/bootloader/x-loader" name="repo/x-loader" 
            revision="refs/heads/master" />
 
+  <project path="vendor/ti/common-open" name="platform/vendor/ti/common-open"
+           revision="master" >
+    <copyfile src="README.kernel" dest="README.kernel" />
+  </project>
+
   <project path="vendor/ti/ldp1" name="platform/vendor/ti/ldp1" 
            revision="eclair" />
   <project path="vendor/ti/zoom2" name="platform/vendor/ti/zoom2" 
