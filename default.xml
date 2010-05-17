@@ -222,7 +222,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" 
            revision="eclair" />
   <project path="hardware/ti/omx" name="platform/hardware/ti/omx" 
-           revision="eclair" />
+           revision="master" />
   <project path="external/libexif" name="platform/external/libexif" />
 
 <!-- syslink stuff -->
