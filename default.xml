@@ -66,7 +66,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="f5aa11fb0b7728e9c16b67d6b51307ef71bc7fa0"/>
   <project name="platform/external/netperf" path="external/netperf" revision="60f020ce23833617a3fd5156ae0e477bed8b0a2e"/>
   <project name="platform/external/neven" path="external/neven" revision="2da0ad6da32a4506138a7c0b8be71603e40d8db6"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="8d5613fe272c8b8ad706452548e5359031ec5b87"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="11d309f8af877f70f09b3bc78687ce2c09580e23"/>
   <project name="platform/external/openssl" path="external/openssl" revision="165468dd21b7878f2b62264fb567d8bd95109e28"/>
   <project name="platform/external/openvpn" path="external/openvpn" revision="832797bfe0c8971b31e48f230edb739726b6cfbf"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="868bad75cb10f4ce656b2a84861a52fbf08b2c69"/>
@@ -76,7 +76,7 @@
   <project name="platform/external/protobuf" path="external/protobuf" revision="9fb23fe446fc60cc135dae3154d14fdae17d37ba"/>
   <project name="platform/external/qemu" path="external/qemu" revision="501bea80640e1d3a5fa666c8dca30d043029503b"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="ee6f9ffd9d7d58de8e7505495b9025ab4e28ab7a"/>
-  <project name="platform/external/skia" path="external/skia" revision="73c5eb2053badb0310440ee6a3fac50d82841603"/>
+  <project name="platform/external/skia" path="external/skia" revision="b1d5649c894dc1e6db03f29dc25dc41842243ed0"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="303ad211235dad231bd882767f67a243af216651"/>
   <project name="platform/external/speex" path="external/speex" revision="28043bda06814fcfd217024a781a0f4c1f09100d"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="e9820cedd7fc2d1340461d8c2c42e731105f6005"/>
@@ -89,25 +89,25 @@
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="05c65546764c976f6680dffe772847341badc110"/>
   <project name="platform/external/tremor" path="external/tremor" revision="496bf83bbea2d7e0b282d1e97468708056f2bebc"/>
   <project name="platform/external/webkit" path="external/webkit" revision="62d2df3a696e6812fdd30d362c939ef039b5e4a1"/>
-  <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="d3dc619b04d4df3dfde9d0c8b8ec4d8291fadf00"/>
+  <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="67e8523f1658e3b77252a7f7e4dcb68c08be781d"/>
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="bc1edd790c55919331381ac4073647e35f5b7e80"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="a81cef2c38d3a2ee610ff7fff2e775c243ec8543"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="75a0f6d0123c2ee125596575476c4e84d674fa80"/>
   <project name="platform/external/zlib" path="external/zlib" revision="25d84c5c494ec5bc6ba5730baeb21d5592f81765"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="6dc3dc91141c4c363d307b4c014c774514fe0a09"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="e43367e2808a6218ab8b10c62c2c4e85badc1fe1"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="b9cc8698cd9e07b81ac5b98312935058a7286653"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="f9ae3643c5199548b320b33bf5579c289a765c6a"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="e959e67336c2f9c490bcf053f13dbd613da95221"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="dda74d1148d5c653dd44f17d5e676b0cdfb87d8d"/>
-  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="036d5db762b204eaef5b3980ffc198dbfdab02d8"/>
+  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="9c7d1defcf58677eeabc35e9e9c078274b69fce6"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="8c91f07a68d3a89bcaf62af44534a0fcc38887f3"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a4350403802986acb8ba8845df6a993bce4aa4dd"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="845d0372266fdd72953dd171648543228afb655b"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="9e0489f1371401197d5a59c4bbbd803a64aff9e8"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="2c21e09266e5fa26061879918c877cb107ab9701"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="a5cfe5a2e5e0b7b12281e57965d4de51cb56d05e"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="3454754fb5a611f64b103f19ad780c5255ccb448"/>
-  <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="79155162ee9f5822b427e2e15e2fbe72d1686879"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="0524e4603e3a7fafcb8355cb92a5c8c1575fab42"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="3507b8dcb38e2ff580cab54d68b79ceba0ed79e4"/>
+  <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="ba7963704554e7dd462cf07f35d25760df5c5660"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="59b634f70a2801dacea931a52f8c355a2238a0e3"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="a54ea56cd8f16c7f5e994522e4f1ad748fed6a59"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="8e4a80a1d620364e7bf4ca734ded82dd2c4e0645"/>
@@ -115,12 +115,12 @@
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="acb27e48217497f5aa33e9df06670c38fe4399e7"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="1fb23b54c1b9ff3b13866f5c1bc7277b81cca9a5"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="18cb504e8f273911906805edae071b59e315d294"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="5dcaceeefea1b9b6a3e261abd445c0ff7041559a"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="975ca2f8c62cee2c615621ae91bb2b31a47547a9"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="c993eafbeee0d61e0a11a12742276bbdf454a68c"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="4165cbce28bec317be03d61df59408ddc99a1e4e"/>
   <project name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="a0ec6a082330c0a65d6e972c7bfcbbb1bd7cc7af"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="aaee7a460d4238e3d0c227b1e424f8460e43edd5"/>
-  <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="0fcb34a684f8eb6bf86757c551650444c997cd89"/>
+  <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="ba15f90dd62878dbde915ce38ea26464c10bc361"/>
   <project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="4059001c9793411269bb288792718a9836a628d5"/>
   <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="ee70873ef3240e2af05965dde062ae924cde0804"/>
   <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="5d3678e05e8edec9d61d7b5c2750693692d0da7a"/>
@@ -180,9 +180,9 @@
     <copyfile dest="README.kernel" src="README.kernel"/>
   </project>
   <project name="platform/vendor/ti/ldp1" path="vendor/ti/ldp1" revision="8b8e04ac1c5d1871147dbfc2992aa487a1e49469"/>
-  <project name="platform/vendor/ti/nextgen" path="vendor/ti/nextgen" revision="c6c2c13e8a4bd65a902e6b932de275a1f7eefd4e"/>
-  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="65d14a27e2c78f4e8e15edd653e36f1282b1a7c5"/>
+  <project name="platform/vendor/ti/nextgen" path="vendor/ti/nextgen" revision="79b3923685936467dd76b9a3cf8b2e7889dbaa42"/>
+  <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="8dcaedcad041fbd899e082b2b4e92eae00d5e51a"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="a24307d80ec2e323c1e5afc723ee8755ce20726c"/>
-  <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="248783f15092779da506801e97936aa2b7ed3783"/>
-  <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="49f261c4e0bbc5d50e164f5fc58442dec68654b6"/>
+  <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="de352010a1ba26705350d4cbc4d00761c56bae3d"/>
+  <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="3cef0d053672743a541cf00448ee81a7bcb6558a"/>
 </manifest>
