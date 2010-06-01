@@ -166,7 +166,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="8af4432c512d262c07776fb5e112bfcf9c4cceec"/>
   <project name="platform/system/core" path="system/core" revision="4c5e7ffd806cdfe345fe589f2b60f02d00daba13"/>
   <project name="platform/system/extras" path="system/extras" revision="de7d1f410edc6ec57d8b7c205e1028f54c6391ff"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="1767fa002ff65a2aea112396d8a983d9172e7943"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="da1726b3b7c8b329b27761d760958baa40da0fb0"/>
   <project name="platform/vendor/aosp" path="vendor/aosp" revision="e0a2b8bbf9c016a8958f879456d72733717fd3ab"/>
   <project name="platform/vendor/htc/common-open" path="vendor/htc/common-open" revision="17957318da129215e265f7ff4ad2965730b1ea77"/>
   <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="f8fbbc60139895dffe9326e7e60b1e9756588673"/>
