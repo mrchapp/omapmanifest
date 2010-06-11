@@ -105,7 +105,7 @@
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="7fd85e16828d1dd7d1705524e8610ad5b418d55b"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="1e6baec54e051e7359aca7521d0919c6a6a91172"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="358c03ff70ce697f4b6d57cc048c0c37b5feb3b8"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="b5c5467425dd7441f62f3bf9223063fead68ae4e"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="2e62ce12ff4bb0e7eec01266bc9df2ec9a5c4c95"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="b885500b143796090e7cf4967b593cbe30e089f7"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="8cbdaf8c6d32e46de1e01f7f48b56c42e7a19a38"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="59b634f70a2801dacea931a52f8c355a2238a0e3"/>
