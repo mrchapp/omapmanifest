@@ -66,7 +66,7 @@
   <project name="platform/external/netcat" path="external/netcat" revision="f5aa11fb0b7728e9c16b67d6b51307ef71bc7fa0"/>
   <project name="platform/external/netperf" path="external/netperf" revision="60f020ce23833617a3fd5156ae0e477bed8b0a2e"/>
   <project name="platform/external/neven" path="external/neven" revision="2da0ad6da32a4506138a7c0b8be71603e40d8db6"/>
-  <project name="platform/external/opencore" path="external/opencore" revision="11d309f8af877f70f09b3bc78687ce2c09580e23"/>
+  <project name="platform/external/opencore" path="external/opencore" revision="refs/heads/inc2"/>
   <project name="platform/external/openssl" path="external/openssl" revision="165468dd21b7878f2b62264fb567d8bd95109e28"/>
   <project name="platform/external/openvpn" path="external/openvpn" revision="832797bfe0c8971b31e48f230edb739726b6cfbf"/>
   <project name="platform/external/oprofile" path="external/oprofile" revision="868bad75cb10f4ce656b2a84861a52fbf08b2c69"/>
@@ -99,7 +99,7 @@
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="f9ae3643c5199548b320b33bf5579c289a765c6a"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="e959e67336c2f9c490bcf053f13dbd613da95221"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="dda74d1148d5c653dd44f17d5e676b0cdfb87d8d"/>
-  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="9c7d1defcf58677eeabc35e9e9c078274b69fce6"/>
+  <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="refs/heads/inc2"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="8c91f07a68d3a89bcaf62af44534a0fcc38887f3"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="a4350403802986acb8ba8845df6a993bce4aa4dd"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="845d0372266fdd72953dd171648543228afb655b"/>
@@ -115,12 +115,12 @@
   <project name="platform/packages/apps/Browser" path="packages/apps/Browser" revision="acb27e48217497f5aa33e9df06670c38fe4399e7"/>
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="1fb23b54c1b9ff3b13866f5c1bc7277b81cca9a5"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="18cb504e8f273911906805edae071b59e315d294"/>
-  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="975ca2f8c62cee2c615621ae91bb2b31a47547a9"/>
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="refs/heads/inc2"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="c993eafbeee0d61e0a11a12742276bbdf454a68c"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="4165cbce28bec317be03d61df59408ddc99a1e4e"/>
   <project name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="a0ec6a082330c0a65d6e972c7bfcbbb1bd7cc7af"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="aaee7a460d4238e3d0c227b1e424f8460e43edd5"/>
-  <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="ba15f90dd62878dbde915ce38ea26464c10bc361"/>
+  <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="refs/heads/inc2"/>
   <project name="platform/packages/apps/Gallery3D" path="packages/apps/Gallery3D" revision="4059001c9793411269bb288792718a9836a628d5"/>
   <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="ee70873ef3240e2af05965dde062ae924cde0804"/>
   <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="5d3678e05e8edec9d61d7b5c2750693692d0da7a"/>
