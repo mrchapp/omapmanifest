@@ -3,8 +3,12 @@
   <remote  name="korg"
            fetch="git://android.git.kernel.org/"
            review="review.source.android.com" />
-  <default revision="froyo"
-           remote="korg" />
+  <remote  name="omap-mirror"
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
+
+  <default revision="p-froyo"
+           remote="omap-mirror" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -117,7 +121,7 @@
   <project path="hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/ril" name="platform/hardware/ril" />
-  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" revision="froyo" />
   <project path="hardware/ti/wlan" name="platform/hardware/ti/wlan" />
 
   <project path="ndk" name="platform/ndk" />
@@ -176,5 +180,39 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
+
+<!-- TI specific addons -->
+  <project path="bootable/bootloader/u-boot" name="repo/u-boot"
+           revision="refs/heads/master" />
+  <project path="bootable/bootloader/x-loader" name="repo/x-loader"
+           revision="refs/heads/master" />
+
+  <project path="device/ti/common-open" name="platform/vendor/ti/common-open"
+           revision="master" >
+    <copyfile src="README.kernel" dest="README.kernel" />
+  </project>
+
+  <project path="device/ti/zoom2" name="device/ti/zoom2"
+           revision="froyo" />
+  <project path="device/ti/blaze" name="device/ti/blaze"
+           revision="froyo" />
+
+  <project path="device/ti/support-tools" name="repo/support-tools"
+           revision="refs/heads/master" />
+  <project path="hardware/ti/omx" name="platform/hardware/ti/omx"
+           revision="master" />
+  <project path="external/libexif" name="platform/external/libexif" />
+
+<!-- syslink stuff -->
+  <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
+           revision="memmgr_1.0" />
+  <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
+           revision="syslink-1.0" />
+
+<!-- Bring in the alsa support -->
+  <project path="external/alsa-lib" name="platform/external/alsa-lib" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils" />
+  <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
+
 
 </manifest>
