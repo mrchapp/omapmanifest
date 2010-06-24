@@ -217,6 +217,8 @@
            revision="eclair" />
   <project path="vendor/ti/nextgen" name="platform/vendor/ti/nextgen" 
            revision="eclair" />
+  <project path="vendor/ti/blaze" name="device/ti/blaze" 
+           revision="eclair" />
   <project path="vendor/ti/support-tools" name="repo/support-tools" 
            revision="refs/heads/master" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" 
