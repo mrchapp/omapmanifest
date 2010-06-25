@@ -246,4 +246,7 @@
   <project path="external/alsa-utils" name="platform/external/alsa-utils" />
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
 
+<!-- TI add on APPS -->
+  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="eclair" />
+
 </manifest>
