@@ -107,8 +107,8 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="358c03ff70ce697f4b6d57cc048c0c37b5feb3b8"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="2e62ce12ff4bb0e7eec01266bc9df2ec9a5c4c95"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="b885500b143796090e7cf4967b593cbe30e089f7"/>
-  <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="8cbdaf8c6d32e46de1e01f7f48b56c42e7a19a38"/>
-  <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="59b634f70a2801dacea931a52f8c355a2238a0e3"/>
+  <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="98dfec910c5af5b5f67ad1148c2cbbdfa0958c1e"/>
+  <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="53cb4b1f25ebea36b4b2872b49703de38d7386d6"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="9cd6858541d83b74f65a187473ba3dfc02403d03"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="37c67d328c94fa315dbf18dc53fe0b9929e55523"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="8916d261ab985d191999ec9f8751819434ec4cc0"/>
@@ -166,7 +166,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="39760b2529e6ef58ab49762703b2ee37fdbd7db5"/>
   <project name="platform/system/core" path="system/core" revision="e577a83ac173dab41f550ada526de6a3cbb44b9c"/>
   <project name="platform/system/extras" path="system/extras" revision="8e2734af47b25e9727c745d4eb7c42fef0cb19b4"/>
-  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="ea79467fba12b72f5b59c0cb1251761b219e6aa8"/>
+  <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="8eaea770b276cf65e80b4ddd5247a21d1b4cef00"/>
   <project name="platform/vendor/aosp" path="vendor/aosp" revision="e0a2b8bbf9c016a8958f879456d72733717fd3ab"/>
   <project name="platform/vendor/htc/common-open" path="vendor/htc/common-open" revision="17957318da129215e265f7ff4ad2965730b1ea77"/>
   <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="f8fbbc60139895dffe9326e7e60b1e9756588673"/>
@@ -184,5 +184,5 @@
   <project name="platform/vendor/ti/zoom2" path="vendor/ti/zoom2" revision="9b8b59b9b5b024bde0b58e8650b5f0e2638c31ad"/>
   <project name="repo/support-tools" path="vendor/ti/support-tools" revision="a24307d80ec2e323c1e5afc723ee8755ce20726c"/>
   <project name="repo/u-boot" path="bootable/bootloader/u-boot" revision="626aee14ccf5b5e49189ab2a4e256c58d5a4572f"/>
-  <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="cb4501270a23cd80e9cde9c7db1c6bf72a89d9c3"/>
+  <project name="repo/x-loader" path="bootable/bootloader/x-loader" revision="132029560a1f00cd0d43253d00ff92f00e13780b"/>
 </manifest>
