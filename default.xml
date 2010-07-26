@@ -203,11 +203,12 @@
            revision="master" />
   <project path="external/libexif" name="platform/external/libexif" />
 
-<!-- syslink stuff -->
+<!-- syslink & tiler stuff -->
+<!-- fixed to 27.5 release points -->
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
-           revision="memmgr_1.0" />
+           revision="53cb4b1f25ebea36b4b2872b49703de38d7386d6" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
-           revision="syslink-1.0" />
+           revision="22b4d7236a808759bd7a01ba2e6d6af8a34b2354" />
 
 <!-- Bring in the alsa support -->
   <project path="external/alsa-lib" name="platform/external/alsa-lib" />
