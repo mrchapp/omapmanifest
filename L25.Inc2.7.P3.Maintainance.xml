@@ -106,7 +106,7 @@
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="9e0489f1371401197d5a59c4bbbd803a64aff9e8"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="2c21e09266e5fa26061879918c877cb107ab9701"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="f8cd2baae5d50fb32403e5e08634e62426209da2"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="f587880062223a18fdf4efc02aa8800983bcfbdd"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="03c6570f413a4591520ed0949456cba8c662cdbb"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="ba7963704554e7dd462cf07f35d25760df5c5660"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="59b634f70a2801dacea931a52f8c355a2238a0e3"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="a54ea56cd8f16c7f5e994522e4f1ad748fed6a59"/>
