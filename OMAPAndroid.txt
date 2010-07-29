@@ -1,16 +1,8 @@
-Welcome to Android on OMAP RLS25.5rc2
+Welcome to Android on OMAP
 
-You can find an OMAP specific kernel under kernel.
+You can find an OMAP specific kernel at 
+git://git.omapzoom.org/kernel/omap
+
 The first and second stage bootloaders (x-loader and u-boot) can be
 found in the bootloader directory
-
-Additional Patches needed.
-Note: These patches must be manually added after the repo sync.  To
-  install, cd to the associated patch path and do the git pull.
-  i.e.: if the path is git://server.com/platform/frameworks/base -
-    you will need to cd to framework/base and do the git pull
-    from that directory.
-
-------------------------
-git pull git://android.git.kernel.org/platform/frameworks/base refs/changes/29/8929/1
 
