@@ -1,4 +1,4 @@
-  <?xml version="1.0" encoding="UTF-8" ?> 
+<?xml version="1.0" encoding="UTF-8" ?> 
 <manifest>
   <remote fetch="git://android.git.kernel.org/" name="korg" review="review.source.android.com" /> 
   <remote fetch="git://git.omapzoom.org/" name="omap-mirror" review="review.omapzoom.org" /> 
