@@ -207,7 +207,7 @@
            revision="refs/heads/master" />
 
   <project path="vendor/ti/common-open" name="platform/vendor/ti/common-open"
-           revision="master" >
+           revision="eclair" >
     <copyfile src="README.kernel" dest="README.kernel" />
   </project>
 
