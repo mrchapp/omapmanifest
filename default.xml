@@ -231,7 +231,7 @@
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler" 
            revision="memmgr_1.0" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink" 
-           revision="syslink-1.0" />
+           revision="syslink-2.0" />
 
 <!-- No modem support
   <project path="hardware/enfora/edg308-ril"
