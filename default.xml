@@ -208,7 +208,7 @@
 
   <project path="vendor/ti/common-open" name="platform/vendor/ti/common-open"
            revision="eclair" >
-    <copyfile src="README.kernel" dest="README.kernel" />
+    <copyfile src="README" dest="README" />
   </project>
 
   <project path="vendor/ti/ldp1" name="platform/vendor/ti/ldp1" 
