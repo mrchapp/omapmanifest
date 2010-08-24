@@ -218,5 +218,7 @@
 <!-- TI add on APPS -->
   <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="froyo" />
 
+<!-- Add in hostapd until Google introduces it in Gingerbread -->
+  <project path="external/hostapd" name="platform/external/hostapd" />
 
 </manifest>
