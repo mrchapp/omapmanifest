@@ -182,10 +182,12 @@
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
 <!-- TI specific addons -->
+<!--
   <project path="bootable/bootloader/u-boot" name="repo/u-boot"
            revision="refs/heads/master" />
   <project path="bootable/bootloader/x-loader" name="repo/x-loader"
            revision="refs/heads/master" />
+-->
 
   <project path="device/ti/common-open" name="platform/vendor/ti/common-open"
            revision="master" >
