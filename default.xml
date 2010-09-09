@@ -190,7 +190,7 @@
 -->
 
   <project path="device/ti/common-open" name="platform/vendor/ti/common-open"
-           revision="master" >
+           revision="froyo" >
     <copyfile src="README.kernel" dest="README.kernel" />
   </project>
 
