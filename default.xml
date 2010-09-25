@@ -13,7 +13,7 @@
   <project name="device/htc/passion-common" revision="d285baf035ad7b8d5d90790dc01761af95bd332e"/>
   <project name="device/htc/sapphire" revision="698109bb65563717f6a57c3f505f6412ff779c7d"/>
   <project name="device/sample" revision="b4b6fced74341091180b10529c509a7f2d9327fe"/>
-  <project name="device/ti/blaze" revision="0f7ef5ec3d175634dbae5cb075b72272b4787d1a"/>
+  <project name="device/ti/blaze" revision="e633be0ce9d5387a8181223420aeba960edc7c67"/>
   <project name="device/ti/zoom2" revision="442e51edd7173898454413631873ec239fe9427e"/>
   <project name="platform/bionic" path="bionic" revision="2c308f7d433ce680b511ad9135f18fca3d74249f"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="4acde5dcafa1b7c7fa241081c9b49f0bbf436c23"/>
@@ -116,8 +116,8 @@
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="7f16e88be738d63e33e2e7c652c594379b136a01"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="463321860904029ebf9a62024c02f7bd82215ae4"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="76e1a7bfbf7317789e49721abf1b37eded14208b"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="ffc46568af83fc4c3baf51201b212d48b30760b2"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="4b896a5b2ddf8efed8e658fc070d58b1964f80e4"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="af0ca90e645bd7bac481e47f4a59a38fdf0352c9"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="9aa96c7fd0e23bf881d50127714ccc2ec63575b7"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="9a6bc2155f9bbf60aa204d3bf7fdef040986585f"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="988b992650d1c482dc76ac890089f6641ecbaf9f"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="bdce65c9998b69a6b4f0682865515f72faec5266"/>
@@ -139,8 +139,8 @@
   <project name="platform/packages/apps/IM" path="packages/apps/IM" revision="d4eead18d460ee3b4f911bf93078158194bb252c"/>
   <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="8a3ef2ed6c2cc89ae96384358fa5fcba58b50ac0"/>
   <project name="platform/packages/apps/Mms" path="packages/apps/Mms" revision="2b7da074e10ceb0e04cc205efe721092781f2712"/>
-  <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="2d30c9fb816e42ab6ea1b1fc31e2092196036ee2"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="8ae36f60db4254c202eef8a3db5e24f6e63a3ae7"/>
+  <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="06f765e2c00ed420daa22878a23a73c1c6505c00"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="50ef0c3636f451f4615e8eced9f8d2080aa442d0"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="5e5e193b674790bf3195c4c9a0c7c6d6b4a92a09"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="6d6523c51e68ddfd1140713ddd9cb279499e9f4f"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="20d835c4b499d40504b08f58435d5b9de48ffddf"/>
@@ -179,5 +179,5 @@
   <project name="platform/vendor/ti/common-open" path="device/ti/common-open" revision="1a41533dbc6cfff4763ee5ed54944b0d5eb9d2ec">
     <copyfile dest="README.kernel" src="README.kernel"/>
   </project>
-  <project name="repo/support-tools" path="device/ti/support-tools" revision="55afb641167a4d0ed0336a3b1c77586816afe9d9"/>
+  <project name="repo/support-tools" path="device/ti/support-tools" revision="df61eb2c435b01537f19963bf321cd72f7784c3f"/>
 </manifest>
