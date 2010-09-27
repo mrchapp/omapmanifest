@@ -206,11 +206,11 @@
   <project path="external/libexif" name="platform/external/libexif" />
 
 <!-- syslink & tiler stuff -->
-<!-- fixed to 27.5 release points -->
+<!-- fixed to 27.7.1 release points -->
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
-           revision="988b992650d1c482dc76ac890089f6641ecbaf9f" />
+           revision="d74be6020e970228f6bd25112fde12ecb4322f65" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
-           revision="9a6bc2155f9bbf60aa204d3bf7fdef040986585f" />
+           revision="3ffda2ca374172d0a4a2744a1bd36bfd7ec79e03" />
 
 <!-- Bring in the alsa support -->
   <project path="external/alsa-lib" name="platform/external/alsa-lib" />
