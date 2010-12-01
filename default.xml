@@ -210,7 +210,7 @@
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
            revision="d74be6020e970228f6bd25112fde12ecb4322f65" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
-           revision="a7e255e9c5f1468c02f397fb44ddf34f732e7ab1" />
+           revision="16f0cebd8b5a430d943bc6bcfa0fe592bad425b9" />
 
 <!-- Bring in the alsa support -->
   <project path="external/alsa-lib" name="platform/external/alsa-lib" />
