@@ -105,7 +105,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="3b3ab6dcd91da784f1573de419747e4f7645a58c"/>
   <project name="platform/external/zlib" path="external/zlib" revision="d834beaf3037eed0745f6dbd987a3bd8b3bf7ee4"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="6c81cb09f4e5786d8c8f191c7a5ad6dd85086b22"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="e08357c7356202584d1916efd0f8f6d1b07841a8"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="823b6f3516076b92f78c3fc27037d24bb514e653"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="614a2ed219479b4c01affa50eb070504f1c2491d"/>
