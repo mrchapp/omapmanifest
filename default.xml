@@ -187,14 +187,14 @@
 -->
 
   <project path="device/ti/common-open" name="platform/vendor/ti/common-open"
-           revision="froyo" >
+           revision="gingerbread" >
     <copyfile src="README.kernel" dest="README.kernel" />
   </project>
 
   <project path="device/ti/zoom2" name="device/ti/zoom2"
-           revision="froyo" />
+           revision="gingerbread" />
   <project path="device/ti/blaze" name="device/ti/blaze"
-           revision="froyo" />
+           revision="gingerbread" />
 
   <project path="device/ti/support-tools" name="repo/support-tools"
            revision="refs/heads/master" />
@@ -215,9 +215,11 @@
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
 
 <!-- TI add on APPS -->
-  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="froyo" />
+  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="gingerbread" />
 
 <!-- Add in hostapd until Google introduces it in Gingerbread -->
+<!-- Removed since it is not in Gingerbread
   <project path="external/hostapd" name="platform/external/hostapd" />
+-->
 
 </manifest>
