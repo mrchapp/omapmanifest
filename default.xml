@@ -205,9 +205,9 @@
 <!-- syslink & tiler stuff -->
 <!-- fixed to 27.7.1 release points -->
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
-           revision="d74be6020e970228f6bd25112fde12ecb4322f65" />
+           revision="memmgr_2.0" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
-           revision="56bcc90b9958cddd9d1593624adad4b68572f85c" />
+           revision="syslink-2.0" />
 
 <!-- Bring in the alsa support -->
   <project path="external/alsa-lib" name="platform/external/alsa-lib" />
