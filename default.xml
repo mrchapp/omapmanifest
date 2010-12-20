@@ -205,7 +205,7 @@
 <!-- syslink & tiler stuff -->
 <!-- fixed to 27.7.1 release points -->
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
-           revision="memmgr_2.0" />
+           revision="memmgr_1.0" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
            revision="syslink-2.0" />
 
