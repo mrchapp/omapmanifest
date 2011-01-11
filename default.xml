@@ -195,6 +195,8 @@
            revision="gingerbread" />
   <project path="device/ti/blaze" name="device/ti/blaze"
            revision="gingerbread" />
+  <project path="device/ti/proprietary-open" name="device/ti/proprietary-open"
+           revision="gingerbread" />
 
   <project path="device/ti/support-tools" name="repo/support-tools"
            revision="refs/heads/master" />
@@ -219,9 +221,7 @@
   <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="gingerbread" />
 -->
 
-<!-- Add in hostapd until Google introduces it in Gingerbread -->
-<!-- Removed since it is not in Gingerbread
+<!-- Add in hostapd until Google introduces it -->
   <project path="external/hostapd" name="platform/external/hostapd" />
--->
 
 </manifest>
