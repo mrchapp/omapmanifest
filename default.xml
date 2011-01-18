@@ -217,9 +217,7 @@
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
 
 <!-- TI add on APPS -->
-<!-- removed until someone can port it to gingerbread
   <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="gingerbread" />
--->
 
 <!-- Add in hostapd until Google introduces it -->
   <project path="external/hostapd" name="platform/external/hostapd" />
