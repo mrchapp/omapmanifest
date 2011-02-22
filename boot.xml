@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="korg"
+           fetch="git://android.git.kernel.org/"
+           review="review.source.android.com" />
+  <remote  name="omap-mirror"
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
+
+  <default revision="bad-branch"
+           remote="omap-mirror" />
+
+  <project path="support-tools" name="repo/support-tools"
+           revision="refs/heads/master" />
+  <project path="kernel" name="kernel/omap"
+           revision="p-android-omap-2.6.35" />
+  <project path="bootloader/u-boot" name="repo/u-boot"
+           revision="master" />
+  <project path="bootloader/x-loader" name="repo/x-loader"
+           revision="master" />
+  <project path="bootloader/omapboot" name="repo/omapboot"
+           revision="master" />
+
+<!--
+  <project path="build" name="platform/build">
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+-->
+
+</manifest>
