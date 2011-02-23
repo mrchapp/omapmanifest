@@ -217,7 +217,8 @@
   <project path="hardware/alsa_sound" name="platform/hardware/alsa_sound" />
 
 <!-- Bring in wpan (FM, GPS, BT) support -->
-  <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" />
+  <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan" 
+           revision="gingerbread" />
 
 <!-- TI add on APPS -->
   <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="gingerbread" />
