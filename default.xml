@@ -208,7 +208,7 @@
 <!-- syslink & tiler stuff -->
 <!-- fixed to 27.7.1 release points -->
   <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
-           revision="e8290e494cda4a4817fead14eb3a07463ca87eba" />
+           revision="893ef237b5da6c33742639d3d9b67a27fcc03775" />
   <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
            revision="7a54dfe773ed692e906775c819f6bf8c656c9532" />
 
