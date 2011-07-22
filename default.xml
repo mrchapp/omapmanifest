@@ -14,7 +14,7 @@
   <project name="device/sample" revision="3f6a489c7262c3a93f287ce58ea504cb92ada9bf"/>
   <project name="device/samsung/crespo" revision="9d7bbc9b4baa04294c832e1c2e4a2741bd043d58"/>
   <project name="device/samsung/crespo4g" revision="37066e3aa88139037d18d42242b9e36f6c40d22e"/>
-  <project name="device/ti/blaze" revision="b833629ca66fb50b7ee464ea7e873448b2a49cab"/>
+  <project name="device/ti/blaze" revision="6d3e32a7be2b4346398da806c5c332daec75df10"/>
   <project name="device/ti/pandaboard" revision="2af848e195abfb3a4a5ff9f88a16f7e9398911b9"/>
   <project name="device/ti/proprietary-open" revision="6fef0644f6ac026f2ed8e9b1c0b6e084c18183f5"/>
   <project name="device/ti/zoom2" revision="451ccbfac1d66ed9f48eb6b8846ff269e614a3c7"/>
