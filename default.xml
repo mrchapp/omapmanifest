@@ -126,11 +126,11 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="36fb5888a17a2d1ca69c7c2e2d378127f354153b"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="3b1530aef62476248825a2092c9aea800395c3b1"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="6163ec2d8505951d0bc1b79e6ec9e4e8004dbf0a"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="6defd6fb33a524040416997278db699d516d9882"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="510742ff3c5c6ad8a974779ae1544dd47ae8e6dd"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="c216d8ea9a87c7c87bd4df1e5cd3889dc2f9d3cc"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="959d19506f90c1a80a888bf57087d5251edb2dce"/>
-  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="3170f410900750fdad87480a114a413254e56bef"/>
+  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="6b234f036f442e7be1ba5d249fe07c8266506061"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="fc2999b07b340242bd32bc2267bc5f358f5dc38c"/>
   <project name="platform/libcore" path="libcore" revision="f241d462634527692b7d99335cdc8c11883ac966"/>
   <project name="platform/ndk" path="ndk" revision="7a619be40e8594a961066a33b7cc9ef52f566988"/>
@@ -140,6 +140,7 @@
   <project name="platform/packages/apps/Calculator" path="packages/apps/Calculator" revision="5c85e48a713ec70ebce65ebf1a3622035992f8c3"/>
   <project name="platform/packages/apps/Calendar" path="packages/apps/Calendar" revision="c7e82e7eea5648c1ac3b69e68c877be931dd77f8"/>
   <project name="platform/packages/apps/Camera" path="packages/apps/Camera" revision="3a10daf2ad55b36d618921f6282e347e6326e907"/>
+  <project name="platform/packages/apps/CellBroadcastReceiver" path="packages/apps/CellBroadcastReceiver" revision="50a624a47ce645a7992e346e40a4e7ec5e0df9b7"/>
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="457ffda6726b8e0f88d78a9267b840d102a8907a"/>
   <project name="platform/packages/apps/Contacts" path="packages/apps/Contacts" revision="c826fb4e0d1021094e467ab467711c77603f2369"/>
   <project name="platform/packages/apps/DeskClock" path="packages/apps/DeskClock" revision="1ed367c40df8a2ce2268527e182bbb73af07f217"/>
@@ -158,6 +159,7 @@
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="f31b933a8aebf07e3feb512ac650c5691c8c5e0f"/>
   <project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="858c98193a771cfd4d91852282d1f5490b29bb4a"/>
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="3d99e686da6c8ae75c187d1b03eeab7c867a4e10"/>
+  <project name="platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" revision="29eae320a4bd222b5ff1c092f84f1aebba88d0b7"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="753cfff84dea1b6c67f067ac46b9c5431b891067"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="f075eb5cefb6357aa7562a6d156bda5383ac087d"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="d2f267c7ed48dc77878299e12925bc3c39db5d37"/>
@@ -189,8 +191,8 @@
   <project name="platform/system/netd" path="system/netd" revision="89ed33fee444b88706f34466f16da31c3ad0ae59"/>
   <project name="platform/system/vold" path="system/vold" revision="c51920c82463b240e2be0430849837d6fdc5352e"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="3baca6cc248e0d9a852c25b214c92bc856ae03ea"/>
-  <project name="platform/vendor/ti/common-open" path="device/ti/common-open" revision="b700fa230e645f451a51691c816619f332965acb">
+  <project name="platform/vendor/ti/common-open" path="device/ti/common-open" revision="26091ef69dffab2ad4f8c9c1175f0d1530fa4fbc">
     <copyfile dest="README.kernel" src="README.kernel"/>
   </project>
-  <project name="repo/support-tools" path="device/ti/support-tools" revision="73257fb64690d11512a2c117dd486d6fb4e72e34"/>
+  <project name="repo/support-tools" path="device/ti/support-tools" revision="0988e853e33955ff9420763a3423af6af852930e"/>
 </manifest>
