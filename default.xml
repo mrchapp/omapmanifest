@@ -126,8 +126,8 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="36fb5888a17a2d1ca69c7c2e2d378127f354153b"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="3b1530aef62476248825a2092c9aea800395c3b1"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="6defd6fb33a524040416997278db699d516d9882"/>
-  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="510742ff3c5c6ad8a974779ae1544dd47ae8e6dd"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="8379f942717d758d20cb5bf9250151c3884dc7e5"/>
+  <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="9f7f93f1d6b76a9854a51d554d3b51834a9db460"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="c216d8ea9a87c7c87bd4df1e5cd3889dc2f9d3cc"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="959d19506f90c1a80a888bf57087d5251edb2dce"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="6b234f036f442e7be1ba5d249fe07c8266506061"/>
