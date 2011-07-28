@@ -194,5 +194,5 @@
   <project name="platform/vendor/ti/common-open" path="device/ti/common-open" revision="26091ef69dffab2ad4f8c9c1175f0d1530fa4fbc">
     <copyfile dest="README.kernel" src="README.kernel"/>
   </project>
-  <project name="repo/support-tools" path="device/ti/support-tools" revision="0988e853e33955ff9420763a3423af6af852930e"/>
+  <project name="repo/support-tools" path="device/ti/support-tools" revision="d4215ace7a2a4f191b7da5b512075251ad113126"/>
 </manifest>
