@@ -130,7 +130,7 @@
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="ecb4ba5cb993bc5e6766a699ae3c69ac613b2b31"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="522b3fcee5fe28d8849a731b334fe9ac241efdf4"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="959d19506f90c1a80a888bf57087d5251edb2dce"/>
-  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="6b234f036f442e7be1ba5d249fe07c8266506061"/>
+  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="530deb563e354e62ea93cf6c29d476b25bb715ab"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="fc2999b07b340242bd32bc2267bc5f358f5dc38c"/>
   <project name="platform/libcore" path="libcore" revision="9cca6a44c922649806cb8a79efc5f615f97e30a1"/>
   <project name="platform/ndk" path="ndk" revision="7a619be40e8594a961066a33b7cc9ef52f566988"/>
