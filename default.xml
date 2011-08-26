@@ -111,7 +111,7 @@
   <project name="platform/external/v8" path="external/v8" revision="6599b9dd3411791c9d89ab7efbfb4131e5664c48"/>
   <project name="platform/external/webkit" path="external/webkit" revision="622d72beb96a024bb18591feb39d4b21d0a34bd7"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="2b7ee495307e9fd349a0f37ec560834adbc954cc"/>
-  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="5db01df96feb41e8058cfe496e09567b7ea9fa05"/>
+  <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="2849f347c9f396b840fbb3d5fcfb5c85c7b4a69f"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="0fe811d9a994dd6df8aa9852c7b9241fa9aa453b"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
