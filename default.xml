@@ -16,7 +16,7 @@
   <project name="device/samsung/crespo4g" revision="0a6bef98731456162bb229f05df2dd14211f19d4"/>
   <project name="device/ti/blaze" revision="325adfa16ed89141d4d244c6126f25dbfe3e707e"/>
   <project name="device/ti/pandaboard" revision="2af848e195abfb3a4a5ff9f88a16f7e9398911b9"/>
-  <project name="device/ti/proprietary-open" revision="14a8d530f87e332c25eea140c4fbff9a7880d951"/>
+  <project name="device/ti/proprietary-open" revision="511bfda6757b6bda2c6f548f88bf4a4a383e9a02"/>
   <project name="device/ti/zoom2" revision="451ccbfac1d66ed9f48eb6b8846ff269e614a3c7"/>
   <project name="platform/bionic" path="bionic" revision="66b2107626bd86d59a595f275dd700e396ad5dfb"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
