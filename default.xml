@@ -115,7 +115,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="0fe811d9a994dd6df8aa9852c7b9241fa9aa453b"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="e5b057915e2800d01a655f73ef0e7423ce088c94"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="2233396e74d8b1d1589248ff71db4d9a2a5972d8"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="e0d5045a56146f0e7d8ea9e400f6eb209edceec5"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="b00f47e041b92069a7208c97d20754cd7e658852"/>
