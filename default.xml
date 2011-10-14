@@ -14,7 +14,7 @@
   <project name="device/sample" revision="3f6a489c7262c3a93f287ce58ea504cb92ada9bf"/>
   <project name="device/samsung/crespo" revision="e89ca68fd2ef92da9588838ec70f015ad7b8b938"/>
   <project name="device/samsung/crespo4g" revision="0a6bef98731456162bb229f05df2dd14211f19d4"/>
-  <project name="device/ti/blaze" revision="fe43757523ba50a9213c9bbfb80caef252344bde"/>
+  <project name="device/ti/blaze" revision="059cc4b2762c1dfe88a0df7eee877c17f90370d6"/>
   <project name="device/ti/pandaboard" revision="2af848e195abfb3a4a5ff9f88a16f7e9398911b9"/>
   <project name="device/ti/proprietary-open" revision="511bfda6757b6bda2c6f548f88bf4a4a383e9a02"/>
   <project name="device/ti/zoom2" revision="451ccbfac1d66ed9f48eb6b8846ff269e614a3c7"/>
@@ -115,7 +115,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="0fe811d9a994dd6df8aa9852c7b9241fa9aa453b"/>
   <project name="platform/external/zlib" path="external/zlib" revision="96c70b1df1629d7f0eb8f666045bfd5eb062cebf"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="2233396e74d8b1d1589248ff71db4d9a2a5972d8"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="9ea00c47d8ac795076e74a82d89de1ea661c13fb"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="e0d5045a56146f0e7d8ea9e400f6eb209edceec5"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="49f8fa5f480ae382f9087fde333b50072b214ad2"/>
   <project name="platform/hardware/alsa_sound" path="hardware/alsa_sound" revision="b00f47e041b92069a7208c97d20754cd7e658852"/>
@@ -126,7 +126,7 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="36fb5888a17a2d1ca69c7c2e2d378127f354153b"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="3b1530aef62476248825a2092c9aea800395c3b1"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="d7fffbdd6e1f11bd6ce44b93ee69a915e0856f61"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="25111d8074bff04dcff9996f88e7aa8f318e8895"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="ecb4ba5cb993bc5e6766a699ae3c69ac613b2b31"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="38f659210b5575a01b21898de69ddb22d6a59c0d"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="959d19506f90c1a80a888bf57087d5251edb2dce"/>
