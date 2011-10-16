@@ -126,7 +126,7 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="36fb5888a17a2d1ca69c7c2e2d378127f354153b"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="3b1530aef62476248825a2092c9aea800395c3b1"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="4c484c603e1eef8898e9b15575f8095a1580bbcd"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="3dd18fcb67b88958b8eeba21b9459187c3d85c6d"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="ecb4ba5cb993bc5e6766a699ae3c69ac613b2b31"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="38f659210b5575a01b21898de69ddb22d6a59c0d"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="959d19506f90c1a80a888bf57087d5251edb2dce"/>
