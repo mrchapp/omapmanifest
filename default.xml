@@ -16,7 +16,7 @@
   <project name="device/samsung/crespo4g" revision="0a6bef98731456162bb229f05df2dd14211f19d4"/>
   <project name="device/ti/blaze" revision="f729fc078ce6270d20ead7feeb75be5de9154f41"/>
   <project name="device/ti/pandaboard" revision="2af848e195abfb3a4a5ff9f88a16f7e9398911b9"/>
-  <project name="device/ti/proprietary-open" revision="511bfda6757b6bda2c6f548f88bf4a4a383e9a02"/>
+  <project name="device/ti/proprietary-open" revision="f92aece12f3149e6756ebd2daa9fbb440bec7540"/>
   <project name="device/ti/zoom2" revision="451ccbfac1d66ed9f48eb6b8846ff269e614a3c7"/>
   <project name="platform/bionic" path="bionic" revision="e15e9e31de1e87b7714abfc190a56afec4f2c6a4"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
@@ -126,7 +126,7 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="a162c4351926285892214b0726aaf07f0631dc72"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="36fb5888a17a2d1ca69c7c2e2d378127f354153b"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="3b1530aef62476248825a2092c9aea800395c3b1"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="5fd91b467d98c4417025f8d2daef6ae4308401c6"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="b3fed1d59b993a4c937fb53b7faf25a2154ed6d2"/>
   <project name="platform/hardware/ti/omx" path="hardware/ti/omx" revision="ecb4ba5cb993bc5e6766a699ae3c69ac613b2b31"/>
   <project name="platform/hardware/ti/syslink" path="hardware/ti/syslink" revision="38f659210b5575a01b21898de69ddb22d6a59c0d"/>
   <project name="platform/hardware/ti/tiler" path="hardware/ti/tiler" revision="959d19506f90c1a80a888bf57087d5251edb2dce"/>
