@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="aosp"
+  <remote  name="omap-mirror"
            fetch=".." />
-  <default revision="ics-mr0"
-           remote="aosp"
+  <default revision="p-ics-mr0"
+           remote="omap-mirror"
            sync-j="4" />
 
   <project path="build" name="platform/build">
