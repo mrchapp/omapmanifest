@@ -252,6 +252,12 @@
   <project path="device/ti/proprietary-open" name="device/ti/proprietary-open"
            revision="ics-mr0" />
 
+<!-- Connectivity -->
+  <project path="hardware/ti/wlan" name="hardware/ti/wlan" />
+  <project path="hardware/ti/wpan" name="platform/hardware/ti/wpan"
+           revision="ics-mr0" />
+  <project path="external/crda" name="platform/external/crda" />
+
   <project path="device/ti/support-tools" name="repo/support-tools"
            revision="master" />
   <project path="hardware/ti/domx" name="platform/hardware/ti/domx"
