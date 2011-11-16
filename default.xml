@@ -5,7 +5,7 @@
            fetch=".." />
   <default revision="p-ics-mr0"
            remote="omap-mirror"
-           sync-j="4" />
+           sync-j="2" />
 
   <project path="build" name="platform/build">
     <copyfile src="core/root.mk" dest="Makefile" />
