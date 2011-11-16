@@ -163,7 +163,9 @@
   <project path="hardware/qcom/gps" name="platform/hardware/qcom/gps" />
   <project path="hardware/qcom/media" name="platform/hardware/qcom/media" />
   <project path="hardware/ril" name="platform/hardware/ril" />
+<!--
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" />
+-->
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
   <project path="libcore" name="platform/libcore" />
   <project path="ndk" name="platform/ndk" />
@@ -230,5 +232,44 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
+
+<!-- TI specific addons -->
+<!--
+  <project path="device/ti/common-open" name="platform/vendor/ti/common-open"
+           revision="ics-mr0" >
+    <copyfile src="README.kernel" dest="README.kernel" />
+  </project>
+-->
+
+
+<!-- OMAP4 related trees -->
+  <project path="device/ti/blaze" name="device/ti/blaze"
+           revision="ics-mr0" />
+  <project path="device/ti/blaze_tablet" name="device/ti/blaze_tablet"
+           revision="ics-mr0" />
+  <project path="device/ti/common-open" name="device/ti/common-open"
+           revision="ics-mr0" />
+  <project path="device/ti/proprietary-open" name="device/ti/proprietary-open"
+           revision="ics-mr0" />
+
+  <project path="device/ti/support-tools" name="repo/support-tools"
+           revision="master" />
+  <project path="hardware/ti/domx" name="platform/hardware/ti/domx"
+           revision="master" />
+
+<!-- TI add on APPS -->
+<!--
+  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="ics-mr0" />
+-->
+
+<!-- OMAP3 related trees - removed for now
+  <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" revision="ics-mr0" />
+  <project path="device/ti/zoom2" name="device/ti/zoom2"
+           revision="ics-mr0" />
+  <project path="hardware/ti/tiler" name="platform/hardware/ti/tiler"
+           revision="memmgr_1.0" />
+  <project path="hardware/ti/syslink" name="platform/hardware/ti/syslink"
+           revision="syslink-2.0-m1" />
+-->
 
 </manifest>
