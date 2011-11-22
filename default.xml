@@ -264,9 +264,7 @@
            revision="master" />
 
 <!-- TI add on APPS -->
-<!--
-  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="ics-mr0" />
--->
+  <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="ics" />
 
 <!-- OMAP3 related trees - removed for now
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" revision="ics-mr0" />
