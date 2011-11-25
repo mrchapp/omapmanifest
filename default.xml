@@ -2,7 +2,8 @@
 <manifest>
 
   <remote  name="omap-mirror"
-           fetch="git://git.omapzoom.org/" />
+           fetch="git://git.omapzoom.org/"
+           review="review.omapzoom.org" />
   <default revision="p-ics-mr0"
            remote="omap-mirror"
            sync-j="2" />
