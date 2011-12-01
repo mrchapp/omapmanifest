@@ -263,6 +263,7 @@
            revision="master" />
   <project path="hardware/ti/domx" name="platform/hardware/ti/domx"
            revision="master" />
+  <project path="external/bltsville" name="platform/external/bltsville" revision="master"/>
 
 <!-- TI add on APPS -->
   <project path="packages/apps/OMAPCamera" name="platform/packages/apps/OMAPCamera" revision="ics" />
