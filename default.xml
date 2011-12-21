@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch=".." name="omap-mirror" review="review.omapzoom.org"/>
+  <remote fetch="git://git.omapzoom.org/" name="omap-mirror" review="review.omapzoom.org"/>
   
   <default remote="omap-mirror" revision="p-ics-mr1" sync-j="2"/>
   
@@ -18,10 +18,10 @@
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="d2c8a7693def767d97dc0cddb88519ce14dd7c8b"/>
-  <project name="device/ti/blaze_tablet" revision="e254b0b1213c0122773955256681c75204d1d2cb"/>
+  <project name="device/ti/blaze_tablet" revision="6ad4a4f67c988b8c4d82042f88dfdb65ba14d764"/>
   <project name="device/ti/common-open" revision="2a8615409e7c9ed1f7024f4bc291cb72a1848220"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="decc1c6bc1490207aef1dba16ede1cc6ace4f057"/>
+  <project name="device/ti/proprietary-open" revision="82c5d2df934ed0ba0b315874f8312e6ab36ba759"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="253f8cc0ec95bc822572cf789a8385e1679c2570"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
@@ -153,7 +153,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="ca166bef30978e8401e0943e5357619b706f9c8a"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="4c135437fb47c0072c02d3545b5d54dfcd15e9f2"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
