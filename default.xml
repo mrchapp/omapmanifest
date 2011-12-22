@@ -192,7 +192,7 @@
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="6d7eef22cd2634bd0da8de8e38635dd92b3e5a48"/>
   <project name="platform/packages/apps/Exchange" path="packages/apps/Exchange" revision="91e5c5bfa6a12679c7611160ad848d4fa2fc73ad"/>
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="f73ddc5d259b0fb0c1f4d679409ad0f98c4107f9"/>
-  <project name="platform/packages/apps/Gallery2" path="packages/apps/Gallery2" revision="4fc0cbd39b53e3533312b6128e7d0cde59a1f52e"/>
+  <project name="platform/packages/apps/Gallery2" path="packages/apps/Gallery2" revision="3984e127ea50d2e5ed98fda5895ac5be1264f168"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="4230220ef8be426d69bb1a3f0f7a012793ce0d27"/>
   <project name="platform/packages/apps/KeyChain" path="packages/apps/KeyChain" revision="dbfabf9856a86fbe0f072edddae70fda52e8a46d"/>
   <project name="platform/packages/apps/Launcher2" path="packages/apps/Launcher2" revision="f4e80c840944e81eae96426a995c26712f1b9780"/>
