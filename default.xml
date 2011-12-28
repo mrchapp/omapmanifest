@@ -149,7 +149,7 @@
   <project name="platform/external/webrtc" path="external/webrtc" revision="4b6dc1ec58105d17dc8c2f550124cc0621dc93b7"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="a01d37870bbf9892d43e792e5de0683ca41c5497"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="45cd323af5993cdb21cc2fb2f58aa65a0383fc88"/>
-  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="c6f0a6ff39c7918f052016b70b4f19e6550a52c8"/>
+  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="f3cb87aae49ec3d09ceda33f53ad86976a90bec2"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
@@ -175,7 +175,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="815585250dd54f54389cb6b5c33c72be80889d7b"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="8e1936734232f79a17391153691a384943fc6a72"/>
-  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="1d1fc2c727555cfd250c2b59129935baa07b9bab"/>
+  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0f6417ae6915bf81d7cccd74ebe0d392abf057df"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="e6f7b85a14f5fb5540a0bf303bd5e66f32f859f4"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
