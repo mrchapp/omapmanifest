@@ -158,7 +158,7 @@
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="dbbedc12e99acc1d006d819a9b539fd0f9ad044d"/>
-  <project name="platform/frameworks/media/libvideoeditor" path="frameworks/media/libvideoeditor" revision="38ca8aaf3ad045d8623bce0be9b351ae9004abb3"/>
+  <project name="platform/frameworks/media/libvideoeditor" path="frameworks/media/libvideoeditor" revision="203bc93fd1331be50eb39a22549523850a511024"/>
   <project name="platform/frameworks/opt/calendar" path="frameworks/opt/calendar" revision="9a91eb9d6c3c28b54223dae453c9d456b0c87355"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="a95d8db002770469d72dfaf59ff37ac96db29a87"/>
   <project name="platform/frameworks/opt/inputmethodcommon" path="frameworks/opt/inputmethodcommon" revision="f3320979f6d3b63686f15cedae65bba144643e25"/>
@@ -174,7 +174,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="815585250dd54f54389cb6b5c33c72be80889d7b"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="8e1936734232f79a17391153691a384943fc6a72"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="37d087925d5c1162fb4b29eaa65c5e8450c088d3"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0f6417ae6915bf81d7cccd74ebe0d392abf057df"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="e6f7b85a14f5fb5540a0bf303bd5e66f32f859f4"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
