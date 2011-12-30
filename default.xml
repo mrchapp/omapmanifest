@@ -86,7 +86,7 @@
   <project name="platform/external/javassist" path="external/javassist" revision="14b4d945586243192c8118f4f49be59ebbf561b8"/>
   <project name="platform/external/jdiff" path="external/jdiff" revision="e4694302d6a3786c64d954e0b3cf42786283bd3c"/>
   <project name="platform/external/jhead" path="external/jhead" revision="754078052c687f6721536009c816644c73e4f145"/>
-  <project name="platform/external/jpeg" path="external/jpeg" revision="ec4e879dadaa620c62824876a611431fd16a23ce"/>
+  <project name="platform/external/jpeg" path="external/jpeg" revision="5efcea91921ea21248c94bf73d25f1c0f79fe3d7"/>
   <project name="platform/external/jsilver" path="external/jsilver" revision="a618b151d54625078424bc5940f6bfd63344d11b"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="100f99d625909fd17a722a0ed0148549afd55cf8"/>
   <project name="platform/external/junit" path="external/junit" revision="b8ee2b059bd6a2fbb8618aa17b64fb921d6df00f"/>
@@ -174,7 +174,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="815585250dd54f54389cb6b5c33c72be80889d7b"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="00bc36662caea4e4d8f6809ef92334bdc015bcad"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="34d43c259ac9d5422c1e5bca8918ee80f566be98"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="9cb54d00ea849ae0f806a167b3bdbd72dbcd044f"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="e6f7b85a14f5fb5540a0bf303bd5e66f32f859f4"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
