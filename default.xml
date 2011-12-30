@@ -17,8 +17,8 @@
   <project name="device/samsung/maguro" revision="cc6ce87312d7a21512671138b7d8e152435d7f59"/>
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
-  <project name="device/ti/blaze" revision="104b0f87db9f2b3ce8a2a13d416358d1e72c2bfa"/>
-  <project name="device/ti/blaze_tablet" revision="3d3368fc3cb8569f0139800b822fa78239f27275"/>
+  <project name="device/ti/blaze" revision="e093409dd1c0ce376db188111fa83d5b504d1e9a"/>
+  <project name="device/ti/blaze_tablet" revision="f0885f67c330b6b81be97227702a541b8d5745d7"/>
   <project name="device/ti/common-open" revision="236e8be5e7c84e3550fd471512f6e858fe11a902"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="003e77b86b1e90572594f64ff8db9aecda288cbf"/>
@@ -153,7 +153,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="6f9a6152feafde9a491bc9fedacc30495692c666"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="701c8b75d8b80ca7fe8e52b588521341f9913a94"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
@@ -174,7 +174,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="815585250dd54f54389cb6b5c33c72be80889d7b"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="0b2e8c31367561b2cc6f3a4caf104394d2655172"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="00bc36662caea4e4d8f6809ef92334bdc015bcad"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0f6417ae6915bf81d7cccd74ebe0d392abf057df"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="e6f7b85a14f5fb5540a0bf303bd5e66f32f859f4"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
