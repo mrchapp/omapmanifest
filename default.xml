@@ -174,7 +174,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="815585250dd54f54389cb6b5c33c72be80889d7b"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="34d43c259ac9d5422c1e5bca8918ee80f566be98"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="30c7ee70996af1dec96750c4f28cd98e14d175b9"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="9cb54d00ea849ae0f806a167b3bdbd72dbcd044f"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="61f5b57ab86602b0a8218082780ad526db318744"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
@@ -200,7 +200,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="68fe8d4244a44c0711e43655beb5edef9291d9ef"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="985dcef867fcdb1afaca0fc478ec46dacf22b654"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="9227ada19b9da893cd8ab93bc312b58a6661e8e9"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="a74bc4b0566ed006e1182683c2664de685cba6ef"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="668cc01beac097e7060d3f564f24189578280bab"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="940067fb6ae30a26b7481e28acf7e3a00e9d06f3"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
