@@ -17,8 +17,8 @@
   <project name="device/samsung/maguro" revision="cc6ce87312d7a21512671138b7d8e152435d7f59"/>
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
-  <project name="device/ti/blaze" revision="e093409dd1c0ce376db188111fa83d5b504d1e9a"/>
-  <project name="device/ti/blaze_tablet" revision="f0885f67c330b6b81be97227702a541b8d5745d7"/>
+  <project name="device/ti/blaze" revision="9f05d20df1ab3417ca3376a7b3dbcc76cec6f645"/>
+  <project name="device/ti/blaze_tablet" revision="05445c02352cc41dab656d2c39d863ad585413e0"/>
   <project name="device/ti/common-open" revision="c9a50c5d145d675b621ec993cce9b62fd139a939"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="003e77b86b1e90572594f64ff8db9aecda288cbf"/>
