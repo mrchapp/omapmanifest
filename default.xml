@@ -18,10 +18,10 @@
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="f8e76d9cc82b2355330c99da3f8cb2949c9624b9"/>
-  <project name="device/ti/blaze_tablet" revision="844891ad6c0cf9a71121e11124bc8eeb13283d11"/>
+  <project name="device/ti/blaze_tablet" revision="eda6cbeeb7fcc5aafc77a5bbbf2680a06b8d3bf0"/>
   <project name="device/ti/common-open" revision="7803726663520423d63bb69aa4d7d03cfbce01cd"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="003e77b86b1e90572594f64ff8db9aecda288cbf"/>
+  <project name="device/ti/proprietary-open" revision="46fb18dfe413f76e80bcde6bbfffee32a6727d91"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="fc669d5dcb86b84c5f05f4f5124f9298cf5471e8"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
