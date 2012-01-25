@@ -21,7 +21,7 @@
   <project name="device/ti/blaze_tablet" revision="813db153bf40f881a48c60923a977dbef5aceb25"/>
   <project name="device/ti/common-open" revision="7803726663520423d63bb69aa4d7d03cfbce01cd"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="0edfafcf168734d7757ac1a439b12a0fb53ecfb6"/>
+  <project name="device/ti/proprietary-open" revision="091f3c822c82d24bddc3cad2efc6a805c22559bd"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="fc669d5dcb86b84c5f05f4f5124f9298cf5471e8"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
@@ -174,7 +174,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="815585250dd54f54389cb6b5c33c72be80889d7b"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="12cd7dc26478911b04208290f311e815cf2cb90f"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="ad4bf69f41a65f4f9c98d8bfbf12db157f17dd64"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="71bf818bf30e7970cdcb43132d8c5c938b72070c"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="7dc84e926aed35e06c2a5976090756cb64372008"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
