@@ -17,11 +17,11 @@
   <project name="device/samsung/maguro" revision="cc6ce87312d7a21512671138b7d8e152435d7f59"/>
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
-  <project name="device/ti/blaze" revision="1f0c496b432a1df28b5d1455d3e9f3177c33b85a"/>
-  <project name="device/ti/blaze_tablet" revision="813db153bf40f881a48c60923a977dbef5aceb25"/>
+  <project name="device/ti/blaze" revision="1fdcccb011fdeef3738cca48e7c8e2705b4e7a4a"/>
+  <project name="device/ti/blaze_tablet" revision="6cf446faef53e88d776a3ebebc06fe69d4433973"/>
   <project name="device/ti/common-open" revision="b2d7b489283ac6b99684cf26ceb6c8cbfbe3ded0"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="091f3c822c82d24bddc3cad2efc6a805c22559bd"/>
+  <project name="device/ti/proprietary-open" revision="4fd6497f9b43aab4b9e34da93d20c63f6150ee35"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="fc669d5dcb86b84c5f05f4f5124f9298cf5471e8"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
@@ -153,7 +153,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="a3514a2365174603e59bcba323ea4ec2824f1025"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="3c88d7f8d2829473edecde4e0bdf08f255fd4938"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
