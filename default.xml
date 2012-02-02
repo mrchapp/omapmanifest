@@ -17,9 +17,9 @@
   <project name="device/samsung/maguro" revision="cc6ce87312d7a21512671138b7d8e152435d7f59"/>
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
-  <project name="device/ti/blaze" revision="bf42ef89c1703e05ed316a87910598472e3f7478"/>
-  <project name="device/ti/blaze_tablet" revision="dc6f030fafeb57d1119855458ece44cb72793c6c"/>
-  <project name="device/ti/common-open" revision="b2d7b489283ac6b99684cf26ceb6c8cbfbe3ded0"/>
+  <project name="device/ti/blaze" revision="f58546e4183b581fb788b46bf1bc737a27854631"/>
+  <project name="device/ti/blaze_tablet" revision="0d3c6f349f7e5068701827b384c21e28d20a7322"/>
+  <project name="device/ti/common-open" revision="13c400abf311ba64baa533b5f3d5eb26ec66fdf8"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="77b812ecbf9de12a87bb12847ac7f5f4cd9f6042"/>
   <project name="device/ti/zoom2" revision="1d23ac48b6be924d6a046a828c3ce5c2983472c0"/>
@@ -154,7 +154,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="748c7449d91928452e1de9c060e5c0e87257250c"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="94e6e10dc864585cc9be1a4a1f32ef39deafefe8"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
