@@ -18,10 +18,10 @@
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="15f687b0acf04b91c90c5726f8dc43b368a4f522"/>
-  <project name="device/ti/blaze_tablet" revision="d06ed470d992deb53f49926b8a9f9aa51b0a8bae"/>
+  <project name="device/ti/blaze_tablet" revision="2ea541e46722a5de69c432a55b5627910ea093d8"/>
   <project name="device/ti/common-open" revision="d00724e486b1533b986a8eb4fb2cef3770edd7ef"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="77b812ecbf9de12a87bb12847ac7f5f4cd9f6042"/>
+  <project name="device/ti/proprietary-open" revision="48e61cacb1c933712b8e607d9d329e86db50d5e4"/>
   <project name="device/ti/zoom2" revision="1d23ac48b6be924d6a046a828c3ce5c2983472c0"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="6d6afb77ec843a54d8c964120dad02e7f7928684"/>
@@ -178,7 +178,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="71b33a71357b3ec211ae479b154cec071e379353"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="dc3c0ccea0f97a0f081988016f1748bf52ed3477"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="71bf818bf30e7970cdcb43132d8c5c938b72070c"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="7dc84e926aed35e06c2a5976090756cb64372008"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="07fe3a5220d17c12643b8bad8d66f5c62785ad6a"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
