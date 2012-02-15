@@ -19,7 +19,7 @@
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="b3ad6d947ef025e21809bd97c2eebcafdf466839"/>
   <project name="device/ti/blaze_tablet" revision="c695a89791f26dcab4f5b36b6629d2e5fff81848"/>
-  <project name="device/ti/common-open" revision="d00724e486b1533b986a8eb4fb2cef3770edd7ef"/>
+  <project name="device/ti/common-open" revision="11a0ec78b16dc4b2f45db7c8d2c1821e8d54cda1"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="48e61cacb1c933712b8e607d9d329e86db50d5e4"/>
   <project name="device/ti/zoom2" revision="1d23ac48b6be924d6a046a828c3ce5c2983472c0"/>
