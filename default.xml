@@ -18,7 +18,7 @@
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="b3ad6d947ef025e21809bd97c2eebcafdf466839"/>
-  <project name="device/ti/blaze_tablet" revision="c695a89791f26dcab4f5b36b6629d2e5fff81848"/>
+  <project name="device/ti/blaze_tablet" revision="e5e28f42a646772100c8c259044a7815e0b1a2b4"/>
   <project name="device/ti/common-open" revision="17e7b80dfbd6604f5ee357538686649bb82913d5"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="48e61cacb1c933712b8e607d9d329e86db50d5e4"/>
@@ -155,7 +155,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="82b89742e3584ea701b398f72b4454843e74c72e"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="7c85cf91278f5149f104ab7caf2625cdbdad5b26"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
@@ -177,7 +177,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="4a1384678869ed4109e7bf42b83f7707edda38c8"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="71b33a71357b3ec211ae479b154cec071e379353"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="de7fb35dc7e0812da77bc77fce9c034493e56bed"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="27f3cf0e0ab4b2d67a93152fcab2ccc9ae5ea553"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="71bf818bf30e7970cdcb43132d8c5c938b72070c"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="3e49bc584502e2775f13c33e9dfbc44be947f1de"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
@@ -203,7 +203,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="68fe8d4244a44c0711e43655beb5edef9291d9ef"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="985dcef867fcdb1afaca0fc478ec46dacf22b654"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="5bdfd89f012fc02e496aa3f03b88cfe0fa712e71"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="ac40797d8e4379a294633363c6309caa3d54549f"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="668cc01beac097e7060d3f564f24189578280bab"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="940067fb6ae30a26b7481e28acf7e3a00e9d06f3"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
