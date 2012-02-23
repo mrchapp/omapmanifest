@@ -170,7 +170,7 @@
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="ca7dd2f4dfbb470bb516d99b6bfa2935012fe231"/>
   <project name="platform/hardware/invensense" path="hardware/invensense" revision="425eccbf15c25c32cf073595d25ff50e51570c1b"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="9e98fcbd229c7cd9160da6afb0006f1d694c38bf"/>
-  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="461883d10199509bf0f1f15b2b57e4fe88549d8e"/>
+  <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="abda391437a2d9e23e116279a2b80ca40ad658d2"/>
   <project name="platform/hardware/msm7k" path="hardware/msm7k" revision="9d5cb0ab6a94985f12b0ec4122a2e540703d8fd8"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="13e995a1fec4d7b529367654f13d203e6ac3147d"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
