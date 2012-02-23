@@ -210,7 +210,7 @@
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="86bf6d8ac38de74b1bead64ac26fe5130dfffbf5"/>
   <project name="platform/packages/apps/QuickSearchBox" path="packages/apps/QuickSearchBox" revision="fa89200826a6566fad9ca6accefb6fa14c2e0ed9"/>
   <project name="platform/packages/apps/Settings" path="packages/apps/Settings" revision="4541d9053bb85190dbd845aebba988eeb64b0ba8"/>
-  <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="ae38393f0c689990dc8c34aae56ef203ad2d1c04"/>
+  <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="bd16d05a0e4b80dafce8c52ad4e1cbcad9395f7a"/>
   <project name="platform/packages/apps/SpareParts" path="packages/apps/SpareParts" revision="10f05a57805c5409f990959dcad25c67a82ec16d"/>
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="cea52ec4d3d74893154a21843baa7f001d489e84"/>
