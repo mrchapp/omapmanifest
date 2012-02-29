@@ -178,7 +178,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="4a1384678869ed4109e7bf42b83f7707edda38c8"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="ae3b27fe58fb705137c133df3bfa1f21d0a8322f"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="0ed381d4e5cf394a7e283b44cbb6cc295b97a680"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="ccbda6844bf0bf38b180c0b2a22b0f00c857abd4"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="71bf818bf30e7970cdcb43132d8c5c938b72070c"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="baac05664390c2476d113d1eb586d6167ab2d01e"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
@@ -204,7 +204,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="68fe8d4244a44c0711e43655beb5edef9291d9ef"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="985dcef867fcdb1afaca0fc478ec46dacf22b654"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="152def8208f725e2a175517f8159d0a63984a1ce"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="306e109a1d6173dba8dc7b85961c381bdcafffba"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="668cc01beac097e7060d3f564f24189578280bab"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="940067fb6ae30a26b7481e28acf7e3a00e9d06f3"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
@@ -242,7 +242,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="02ec58d06bc3c2f44550f454e2e56932459870b7"/>
   <project name="platform/sdk" path="sdk" revision="54cf88137a0b392c26144b5d8c8b87291075309d"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="62432dd0bb4d59f640bde9309f86eef2fd984f18"/>
-  <project name="platform/system/core" path="system/core" revision="40169ad6d7ea33cfddc8710112126d74b05bdd65"/>
+  <project name="platform/system/core" path="system/core" revision="de5f1c1a9dd34beaa39da64a00b2aac62af703c0"/>
   <project name="platform/system/extras" path="system/extras" revision="0dbb4f8155df7852810e257de767b1f701f2fe3c"/>
   <project name="platform/system/media" path="system/media" revision="28cd368665e7e5576102edfa8fa67ec09a6d3c69"/>
   <project name="platform/system/netd" path="system/netd" revision="efdeae2259799a0f8a984108eba7d6a2e34209e9"/>
