@@ -247,5 +247,5 @@
   <project name="platform/system/media" path="system/media" revision="28cd368665e7e5576102edfa8fa67ec09a6d3c69"/>
   <project name="platform/system/netd" path="system/netd" revision="efdeae2259799a0f8a984108eba7d6a2e34209e9"/>
   <project name="platform/system/vold" path="system/vold" revision="3ad9072a5d6f6bda32123b367545649364e3c11d"/>
-  <project name="repo/support-tools" path="device/ti/support-tools" revision="648a52b4e052935baf112bb0403e1468e4151a0b"/>
+  <project name="repo/support-tools" path="device/ti/support-tools" revision="7fd6ab039be88941620dda7c99c634099cf17fb2"/>
 </manifest>
