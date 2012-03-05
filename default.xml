@@ -18,7 +18,7 @@
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="63b25a3ffef7ba0569bfa0ac238136873cb92c4b"/>
-  <project name="device/ti/blaze_tablet" revision="d7ea5b24d20cffecfee2b62a503cfc263e2b328f"/>
+  <project name="device/ti/blaze_tablet" revision="2ec93de1d0c9d072f39192d841ed2f970e525908"/>
   <project name="device/ti/common-open" revision="324d5508a765f3d805e2b69fab61597aa49b8cc3"/>
   <project name="device/ti/omap5sevm" revision="bd646d5d30063843e6c73a88879266c367405acb"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
@@ -156,7 +156,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="646baf267fb37d9d05f1073539586f69585767be"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="59ba5a44412c5b9187303b781f559ea5765a6755"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
