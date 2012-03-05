@@ -18,11 +18,11 @@
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="63b25a3ffef7ba0569bfa0ac238136873cb92c4b"/>
-  <project name="device/ti/blaze_tablet" revision="2ec93de1d0c9d072f39192d841ed2f970e525908"/>
+  <project name="device/ti/blaze_tablet" revision="c43c19648521591f4ce8c5f841ed6bc98b23579a"/>
   <project name="device/ti/common-open" revision="324d5508a765f3d805e2b69fab61597aa49b8cc3"/>
   <project name="device/ti/omap5sevm" revision="bd646d5d30063843e6c73a88879266c367405acb"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="2efc270e4334ba0ea551b8f406d84bb047d715ad"/>
+  <project name="device/ti/proprietary-open" revision="1cdcdc80acb3f33e068696246f3172dd160cd416"/>
   <project name="device/ti/zoom2" revision="e011a57731de27762739f0c1ec214e7783d36552"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="2d33f961efe41bfad84cae94432bb28ad014c637"/>
@@ -152,7 +152,7 @@
   <project name="platform/external/webrtc" path="external/webrtc" revision="4b6dc1ec58105d17dc8c2f550124cc0621dc93b7"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="a01d37870bbf9892d43e792e5de0683ca41c5497"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="45cd323af5993cdb21cc2fb2f58aa65a0383fc88"/>
-  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="79e922c5d5eb69a5a66fa19898bb67a47470026b"/>
+  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="fef2297f14b113518b2b3168858aa34909a408fe"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
