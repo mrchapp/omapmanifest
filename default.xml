@@ -29,7 +29,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="d0181b8fcdac761afec252151a8bfda116916e96"/>
-  <project name="platform/build" path="build" revision="c4e8801c2d059aa68e59069c5cc03adb2d464e6b">
+  <project name="platform/build" path="build" revision="134466a35efdb77361b49f30854003378b7b8c51">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/cts" path="cts" revision="77976b6f6ed3b7617de983ef3d4acdfd90c4f10f"/>
@@ -76,7 +76,7 @@
   <project name="platform/external/giflib" path="external/giflib" revision="b2597268aef084202a8c349d1cc072c03c6e22eb"/>
   <project name="platform/external/google-diff-match-patch" path="external/google-diff-match-patch" revision="cecbe12841337860291c2d6a5728b681ec5fca2a"/>
   <project name="platform/external/grub" path="external/grub" revision="cd484b7fcd18d5f967cadbaeb6d27b62f015a5e2"/>
-  <project name="platform/external/gtest" path="external/gtest" revision="2ae00dcfeddad61a0df358a6f91b100f919cdb12"/>
+  <project name="platform/external/gtest" path="external/gtest" revision="883512b09f685c31d5a26e2289c3b7e42ece5935"/>
   <project name="platform/external/guava" path="external/guava" revision="436f221940e8b7757119b00031f61cdae085bc84"/>
   <project name="platform/external/harfbuzz" path="external/harfbuzz" revision="bae491c03a00757d83ede8d855b7d85d246bde3d"/>
   <project name="platform/external/hyphenation" path="external/hyphenation" revision="2c8b0b3430ee6a9ee501e6cc7921f8790851c286"/>
@@ -108,7 +108,7 @@
   <project name="platform/external/llvm" path="external/llvm" revision="4be65eeae53ab540d9c2328a09f3c83e2529a6e8"/>
   <project name="platform/external/lohit-fonts" path="external/lohit-fonts" revision="93831fc2533ad2048b6d787dbd1839112625b8ad"/>
   <project name="platform/external/markdown" path="external/markdown" revision="21ce115e566aa5af7fe8a971805af1daab12c754"/>
-  <project name="platform/external/mesa3d" path="external/mesa3d" revision="c976701adf344808694880ef3a5c86133d74df2c"/>
+  <project name="platform/external/mesa3d" path="external/mesa3d" revision="b3e310c4f069a275450c9c2f7aa4578ac50c2ea5"/>
   <project name="platform/external/mksh" path="external/mksh" revision="5155f1c7438ef540d7b25eb70aa1639579795b07"/>
   <project name="platform/external/mockwebserver" path="external/mockwebserver" revision="dcf52bd71fc3b0c07f9919b5d82064c425abcbdb"/>
   <project name="platform/external/mtpd" path="external/mtpd" revision="35c31502e9811c7ecd430a89f2b3ae03ca7d277a"/>
@@ -119,7 +119,7 @@
   <project name="platform/external/oauth" path="external/oauth" revision="bc170f58de82000ed6460f111686a850a1890c07"/>
   <project name="platform/external/opencv" path="external/opencv" revision="1691b57dbad9cfc15b9a8b72f8b376733b934ffe"/>
   <project name="platform/external/openssl" path="external/openssl" revision="ce96fb211b9a44bbd7fb5ef7ed0e6c1244045c2e"/>
-  <project name="platform/external/oprofile" path="external/oprofile" revision="a2e215abe628d95138749a4813575f8882c1efd0"/>
+  <project name="platform/external/oprofile" path="external/oprofile" revision="632adc19e2231beb9bf0b7237ceb9c6ac30931a7"/>
   <project name="platform/external/pcre" path="external/pcre" revision="0c84e04724db3a5c658be99847eb196edce6009f"/>
   <project name="platform/external/ping" path="external/ping" revision="e9640ed4c9c4441b512fd17344b8ca7ab507c176"/>
   <project name="platform/external/ping6" path="external/ping6" revision="82aaae2089b39522da2d4f93a996d78930ec3382"/>
@@ -159,7 +159,7 @@
   <project name="platform/frameworks/base" path="frameworks/base" revision="59ba5a44412c5b9187303b781f559ea5765a6755"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
-  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="04efb9633510aea000aada5f5130102b241df159"/>
+  <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
   <project name="platform/frameworks/ex" path="frameworks/ex" revision="dbbedc12e99acc1d006d819a9b539fd0f9ad044d"/>
   <project name="platform/frameworks/media/libvideoeditor" path="frameworks/media/libvideoeditor" revision="203bc93fd1331be50eb39a22549523850a511024"/>
   <project name="platform/frameworks/opt/calendar" path="frameworks/opt/calendar" revision="9a91eb9d6c3c28b54223dae453c9d456b0c87355"/>
