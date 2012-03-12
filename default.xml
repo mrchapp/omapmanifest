@@ -23,7 +23,7 @@
   <project name="device/ti/omap5sevm" revision="e6ebce338f2d61529955fb33086c4f0f4584bd51"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="1cdcdc80acb3f33e068696246f3172dd160cd416"/>
-  <project name="device/ti/zoom2" revision="e011a57731de27762739f0c1ec214e7783d36552"/>
+  <project name="device/ti/zoom2" revision="353f4db95d614efa2f59905885808e8da7b39bef"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="2d33f961efe41bfad84cae94432bb28ad014c637"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
