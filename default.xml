@@ -19,7 +19,7 @@
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="138c3f5bafd85a532d76097bcff5e3634c4217e4"/>
   <project name="device/ti/blaze_tablet" revision="878394e668120da623150d0a3c639f23024c48f6"/>
-  <project name="device/ti/common-open" revision="c347f2b0c8b92e3e1f4e2aec37fb7d3e54448206"/>
+  <project name="device/ti/common-open" revision="1931adbac25920e73d2081d390ff506d55101546"/>
   <project name="device/ti/omap5sevm" revision="e6ebce338f2d61529955fb33086c4f0f4584bd51"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="1cdcdc80acb3f33e068696246f3172dd160cd416"/>
@@ -178,7 +178,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="6a9c0412d180679cd966ca9b119e6e66dffaf5ac"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="441df562d5ac2cca4b12b6ec3da2333eb4d05a21"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="47cfb795601d0db7f02d0977eda5e1a821547242"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="c8274882877656f85505779ac2df604f9a15c31e"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="445e59fb9508dce90ffec215b5c39b9be3ab17e5"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="bebfa00ede52e48e205c9c8de4012b52184a9214"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
