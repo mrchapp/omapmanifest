@@ -22,7 +22,7 @@
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
   <project name="device/ti/omap5sevm" revision="58ffe8741fb02a2b7b5f8603899e2d5eebffc3a8"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="26d636c46ba3c5be687d5de4abb3a6c120cbf168"/>
+  <project name="device/ti/proprietary-open" revision="55ed2b35ec1f0cb5f796835f23fd4ceb578729eb"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="2d33f961efe41bfad84cae94432bb28ad014c637"/>
@@ -156,7 +156,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="a090d3f7c497a203625ed4fd0d2dba97d5c61698"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="804036ef2024adbc7efcfe584298b74091f5779b"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
