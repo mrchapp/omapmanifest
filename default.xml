@@ -22,7 +22,7 @@
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
   <project name="device/ti/omap5sevm" revision="58ffe8741fb02a2b7b5f8603899e2d5eebffc3a8"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="e0a910261435854089e384d402678f24f24cd21c"/>
+  <project name="device/ti/proprietary-open" revision="0620b2c334d415e598122ae873e8529b4c1e67cd"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="2d33f961efe41bfad84cae94432bb28ad014c637"/>
@@ -180,7 +180,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="a02b9dc4f97694c973818b5f5de8adfb3e6dd723"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="b910ec0d21d689ee66c651aa619208c1f92f62fa"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="0cc138cbbc7e5eb8d7bccc21b6fb6860bb3ca8a6"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="d03a9f4296d7b8523ad857dcf225287ab7d51a90"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
