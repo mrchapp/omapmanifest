@@ -20,12 +20,12 @@
   <project name="device/ti/blaze" revision="f3ccf345829a8369fce7dcccd2c3c49004273b79"/>
   <project name="device/ti/blaze_tablet" revision="319a22fcf671028eb646c14cddfddd8ed9026a66"/>
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
-  <project name="device/ti/omap5sevm" revision="808422ab9167a00adea300b44b370d81a5267746"/>
+  <project name="device/ti/omap5sevm" revision="89cb7b58f1d4308fd9ac5b2c0695f65d7711cf90"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="7942af9000f02d45bd12f900b2907441c2dec8ec"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
-  <project name="platform/bionic" path="bionic" revision="2d33f961efe41bfad84cae94432bb28ad014c637"/>
+  <project name="platform/bionic" path="bionic" revision="863fca4a990071afac69fcd6c3a1aad450c57d6a"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="d0181b8fcdac761afec252151a8bfda116916e96"/>
@@ -92,7 +92,7 @@
   <project name="platform/external/jsilver" path="external/jsilver" revision="a618b151d54625078424bc5940f6bfd63344d11b"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="100f99d625909fd17a722a0ed0148549afd55cf8"/>
   <project name="platform/external/junit" path="external/junit" revision="b8ee2b059bd6a2fbb8618aa17b64fb921d6df00f"/>
-  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="afb6f5c1eba5860019971054b583dfe2e926da67"/>
+  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="944426184559947215d842844d5c3ad73ddaccb4"/>
   <project name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
@@ -131,7 +131,7 @@
   <project name="platform/external/quake" path="external/quake" revision="72ba5ff08b2ee59f79ba674aa47542e44b9ff539"/>
   <project name="platform/external/replicaisland" path="external/replicaisland" revision="6cb78e547641bcab6f18ec34badca0840e000992"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="07073634e2e3aa4f518e36ed5dec3aabc549d5fb"/>
-  <project name="platform/external/skia" path="external/skia" revision="6a2a8f3598544f7601661722ea10de8961f9ae3f"/>
+  <project name="platform/external/skia" path="external/skia" revision="1f107cc80a1a05152097726184e63145becad82c"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="5f9600971859fe072f31b38a51c38157f5f9b381"/>
   <project name="platform/external/speex" path="external/speex" revision="ebe6230a7f7c69f5a4389f2b09b7b19ef9e94f32"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="488d783673190a2d9eece46eb0255587ebdfe6e5"/>
@@ -242,7 +242,7 @@
   <project name="platform/prebuilt" path="prebuilt" revision="02ec58d06bc3c2f44550f454e2e56932459870b7"/>
   <project name="platform/sdk" path="sdk" revision="54cf88137a0b392c26144b5d8c8b87291075309d"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="62432dd0bb4d59f640bde9309f86eef2fd984f18"/>
-  <project name="platform/system/core" path="system/core" revision="7e5bcab834bf62e9c77e46681256e067c911a23d"/>
+  <project name="platform/system/core" path="system/core" revision="93b5b4b93906a7a49efcb16e00f83981f4f1b6aa"/>
   <project name="platform/system/extras" path="system/extras" revision="0dbb4f8155df7852810e257de767b1f701f2fe3c"/>
   <project name="platform/system/media" path="system/media" revision="28cd368665e7e5576102edfa8fa67ec09a6d3c69"/>
   <project name="platform/system/netd" path="system/netd" revision="efdeae2259799a0f8a984108eba7d6a2e34209e9"/>
