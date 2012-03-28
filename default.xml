@@ -16,13 +16,14 @@
   <project name="device/samsung/crespo4g" revision="22e7a0c1d6940f9864e0101c62bce7f663297c10"/>
   <project name="device/samsung/maguro" revision="cc6ce87312d7a21512671138b7d8e152435d7f59"/>
   <project name="device/samsung/toro" revision="3f9a1ea8f617bab9079952463bacd9aaff0b3048"/>
+  <project name="device/samsung/torospr" revision="f7c1ca02a6dc0f43dd94bdb7e1740a223fd6f47f"/>
   <project name="device/samsung/tuna" revision="0f4521310f9aaef7bb61264be8a3574c59347941"/>
   <project name="device/ti/blaze" revision="f3ccf345829a8369fce7dcccd2c3c49004273b79"/>
   <project name="device/ti/blaze_tablet" revision="319a22fcf671028eb646c14cddfddd8ed9026a66"/>
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
   <project name="device/ti/omap5sevm" revision="89cb7b58f1d4308fd9ac5b2c0695f65d7711cf90"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="42bb9061292e167a1c7b17fd11b9f9687123d468"/>
+  <project name="device/ti/proprietary-open" revision="aa58e96f8f243bbe7cd2ff9b40731d7cfb0acede"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="863fca4a990071afac69fcd6c3a1aad450c57d6a"/>
@@ -180,7 +181,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="f1c569820eb6d43d53d07a48929072e93b2daeff"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="2798a293e52da4b9e370f3feb73526d43a4512c0"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="d03a9f4296d7b8523ad857dcf225287ab7d51a90"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="70792424a1cb3943d941ce4a62dbafaad62b2327"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
