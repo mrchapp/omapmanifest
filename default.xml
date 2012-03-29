@@ -21,7 +21,7 @@
   <project name="device/ti/blaze" revision="f3ccf345829a8369fce7dcccd2c3c49004273b79"/>
   <project name="device/ti/blaze_tablet" revision="92b5928047ede0ee5b87d66c8999dcaa17c39f57"/>
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
-  <project name="device/ti/omap5sevm" revision="8aae0847dcc21b4016660a1bff3a8d680c4d345d"/>
+  <project name="device/ti/omap5sevm" revision="fdeb83ff865377b133fc5b80da9c0b92d76cd909"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="aa58e96f8f243bbe7cd2ff9b40731d7cfb0acede"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
@@ -179,9 +179,9 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="0ada1957ac18c41762d82a25d19c31ba3ea1e657"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="f1c569820eb6d43d53d07a48929072e93b2daeff"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="beb6642634b3c9c3ef0fe415473f552e57899855"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="2798a293e52da4b9e370f3feb73526d43a4512c0"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="70792424a1cb3943d941ce4a62dbafaad62b2327"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="71b020110dfd0312810e2d12a10edc1b369d50b8"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
