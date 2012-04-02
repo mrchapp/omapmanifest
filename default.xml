@@ -97,7 +97,7 @@
   <project name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
-  <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp" revision="b99be65c277b0cc65a00a33e784ed49461531737"/>
+  <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp" revision="e413d4aada5406f63030f397b7b5ce3a4102a3ed"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers" revision="6ccf7349d61f73ac26a0675d735d903ab919c658"/>
   <project name="platform/external/libpcap" path="external/libpcap" revision="3a7bce5dda6a8db92c9248846d0255e68c3a5b2a"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="d470984844c388d6766c3de6ac64e93e00480fc9"/>
