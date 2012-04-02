@@ -21,7 +21,7 @@
   <project name="device/ti/blaze" revision="f3ccf345829a8369fce7dcccd2c3c49004273b79"/>
   <project name="device/ti/blaze_tablet" revision="92b5928047ede0ee5b87d66c8999dcaa17c39f57"/>
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
-  <project name="device/ti/omap5sevm" revision="ed27117d6c5674040f75d10d2cbc9bb6c0f4c856"/>
+  <project name="device/ti/omap5sevm" revision="4a7a80449d81adc991cc6a4ba2fb051780aa29f5"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="aa58e96f8f243bbe7cd2ff9b40731d7cfb0acede"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
@@ -98,6 +98,7 @@
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
   <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp" revision="e413d4aada5406f63030f397b7b5ce3a4102a3ed"/>
+  <project name="platform/external/libnfc-ti" path="external/libnfc-ti" revision="85f7af53d09d58dad3802e0cfa00d993c6286e7e"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers" revision="6ccf7349d61f73ac26a0675d735d903ab919c658"/>
   <project name="platform/external/libpcap" path="external/libpcap" revision="3a7bce5dda6a8db92c9248846d0255e68c3a5b2a"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="d470984844c388d6766c3de6ac64e93e00480fc9"/>
@@ -181,7 +182,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="beb6642634b3c9c3ef0fe415473f552e57899855"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="2798a293e52da4b9e370f3feb73526d43a4512c0"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="71b020110dfd0312810e2d12a10edc1b369d50b8"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="692de9b6a6a3b9988d7fa2bfcea3da1b392ed3fb"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
