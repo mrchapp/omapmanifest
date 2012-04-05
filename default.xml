@@ -182,7 +182,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="beb6642634b3c9c3ef0fe415473f552e57899855"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="2798a293e52da4b9e370f3feb73526d43a4512c0"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="692de9b6a6a3b9988d7fa2bfcea3da1b392ed3fb"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="86705d83b8742b1bbafce793daa8433b31f5fe54"/>
   <project name="platform/libcore" path="libcore" revision="e0be47c51879cea2d18e7b190287a3342c52b721"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
