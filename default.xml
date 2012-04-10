@@ -23,7 +23,7 @@
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
   <project name="device/ti/omap5sevm" revision="203f774f268092bebe7dd088d2c201f6cbf80b69"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="aa58e96f8f243bbe7cd2ff9b40731d7cfb0acede"/>
+  <project name="device/ti/proprietary-open" revision="17c45cf5802254ee0c9545c992414eedd00d6e1e"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="5ccf7f10b2420c0c7938857deada8b91d84ff2a6"/>
