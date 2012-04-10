@@ -60,7 +60,7 @@
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="a83294e2f9fed03d0016a30549f43083763ea065"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="f621afad94df46204c25fc2593a19d704d2637f5"/>
   <project name="platform/external/doclava" path="external/doclava" revision="3352706b85f0c1aa8a0391b26c08c8b6f9e5746f"/>
-  <project name="platform/external/dropbear" path="external/dropbear" revision="f57594030e578089ecf52e29559f0703b1a8ea6b"/>
+  <project name="platform/external/dropbear" path="external/dropbear" revision="7dac65b4e6c923ec0379da2403b8d0c5f382146d"/>
   <project name="platform/external/e2fsprogs" path="external/e2fsprogs" revision="d5f550bb2f556c5d287f7c8d2b77223654bcec37"/>
   <project name="platform/external/easymock" path="external/easymock" revision="c9a234086537e5fd820b110bbd99e3cdc695004c"/>
   <project name="platform/external/elfutils" path="external/elfutils" revision="84cf4183ba6f577ee01abe7f1f5a6d4b23df35a8"/>
@@ -158,7 +158,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="31518a072216058e966fb0b339aa0efced91322b"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="9c0e9f92770a6e1d153f461e806e8d8e0af834f2"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
