@@ -218,7 +218,7 @@
   <project name="platform/packages/apps/SpeechRecorder" path="packages/apps/SpeechRecorder" revision="62db451fb742f17669300b9915b9f446f43361ce"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="7c82ced5974429b982b1f8252458f49ffd2bb26e"/>
   <project name="platform/packages/apps/Tag" path="packages/apps/Tag" revision="5c34e64a6083adeb6ad2355ce6d900a401b5938e"/>
-  <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor" revision="f709f76ec6e4391f90fbd3506e92e88093678917"/>
+  <project name="platform/packages/apps/VideoEditor" path="packages/apps/VideoEditor" revision="fd72929a475ef6f180376d0a955710b716050400"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="57cb48de704cf83e9f31b922f181e924b40442be"/>
   <project name="platform/packages/experimental" path="packages/experimental" revision="48196094efbc023acb732b7caf71bdd1f860e97c"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="c85dde47e89f19aad3a29de08c11ae97f79be618"/>
