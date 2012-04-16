@@ -21,7 +21,7 @@
   <project name="device/ti/blaze" revision="f3ccf345829a8369fce7dcccd2c3c49004273b79"/>
   <project name="device/ti/blaze_tablet" revision="92b5928047ede0ee5b87d66c8999dcaa17c39f57"/>
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
-  <project name="device/ti/omap5sevm" revision="203f774f268092bebe7dd088d2c201f6cbf80b69"/>
+  <project name="device/ti/omap5sevm" revision="3d4b1a9a21eb306a1e9116c4d615b1e2ab09c378"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="17c45cf5802254ee0c9545c992414eedd00d6e1e"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
@@ -47,7 +47,7 @@
   <project name="platform/external/blktrace" path="external/blktrace" revision="55236cdbcee4e543d69e2c25dbf27c62301d760a"/>
   <project name="platform/external/bltsville" path="external/bltsville" revision="6c7d4cce083f2cfa46168457dbc00d6fa22cec4e"/>
   <project name="platform/external/bluetooth/bluez" path="external/bluetooth/bluez" revision="336d395e62d6d8e88c6205b8d62f38b04d9513d5"/>
-  <project name="platform/external/bluetooth/glib" path="external/bluetooth/glib" revision="1143b9918eab068401b604eb11c3f651f4e38b25"/>
+  <project name="platform/external/bluetooth/glib" path="external/bluetooth/glib" revision="1c4da53a8aade9b76e0d2806066946eae6d31ab5"/>
   <project name="platform/external/bluetooth/hcidump" path="external/bluetooth/hcidump" revision="7322661808c2006b7848e79e6bb72b37fbcf6710"/>
   <project name="platform/external/bouncycastle" path="external/bouncycastle" revision="120c7be3b96ad42d92b9db1a75e5e5845bf3a723"/>
   <project name="platform/external/bsdiff" path="external/bsdiff" revision="81872540236d9bb15cccf963d05b9de48baa5375"/>
