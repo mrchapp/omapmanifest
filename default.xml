@@ -26,7 +26,7 @@
   <project name="device/ti/proprietary-open" revision="17c45cf5802254ee0c9545c992414eedd00d6e1e"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
-  <project name="platform/bionic" path="bionic" revision="f3dea288e234a3b1cd3a81ff11a233fd621981c0"/>
+  <project name="platform/bionic" path="bionic" revision="842dd3b85ab1093a60e37ca1967abef0dab8cf2a"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="d0181b8fcdac761afec252151a8bfda116916e96"/>
@@ -96,7 +96,7 @@
   <project name="platform/external/jsilver" path="external/jsilver" revision="a618b151d54625078424bc5940f6bfd63344d11b"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="100f99d625909fd17a722a0ed0148549afd55cf8"/>
   <project name="platform/external/junit" path="external/junit" revision="b8ee2b059bd6a2fbb8618aa17b64fb921d6df00f"/>
-  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="9278481264c4193022c41ce46372ab527f4a142c"/>
+  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="0fb7324f599f5ca1ba4967223facfb4c74cfee4d"/>
   <project name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
