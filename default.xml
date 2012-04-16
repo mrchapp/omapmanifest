@@ -56,7 +56,7 @@
   <project name="platform/external/clang" path="external/clang" revision="7b2f9cd6e7159a7ff2cffec105c7f3844929eae8"/>
   <project name="platform/external/collada" path="external/collada" revision="538700ec332c8306a1283f8dfdb016e493905e6f"/>
   <project name="platform/external/crda" path="external/crda" revision="30c81bdced723b6f23cde8a1c18617ca64f6397b"/>
-  <project name="platform/external/dbus" path="external/dbus" revision="537eaff5de9aace3348436166d4cde7adc1e488e"/>
+  <project name="platform/external/dbus" path="external/dbus" revision="78a753d4a3fe7d11de0db661d278139ce7d2b1ab"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="a83294e2f9fed03d0016a30549f43083763ea065"/>
   <project name="platform/external/dnsmasq" path="external/dnsmasq" revision="f621afad94df46204c25fc2593a19d704d2637f5"/>
   <project name="platform/external/doclava" path="external/doclava" revision="3352706b85f0c1aa8a0391b26c08c8b6f9e5746f"/>
@@ -182,7 +182,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="ec2f475b4c82b724e781478d7fcd32dbb2d343da"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0133c20750e51ab9269b8756e4895358bcf0b39b"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="86705d83b8742b1bbafce793daa8433b31f5fe54"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="4a3e7ec505ea63a506c5abd840fd20be378370ec"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
