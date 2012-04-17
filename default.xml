@@ -23,7 +23,7 @@
   <project name="device/ti/common-open" revision="96688b66aeddbdd755131de6fec038e215d92493"/>
   <project name="device/ti/omap5sevm" revision="ab973098d51f43faabad75244c097930ed278530"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="17c45cf5802254ee0c9545c992414eedd00d6e1e"/>
+  <project name="device/ti/proprietary-open" revision="c715c459ce0114e6c22d3fbfb5a0b40e1844d177"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="842dd3b85ab1093a60e37ca1967abef0dab8cf2a"/>
@@ -181,9 +181,9 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="13e995a1fec4d7b529367654f13d203e6ac3147d"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
-  <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="2b3e2d6ed034278e2173e21298123da5e5e601ae"/>
+  <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="8ca225d5d5e61f4610c3a85caf06a8bde996395d"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="ec2f475b4c82b724e781478d7fcd32dbb2d343da"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="283b00a3a962b36cc59d5853951bf48ad8b835cb"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0133c20750e51ab9269b8756e4895358bcf0b39b"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="4a3e7ec505ea63a506c5abd840fd20be378370ec"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
