@@ -26,7 +26,7 @@
   <project name="device/ti/proprietary-open" revision="c715c459ce0114e6c22d3fbfb5a0b40e1844d177"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
-  <project name="platform/bionic" path="bionic" revision="842dd3b85ab1093a60e37ca1967abef0dab8cf2a"/>
+  <project name="platform/bionic" path="bionic" revision="53e2dd5cfb0d1806de634f198c53ec782a289737"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="d0181b8fcdac761afec252151a8bfda116916e96"/>
@@ -96,7 +96,7 @@
   <project name="platform/external/jsilver" path="external/jsilver" revision="a618b151d54625078424bc5940f6bfd63344d11b"/>
   <project name="platform/external/jsr305" path="external/jsr305" revision="100f99d625909fd17a722a0ed0148549afd55cf8"/>
   <project name="platform/external/junit" path="external/junit" revision="b8ee2b059bd6a2fbb8618aa17b64fb921d6df00f"/>
-  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="0fb7324f599f5ca1ba4967223facfb4c74cfee4d"/>
+  <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="7dabce7125b40231296fb8b327ae5505abe53b15"/>
   <project name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
@@ -183,7 +183,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="8ca225d5d5e61f4610c3a85caf06a8bde996395d"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="6a5358f9c0e252116e640e2d55df2bcff6fbf0c7"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="7c32edc5007cf5fff8ac808f593835d55b52432d"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0133c20750e51ab9269b8756e4895358bcf0b39b"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="0de6818b853ab48cb74c8e36dc40b4640205b0b2"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
