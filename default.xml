@@ -20,7 +20,7 @@
   <project name="device/samsung/tuna" revision="78a7609d251802da4db864dbbee37967be84514f"/>
   <project name="device/ti/blaze" revision="f3ccf345829a8369fce7dcccd2c3c49004273b79"/>
   <project name="device/ti/blaze_tablet" revision="92b5928047ede0ee5b87d66c8999dcaa17c39f57"/>
-  <project name="device/ti/common-open" revision="6fe68417b0dae68c8b30f81f21fe119020b13b97"/>
+  <project name="device/ti/common-open" revision="6ea3bdc31b8ea6999b43468ec7862cd5a7b97443"/>
   <project name="device/ti/omap5sevm" revision="ab973098d51f43faabad75244c097930ed278530"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="c715c459ce0114e6c22d3fbfb5a0b40e1844d177"/>
@@ -185,7 +185,7 @@
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="6a5358f9c0e252116e640e2d55df2bcff6fbf0c7"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0133c20750e51ab9269b8756e4895358bcf0b39b"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="4a3e7ec505ea63a506c5abd840fd20be378370ec"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="0de6818b853ab48cb74c8e36dc40b4640205b0b2"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
