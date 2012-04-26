@@ -23,7 +23,7 @@
   <project name="device/ti/common-open" revision="6ea3bdc31b8ea6999b43468ec7862cd5a7b97443"/>
   <project name="device/ti/omap5sevm" revision="7691db0eb3d6b516e76c38d88b6ec2ccf321f2a2"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="f3bfbf5c270b6e6ec0cc64ddee7ad28ef2e20c66"/>
+  <project name="device/ti/proprietary-open" revision="bf87b8846487220678df16b1ea73eac128a316fa"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="53e2dd5cfb0d1806de634f198c53ec782a289737"/>
@@ -157,7 +157,7 @@
   <project name="platform/external/webrtc" path="external/webrtc" revision="4b6dc1ec58105d17dc8c2f550124cc0621dc93b7"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="a01d37870bbf9892d43e792e5de0683ca41c5497"/>
   <project name="platform/external/wpa_supplicant_6" path="external/wpa_supplicant_6" revision="45cd323af5993cdb21cc2fb2f58aa65a0383fc88"/>
-  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="e6eae7798e9bb5fe26409fd905061fa7525bc410"/>
+  <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8" revision="9b7ef1468da7aa0c80c072497a7bbd89f18c3768"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
@@ -184,7 +184,7 @@
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="4b779cd9d4c69a37cee42f4dd39da867c33a9115"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="3b51680449dc324b9a44370a9dddfd0a34e1281d"/>
-  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="0133c20750e51ab9269b8756e4895358bcf0b39b"/>
+  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="ca9f53338e2c0d390ae9552aa6aac87d05cbf785"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="2a1a6df8c40702b71f56dcd91e12b74e0afef71b"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
