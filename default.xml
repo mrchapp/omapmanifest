@@ -18,10 +18,10 @@
   <project name="device/samsung/toro" revision="ce47f0416a90958551d7514a76862d1d824310c4"/>
   <project name="device/samsung/torospr" revision="f7c1ca02a6dc0f43dd94bdb7e1740a223fd6f47f"/>
   <project name="device/samsung/tuna" revision="78a7609d251802da4db864dbbee37967be84514f"/>
-  <project name="device/ti/blaze" revision="839601b4bea0935285f37c272295abcf96673a3d"/>
+  <project name="device/ti/blaze" revision="923f3eef207517fc1b993ad891bc868ada65efac"/>
   <project name="device/ti/blaze_tablet" revision="be220c884194301b60bb20bdfe1af57601aecb8c"/>
   <project name="device/ti/common-open" revision="55f425ae4e4cf4685cbfe8d4a8fb497cc8539861"/>
-  <project name="device/ti/omap5sevm" revision="7691db0eb3d6b516e76c38d88b6ec2ccf321f2a2"/>
+  <project name="device/ti/omap5sevm" revision="1aca2416c8951bbbb7b97a235db3accc932d6b60"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="bf87b8846487220678df16b1ea73eac128a316fa"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
@@ -183,7 +183,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="4b779cd9d4c69a37cee42f4dd39da867c33a9115"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="99aa53a1bab603da52fd5a96f02c352887170167"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="dbf15ecf40b259a53b93ba5e6bc766bdc0e22afe"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="5e6e518405b96995e917f1625840e832d5187e04"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="2a1a6df8c40702b71f56dcd91e12b74e0afef71b"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
