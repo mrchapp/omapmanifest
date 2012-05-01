@@ -101,7 +101,7 @@
   <project name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
   <project name="platform/external/libnfc-nxp" path="external/libnfc-nxp" revision="e413d4aada5406f63030f397b7b5ce3a4102a3ed"/>
-  <project name="platform/external/libnfc-ti" path="external/libnfc-ti" revision="586d069aa15c08482b45e51c3aefc0bb463f9359"/>
+  <project name="platform/external/libnfc-ti" path="external/libnfc-ti" revision="a7b2450999835be2054720ac6294ebe4bdd98cd5"/>
   <project name="platform/external/libnl-headers" path="external/libnl-headers" revision="6ccf7349d61f73ac26a0675d735d903ab919c658"/>
   <project name="platform/external/libpcap" path="external/libpcap" revision="3a7bce5dda6a8db92c9248846d0255e68c3a5b2a"/>
   <project name="platform/external/libphonenumber" path="external/libphonenumber" revision="d470984844c388d6766c3de6ac64e93e00480fc9"/>
@@ -209,7 +209,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5c14fcec156c317f05e329c78841414c3a38b220"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="377bcf1ee47e37b4e6b9ca487ae12fb6767afeb8"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="f3ee760ac230a010893750ee73655276b5a9c0d8"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="4cc93e9d62210e6585c7947c4c3d12887e0d557f"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="f8298fc3d0c7f8307427428585773192d9692a50"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="cf391e1e1884b76101d2912e71b384bab16f5cb2"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
