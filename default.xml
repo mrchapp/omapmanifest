@@ -181,7 +181,7 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="13e995a1fec4d7b529367654f13d203e6ac3147d"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
-  <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="4b779cd9d4c69a37cee42f4dd39da867c33a9115"/>
+  <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="33fff7aeedfb7b26fe62ba69428b8ef0e7f3190c"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="1f22948f2b1d3a847e98c88177446fff7ff2dc79"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="5e6e518405b96995e917f1625840e832d5187e04"/>
