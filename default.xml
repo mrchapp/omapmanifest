@@ -46,7 +46,7 @@
   <project name="platform/external/bison" path="external/bison" revision="4af3c477523bc96a5a535500a722cd563f1d486f"/>
   <project name="platform/external/blktrace" path="external/blktrace" revision="55236cdbcee4e543d69e2c25dbf27c62301d760a"/>
   <project name="platform/external/bltsville" path="external/bltsville" revision="88632573b4fb87af35bebe3d7007093ef318cafd"/>
-  <project name="platform/external/bluetooth/blueti" path="external/bluetooth/blueti" revision="fa6756b8935b99984d9c12820a638dd0f4a8ec88"/>
+  <project name="platform/external/bluetooth/blueti" path="external/bluetooth/blueti" revision="56816731c70e0fbb6e1708b94897e8009ea59868"/>
   <project name="platform/external/bluetooth/bluez" path="external/bluetooth/bluez" revision="336d395e62d6d8e88c6205b8d62f38b04d9513d5"/>
   <project name="platform/external/bluetooth/glib" path="external/bluetooth/glib" revision="1c4da53a8aade9b76e0d2806066946eae6d31ab5"/>
   <project name="platform/external/bluetooth/hcidump" path="external/bluetooth/hcidump" revision="7322661808c2006b7848e79e6bb72b37fbcf6710"/>
