@@ -21,7 +21,7 @@
   <project name="device/ti/blaze" revision="923f3eef207517fc1b993ad891bc868ada65efac"/>
   <project name="device/ti/blaze_tablet" revision="d7745a602e5bbfee6a81a60aa1ffaea72b5c1c8f"/>
   <project name="device/ti/common-open" revision="55f425ae4e4cf4685cbfe8d4a8fb497cc8539861"/>
-  <project name="device/ti/omap5sevm" revision="c9cecc493f50dbcd5a4a5b87c6e252b287f03364"/>
+  <project name="device/ti/omap5sevm" revision="737fb1c02060f8d9a0f64f586830ebd831d8edba"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="b5fb2c6a207e1b4798f6a1c4af2793d646cfc312"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
@@ -161,7 +161,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="d25dfbc0c969840e512c601fd24edf65b94f596f"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="8358ef1a54f0817346bdd2afd83a71b7e8cd1b0b"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
