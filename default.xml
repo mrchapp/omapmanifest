@@ -21,7 +21,7 @@
   <project name="device/ti/blaze" revision="923f3eef207517fc1b993ad891bc868ada65efac"/>
   <project name="device/ti/blaze_tablet" revision="d7745a602e5bbfee6a81a60aa1ffaea72b5c1c8f"/>
   <project name="device/ti/common-open" revision="55f425ae4e4cf4685cbfe8d4a8fb497cc8539861"/>
-  <project name="device/ti/omap5sevm" revision="737fb1c02060f8d9a0f64f586830ebd831d8edba"/>
+  <project name="device/ti/omap5sevm" revision="427b83342f9ba25bc060c4293b12ce262250e609"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="b5fb2c6a207e1b4798f6a1c4af2793d646cfc312"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
