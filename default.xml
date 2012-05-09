@@ -209,7 +209,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5c14fcec156c317f05e329c78841414c3a38b220"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="377bcf1ee47e37b4e6b9ca487ae12fb6767afeb8"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="02850339a9f4b44789eb287749f8e5e940450e25"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="1c600fd5c6bced1591388469317712f54f4b4287"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="f8298fc3d0c7f8307427428585773192d9692a50"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="cf391e1e1884b76101d2912e71b384bab16f5cb2"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
