@@ -20,7 +20,7 @@
   <project name="device/samsung/tuna" revision="78a7609d251802da4db864dbbee37967be84514f"/>
   <project name="device/ti/blaze" revision="e389d90c67f2e070a28cedec81b416fa4c5aac05"/>
   <project name="device/ti/blaze_tablet" revision="bdf0e1986da9e75c87cb21ef96646e8723160191"/>
-  <project name="device/ti/common-open" revision="55f425ae4e4cf4685cbfe8d4a8fb497cc8539861"/>
+  <project name="device/ti/common-open" revision="66b41d2aa0f2bf94adc650f65041657cf790d8dd"/>
   <project name="device/ti/omap5sevm" revision="427b83342f9ba25bc060c4293b12ce262250e609"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="b5fb2c6a207e1b4798f6a1c4af2793d646cfc312"/>
@@ -150,7 +150,7 @@
   <project name="platform/external/tinyalsa" path="external/tinyalsa" revision="1b32ddfd35e54b0a6ef1e43ca35dbc1547e5676a"/>
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="d589f7e4a51e75bd5c98a3defd8ee84d7059e86e"/>
   <project name="platform/external/tremolo" path="external/tremolo" revision="25bd78d2392dbdc879ae53382cde9d019f79cf6f"/>
-  <project name="platform/external/v8" path="external/v8" revision="7549248b8e9ff356d1d3fa834020a789897aa139"/>
+  <project name="platform/external/v8" path="external/v8" revision="5e3b9022f72dc5230f788b8b66cdae28b26bf911"/>
   <project name="platform/external/valgrind" path="external/valgrind" revision="5679ae9f0535ef52ba2a8c055562374997f40afa"/>
   <project name="platform/external/webkit" path="external/webkit" revision="256456297eefc214ec5cdf20fef17a307ee99c45"/>
   <project name="platform/external/webp" path="external/webp" revision="88fe2b83c4b9232cd08729556fd0485d6a6a92cd"/>
