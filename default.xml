@@ -181,11 +181,11 @@
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="13e995a1fec4d7b529367654f13d203e6ac3147d"/>
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
-  <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="e44533957df7d7b87fb03d14e0d469d29f338be3"/>
+  <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="6403235ea8009468624d20fb2b4b4ea4b9156f40"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="8ae2e0c52bf3f2ab4091fd6594ec6794eb46af9f"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="66477eee3c0005af66ddaf5f0a3f1bdceb4e1f74"/>
-  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="6edd019097eb78c41c8ad339b492f5dc9e10c02a"/>
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="7d21c74e17cabdb51329182572bd46591c4cbe6a"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
