@@ -18,10 +18,10 @@
   <project name="device/samsung/toro" revision="ce47f0416a90958551d7514a76862d1d824310c4"/>
   <project name="device/samsung/torospr" revision="f7c1ca02a6dc0f43dd94bdb7e1740a223fd6f47f"/>
   <project name="device/samsung/tuna" revision="47a9ba29ba0e15f61fa6bec91840e458a9b2530f"/>
-  <project name="device/ti/blaze" revision="565fe476661eb9cd8fbb8a0b9d2cf40539facad8"/>
+  <project name="device/ti/blaze" revision="aff9b48e7c45b020c061db835adf78a00d2bdcec"/>
   <project name="device/ti/blaze_tablet" revision="4bb04d1e7a4af3c2942372ddb5ed16a243358708"/>
   <project name="device/ti/common-open" revision="c1ec25430a66b73a441f237892962942b9f344c8"/>
-  <project name="device/ti/omap5sevm" revision="bc0500dc594c8cce00318876c108566ad98c82ca"/>
+  <project name="device/ti/omap5sevm" revision="9d89306f71225f2302560b62068fce35aeef73a0"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="3727c0a549f56a6854530a82152175aba8155106"/>
   <project name="device/ti/zoom2" revision="d2e92cfb6413a50a37356505a0ad551f512dd91e"/>
@@ -209,7 +209,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5c14fcec156c317f05e329c78841414c3a38b220"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="377bcf1ee47e37b4e6b9ca487ae12fb6767afeb8"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="f9bdd6476517640115a3d151709fa9bc2542f237"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="1d4f22f81149560a15dad173be8d5b4ad9b8eef4"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="f8298fc3d0c7f8307427428585773192d9692a50"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="cf391e1e1884b76101d2912e71b384bab16f5cb2"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
