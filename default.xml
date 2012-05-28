@@ -182,7 +182,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="17d8339e1256bdc2c8d0ccf610c333dcd091d240"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b708ce7ec76ff2a123801494308646fa09dbe2e"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="a3627aeebf854edc1e1fc9820ac17b317e0f1fe7"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="8ae2e0c52bf3f2ab4091fd6594ec6794eb46af9f"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="66477eee3c0005af66ddaf5f0a3f1bdceb4e1f74"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="7d21c74e17cabdb51329182572bd46591c4cbe6a"/>
