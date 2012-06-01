@@ -183,7 +183,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="459c947f18c89893014393d77ab20eff3d5a85d2"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="07edca1cdb94ad78782c5629780c31332c7c63b5"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="b4dfcc163ad24263fde8c61516acc8f5b84f4904"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="ab8136208eea0b82b9969f728eb20f0eaf3e091f"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="66477eee3c0005af66ddaf5f0a3f1bdceb4e1f74"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="7d21c74e17cabdb51329182572bd46591c4cbe6a"/>
   <project name="platform/libcore" path="libcore" revision="048573b47637fd6b2def481483aeb1fb17f1c53b"/>
@@ -209,7 +209,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5c14fcec156c317f05e329c78841414c3a38b220"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="377bcf1ee47e37b4e6b9ca487ae12fb6767afeb8"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="2c7726805ccc6b69b1e4f88aa2589c76073441eb"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="4b866951402cac455b4c42e193a473611ef84317"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="f8298fc3d0c7f8307427428585773192d9692a50"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="cf391e1e1884b76101d2912e71b384bab16f5cb2"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
