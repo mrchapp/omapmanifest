@@ -183,7 +183,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="8385ca8e01cbc2d959b20845a4f809f7573dace0"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="bf09f52d804362e01a8a5c7e98e317626d6eba8c"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="7a213edab3cadf5132ee70275eee8fe4791295f1"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="e6988c2e156cf61d44289218a435d0ef458ee506"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="7f4f122d0e61559e91506cfac82eba16e0ea48ee"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="ca81d4211b518939a2dc9ca1ac3cfc071bb64a5c"/>
   <project name="platform/libcore-snapshot" path="libcore" revision="2715253527f64177a8f587a0852b7c03cfa0170b"/>
