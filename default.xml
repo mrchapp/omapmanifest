@@ -24,7 +24,7 @@
   <project name="device/ti/omap5sevm" revision="9a247cf1d35011bca1ed57413e3f63263e4c8477"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="d14d009262c4e6f6c3bc0fe389f1fc8b559ee35c"/>
-  <project name="device/ti/zoom2" revision="3c17bcb87676238eadd5820229637879b9e5f9bf"/>
+  <project name="device/ti/zoom2" revision="403cd2845930bb89692951519084e8b663d76779"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="4a380c2afbcc174c1412e3377a647b953025f8da"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
@@ -182,7 +182,7 @@
   <project name="platform/hardware/qcom/media" path="hardware/qcom/media" revision="f1f18b0b5aadb0aeb23906ad3a854d6edc62dda7"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="8385ca8e01cbc2d959b20845a4f809f7573dace0"/>
-  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="bf09f52d804362e01a8a5c7e98e317626d6eba8c"/>
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="49ac6f5498c9290c1d8e66b3d82043ed9a615495"/>
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="2d8977fbb763129a601fb953bf0b451f27e2ab93"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="7f4f122d0e61559e91506cfac82eba16e0ea48ee"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="ca81d4211b518939a2dc9ca1ac3cfc071bb64a5c"/>
