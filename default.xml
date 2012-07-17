@@ -23,7 +23,7 @@
   <project name="device/ti/common-open" revision="43fc9a8b44cf57fde8bf2029b931135997b1c4dc"/>
   <project name="device/ti/omap5sevm" revision="53fb688426d324e6be1ac89dfc95a9bab4163c88"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="463f0592e4e1bb7ae493241ec7504b62333e0920"/>
+  <project name="device/ti/proprietary-open" revision="bc124e6ff68bc49627cd2a8421e4ef37d5cd57e7"/>
   <project name="device/ti/zoom2" revision="403cd2845930bb89692951519084e8b663d76779"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="4a380c2afbcc174c1412e3377a647b953025f8da"/>
@@ -183,7 +183,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="8385ca8e01cbc2d959b20845a4f809f7573dace0"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b4b4c97e4cff3247c2bf42a43ba1263c2d6bca9"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="297ade0d2b5112d92c8ce9f6ebddd1601166929f"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="2cb90b88163b4cadc8129423a66c71482f3436a9"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="eae864291aee472e4f9ef9277cab82dd3319084a"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="ca81d4211b518939a2dc9ca1ac3cfc071bb64a5c"/>
   <project name="platform/libcore-snapshot" path="libcore" revision="2715253527f64177a8f587a0852b7c03cfa0170b"/>
@@ -209,7 +209,7 @@
   <project name="platform/packages/apps/Music" path="packages/apps/Music" revision="5a8448cdeb80be26918983caee2e792ba9c0bdb6"/>
   <project name="platform/packages/apps/MusicFX" path="packages/apps/MusicFX" revision="b6436a644aa2e78dac41e4971b60d0b8ad95884e"/>
   <project name="platform/packages/apps/Nfc" path="packages/apps/Nfc" revision="377bcf1ee47e37b4e6b9ca487ae12fb6767afeb8"/>
-  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="a81d79940d42cc278ef1c81ba019067b4f4782a2"/>
+  <project name="platform/packages/apps/OMAPCamera" path="packages/apps/OMAPCamera" revision="f4b7c5ea5c697cc2e3828bb68ada4a3a0e9ffd6f"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="f8298fc3d0c7f8307427428585773192d9692a50"/>
   <project name="platform/packages/apps/Phone" path="packages/apps/Phone" revision="cf391e1e1884b76101d2912e71b384bab16f5cb2"/>
   <project name="platform/packages/apps/Protips" path="packages/apps/Protips" revision="635bfe91eb8cb158a193bd8987a29d8b72f227b9"/>
