@@ -161,7 +161,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="e93373336d31e7f01b23f8205fb69644f462d52d"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="2d373d854ed5845a7bab9a15bfa49056df3b8d13"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
@@ -183,7 +183,7 @@
   <project name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="8385ca8e01cbc2d959b20845a4f809f7573dace0"/>
   <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="1b4b4c97e4cff3247c2bf42a43ba1263c2d6bca9"/>
-  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="2cb90b88163b4cadc8129423a66c71482f3436a9"/>
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="514ade2dd74f99460b7669ef3d558cedcbcc79d6"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="eae864291aee472e4f9ef9277cab82dd3319084a"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="ca81d4211b518939a2dc9ca1ac3cfc071bb64a5c"/>
   <project name="platform/libcore-snapshot" path="libcore" revision="2715253527f64177a8f587a0852b7c03cfa0170b"/>
