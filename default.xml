@@ -21,7 +21,7 @@
   <project name="device/ti/blaze" revision="d89d47d5ab5f4896b836acf66e5dbf881c6bbbe6"/>
   <project name="device/ti/blaze_tablet" revision="6b90e8fdb6b6fee2cd135c67d4b950e0b77a1420"/>
   <project name="device/ti/common-open" revision="43fc9a8b44cf57fde8bf2029b931135997b1c4dc"/>
-  <project name="device/ti/omap5sevm" revision="53fb688426d324e6be1ac89dfc95a9bab4163c88"/>
+  <project name="device/ti/omap5sevm" revision="7288a85226898f2a7d450e6882574c2b62c198b8"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project name="device/ti/proprietary-open" revision="bc124e6ff68bc49627cd2a8421e4ef37d5cd57e7"/>
   <project name="device/ti/zoom2" revision="befa8e3ad49a0e95dbd7a9e16f2dafb36088a26d"/>
@@ -249,7 +249,7 @@
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="ce372cbada7818a12ceb70ef99f909518e35c7ff"/>
   <project name="platform/system/core" path="system/core" revision="627eef2dfa82f652fc3e81a57533ddd8d8c22ac7"/>
   <project name="platform/system/extras" path="system/extras" revision="fa351ab265957fa8815df3c4ca1f3c105f253e8b"/>
-  <project name="platform/system/media" path="system/media" revision="551be2cc9d972cf376dd408ad0570bbc70a2e407"/>
+  <project name="platform/system/media" path="system/media" revision="d4fb62257024f492e581700efd08fa3b4a961ab3"/>
   <project name="platform/system/netd" path="system/netd" revision="b1c058fc239d6edd2e25b8d190d7839043bffdf2"/>
   <project name="platform/system/vold" path="system/vold" revision="3ad9072a5d6f6bda32123b367545649364e3c11d"/>
   <project name="repo/support-tools" path="device/ti/support-tools" revision="7fd6ab039be88941620dda7c99c634099cf17fb2"/>
