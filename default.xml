@@ -186,7 +186,7 @@
   <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="862a779b4c8fee075d8d81e1d68b2ec364a701ee"/>
   <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="eae864291aee472e4f9ef9277cab82dd3319084a"/>
   <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="ca81d4211b518939a2dc9ca1ac3cfc071bb64a5c"/>
-  <project name="platform/libcore-snapshot" path="libcore" revision="2715253527f64177a8f587a0852b7c03cfa0170b"/>
+  <project name="platform/libcore-snapshot" path="libcore" revision="5cc98163514f37956164f7fe8f93035f34be7c80"/>
   <project name="platform/ndk" path="ndk" revision="2d77f5a05f60029c981f299b222cfe28db18ccf7"/>
   <project name="platform/packages/apps/BasicSmsReceiver" path="packages/apps/BasicSmsReceiver" revision="c993ddcaef65c5132a356f861a6948e76a5db86c"/>
   <project name="platform/packages/apps/Bluetooth" path="packages/apps/Bluetooth" revision="a167e65c90e6c58e14b697d14c992447802401b7"/>
