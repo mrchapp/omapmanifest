@@ -21,9 +21,9 @@
   <project name="device/ti/blaze" revision="d89d47d5ab5f4896b836acf66e5dbf881c6bbbe6"/>
   <project name="device/ti/blaze_tablet" revision="6b90e8fdb6b6fee2cd135c67d4b950e0b77a1420"/>
   <project name="device/ti/common-open" revision="43fc9a8b44cf57fde8bf2029b931135997b1c4dc"/>
-  <project name="device/ti/omap5sevm" revision="7288a85226898f2a7d450e6882574c2b62c198b8"/>
+  <project name="device/ti/omap5sevm" revision="7842b66c06c91119bc0dc6a353d71294841e9b5f"/>
   <project name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
-  <project name="device/ti/proprietary-open" revision="bc124e6ff68bc49627cd2a8421e4ef37d5cd57e7"/>
+  <project name="device/ti/proprietary-open" revision="8a37c5fa842b27861dda3ef3c2cc126e3c270b41"/>
   <project name="device/ti/zoom2" revision="befa8e3ad49a0e95dbd7a9e16f2dafb36088a26d"/>
   <project name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
   <project name="platform/bionic" path="bionic" revision="4a380c2afbcc174c1412e3377a647b953025f8da"/>
@@ -161,7 +161,7 @@
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project name="platform/frameworks/base" path="frameworks/base" revision="2d373d854ed5845a7bab9a15bfa49056df3b8d13"/>
+  <project name="platform/frameworks/base" path="frameworks/base" revision="a91c5db6da2ef8dc110fc588e50276f5ad496a1e"/>
   <project name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="9f4c28af2b830f6400c32d1f481e680346bbf33f"/>
   <project name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
