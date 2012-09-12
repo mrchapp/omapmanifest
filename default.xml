@@ -136,7 +136,7 @@
   <project groups="default" name="platform/external/quake" path="external/quake" revision="72ba5ff08b2ee59f79ba674aa47542e44b9ff539"/>
   <project groups="default" name="platform/external/replicaisland" path="external/replicaisland" revision="bf8b8c8eae8f7df938db8194854d48a57cc3102e"/>
   <project groups="default" name="platform/external/safe-iop" path="external/safe-iop" revision="07073634e2e3aa4f518e36ed5dec3aabc549d5fb"/>
-  <project groups="default" name="platform/external/skia" path="external/skia" revision="a3b8d9550895fcded7f3062decba3556dc2e60c9"/>
+  <project groups="default" name="platform/external/skia" path="external/skia" revision="0c07e258cf180ba1bd180fe4f2444a53eb521edd"/>
   <project groups="default" name="platform/external/sonivox" path="external/sonivox" revision="5f9600971859fe072f31b38a51c38157f5f9b381"/>
   <project groups="default" name="platform/external/speex" path="external/speex" revision="e7714d0538c5aa34666a1c58d033760498c5b61b"/>
   <project groups="default" name="platform/external/sqlite" path="external/sqlite" revision="488d783673190a2d9eece46eb0255587ebdfe6e5"/>
@@ -161,7 +161,7 @@
   <project groups="default" name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project groups="default" name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project groups="default" name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project groups="default" name="platform/frameworks/base" path="frameworks/base" revision="61b455818de75c6294833b9de0f4cf53d415a315"/>
+  <project groups="default" name="platform/frameworks/base" path="frameworks/base" revision="b66ff4450626fba183fa389ebb1b47798d457a7d"/>
   <project groups="default" name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project groups="default" name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="bc783305bd8841f5f5f97bbfb1a31b56d322403a"/>
   <project groups="default" name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
@@ -183,7 +183,7 @@
   <project groups="default" name="platform/hardware/ril" path="hardware/ril" revision="300105d1487f5238940c18792b879793826b61f4"/>
   <project groups="default" name="platform/hardware/ti/domx" path="hardware/ti/domx" revision="37c647fbfab52f3c40918fed1a5d117510dbb406"/>
   <project groups="default" name="platform/hardware/ti/omap3" path="hardware/ti/omap3" revision="741e2586534c1f1a964bad49f08952ebe8a78606"/>
-  <project groups="default" name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="d2190931d1cd212c13f258a5b5b7fc1208e01a47"/>
+  <project groups="default" name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" revision="5bfc2255e2da458c190f9645d6e9060807fe908a"/>
   <project groups="default" name="platform/hardware/ti/wlan" path="hardware/ti/wlan" revision="416e9c331218b57912ae3f67a3ddb249a98c8340"/>
   <project groups="default" name="platform/hardware/ti/wpan" path="hardware/ti/wpan" revision="029ad34438cb0983bad5d411c01281d9e653f5b0"/>
   <project groups="default" name="platform/libcore-snapshot" path="libcore" revision="5cc98163514f37956164f7fe8f93035f34be7c80"/>
