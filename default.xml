@@ -161,7 +161,7 @@
   <project groups="default" name="platform/external/xmlwriter" path="external/xmlwriter" revision="e95d92246ee35273dde2bee8b00485cc14c12be5"/>
   <project groups="default" name="platform/external/yaffs2" path="external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project groups="default" name="platform/external/zlib" path="external/zlib" revision="69e5801bd16a495e1c1666669fe827b1ddb8d56b"/>
-  <project groups="default" name="platform/frameworks/base" path="frameworks/base" revision="d3eb2b90198c91e1eefec2bab962333e4939330f"/>
+  <project groups="default" name="platform/frameworks/base" path="frameworks/base" revision="61b455818de75c6294833b9de0f4cf53d415a315"/>
   <project groups="default" name="platform/frameworks/compile/libbcc" path="frameworks/compile/libbcc" revision="0164f4647511a71f5b495a3bef156e3ac4e6c6b3"/>
   <project groups="default" name="platform/frameworks/compile/linkloader" path="frameworks/compile/linkloader" revision="bc783305bd8841f5f5f97bbfb1a31b56d322403a"/>
   <project groups="default" name="platform/frameworks/compile/slang" path="frameworks/compile/slang" revision="b0f6fa02adb7ad751bcaef5e95c46599ca8b3443"/>
