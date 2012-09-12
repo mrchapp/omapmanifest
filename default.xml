@@ -26,7 +26,7 @@
   <project groups="default" name="device/ti/proprietary-open" revision="8d41e3c9282905db3b6c11d70b59ac46bfba8839"/>
   <project groups="default" name="device/ti/zoom2" revision="befa8e3ad49a0e95dbd7a9e16f2dafb36088a26d"/>
   <project groups="default" name="platform/abi/cpp" path="abi/cpp" revision="6426040f1be4a844082c9769171ce7f5341a5528"/>
-  <project groups="default" name="platform/bionic" path="bionic" revision="fbcd518ca8ddacd529873463d2a4c538b8af0d80"/>
+  <project groups="default" name="platform/bionic" path="bionic" revision="1b3dea799894074df9788a23a7906803128a6ab8"/>
   <project groups="default" name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="d3271024770ddcc2fb87dd22f8280764545ab05a"/>
   <project groups="default" name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="411bb9df76e5b21affae73f076e5d292197b66be"/>
   <project groups="default" name="platform/bootable/recovery" path="bootable/recovery" revision="d0181b8fcdac761afec252151a8bfda116916e96"/>
@@ -96,7 +96,7 @@
   <project groups="default" name="platform/external/jsilver" path="external/jsilver" revision="a618b151d54625078424bc5940f6bfd63344d11b"/>
   <project groups="default" name="platform/external/jsr305" path="external/jsr305" revision="100f99d625909fd17a722a0ed0148549afd55cf8"/>
   <project groups="default" name="platform/external/junit" path="external/junit" revision="b8ee2b059bd6a2fbb8618aa17b64fb921d6df00f"/>
-  <project groups="default" name="platform/external/kernel-headers" path="external/kernel-headers" revision="777d9f3d4bdcbcf281dd17ab237cbc8957de0ed7"/>
+  <project groups="default" name="platform/external/kernel-headers" path="external/kernel-headers" revision="e4fc530ca782017b96ecec311d3d62ee4fe9a833"/>
   <project groups="default" name="platform/external/libffi" path="external/libffi" revision="5dea54fd57265ce037ac94055b9f94a45558b39e"/>
   <project groups="default" name="platform/external/libgsm" path="external/libgsm" revision="5e4516958690b9a1b2c98f88eeecba3edd2dbda4"/>
   <project groups="default" name="platform/external/liblzf" path="external/liblzf" revision="6946aa575b0949d045722794850896099d937cbb"/>
