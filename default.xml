@@ -20,7 +20,7 @@
   <project groups="default" name="device/samsung/tuna" revision="0e6a87b48c279fd3bf1f2611b19c8818b0b0d09d"/>
   <project groups="default" name="device/ti/blaze" revision="3172b7c30e620c9bd6660e28a7bedaf35d41d4a5"/>
   <project groups="default" name="device/ti/blaze_tablet" revision="294a612163800ec61cb854a5b0ff23733479879b"/>
-  <project groups="default" name="device/ti/common-open" revision="2feb0f7000d3f8aa67b4a123cd6ee7184e114d72"/>
+  <project groups="default" name="device/ti/common-open" revision="e9baca093c0686c7caf18125134c945017e6f30e"/>
   <project groups="default" name="device/ti/omap5sevm" revision="dac1a8699719b879f96af206f45905a359a43397"/>
   <project groups="default" name="device/ti/panda" revision="bdb6f695bd8f93e5e8db97b3ee15b1992837e6bf"/>
   <project groups="default" name="device/ti/proprietary-open" revision="8d41e3c9282905db3b6c11d70b59ac46bfba8839"/>
